@@ -7,3 +7,8 @@ html{scroll-behavior:smooth}
 .mf-dark .filmbg::after{opacity:.14;mix-blend-mode:screen}
 @keyframes grain-move{0%{transform:translate(0,0)}17%{transform:translate(-5%,-10%)}33%{transform:translate(-15%,5%)}50%{transform:translate(7%,-25%)}67%{transform:translate(-5%,25%)}83%{transform:translate(15%,0)}100%{transform:translate(0,0)}}
 @media (prefers-reduced-motion: reduce){.filmbg::after{animation:none}}
+/* Mesmo grão de TV nas barras laterais */
+.bar::after{content:"";position:absolute;inset:-50%;width:200%;height:200%;pointer-events:none;
+  background-image:url("assets/grain.png");background-size:200px 200px;image-rendering:pixelated;
+  mix-blend-mode:overlay;opacity:.55;animation:grain-move .5s steps(6) infinite}
+@media (prefers-reduced-motion: reduce){.bar::after{animation:none}}
