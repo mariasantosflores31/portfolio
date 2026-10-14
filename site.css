@@ -64,3 +64,12 @@ html,body{overflow-x:hidden}
   /* intro */
   .intro-in{width:94vw}
 }
+/* Sobre: data/título em estilo de câmara digital */
+.slides .stamp{position:absolute;top:8px;right:10px;z-index:3;font-family:'VT323','Courier New',monospace;font-size:15px;letter-spacing:.06em;line-height:1;
+  color:#ffb15a;text-shadow:0 0 2px #ff7a1a,0 0 6px rgba(255,122,26,.75),0 0 12px rgba(255,90,0,.45);text-transform:uppercase;white-space:nowrap;transition:opacity .6s ease}
+/* Sobre: grão por cima de toda a página */
+.pg-sobre .mf::before{content:"";position:fixed;inset:-50%;width:200%;height:200%;z-index:5;pointer-events:none;
+  background-image:url("assets/grain.png");background-size:200px 200px;animation:grain-move .5s steps(6) infinite}
+.pg-sobre .mf-light::before{opacity:.12;mix-blend-mode:multiply}
+.pg-sobre .mf-dark::before{opacity:.09;mix-blend-mode:screen}
+@media (prefers-reduced-motion: reduce){.pg-sobre .mf::before{animation:none}}

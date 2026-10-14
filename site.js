@@ -94,12 +94,15 @@
 
   // ---- Sobre: fotos a passar ----
   document.querySelectorAll('[data-slideshow]').forEach(function (box) {
-    var imgs = box.querySelectorAll('img'), k = 0;
+    var imgs = box.querySelectorAll('img'), k = 0, stamp = box.querySelector('.stamp');
+    var label = function () { if (stamp) stamp.textContent = (imgs[k].getAttribute('data-proj') || '').toUpperCase(); };
+    label();
     if (imgs.length < 2) return;
     setInterval(function () {
       imgs[k].classList.remove('on');
       k = (k + 1) % imgs.length;
       imgs[k].classList.add('on');
+      label();
     }, 3500);
   });
 })();
