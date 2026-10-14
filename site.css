@@ -75,9 +75,9 @@ html,body{overflow-x:hidden}
 @media (prefers-reduced-motion: reduce){.pg-sobre .mf::before{animation:none}}
 
 /* Último Canto: título com grão e brilho + legendas em máquina de escrever limpa */
-.lt-uc{margin:10px 0 0;font-family:'Fredoka',sans-serif;font-weight:700;font-size:108px;letter-spacing:-.04em;line-height:1;filter:url(#ink2);position:relative}
-.mf-light .lt-uc{color:#141210;text-shadow:0 0 4px rgba(120,80,40,.35),0 0 14px rgba(160,110,60,.25)}
-.mf-dark .lt-uc{color:#f3ead8;text-shadow:0 0 6px rgba(255,236,200,.55),0 0 18px rgba(255,214,160,.35),0 0 40px rgba(255,190,120,.22)}
+.lt-uc{margin:6px 0 0;padding:6px 6px 6px 0;font-family:'Instrument Serif',Georgia,serif;font-weight:400;font-size:132px;letter-spacing:-.01em;line-height:1.02}
+.mf-light .lt-uc{color:#3b2416;filter:url(#sprayL)}
+.mf-dark .lt-uc{color:#f3ead8;filter:url(#sprayD) drop-shadow(0 0 8px rgba(255,214,160,.45))}
 .lt-sub{display:flex;justify-content:space-between;gap:24px;max-width:620px;margin-top:18px;font-family:'Courier Prime','Courier New',monospace;font-size:12px;letter-spacing:.08em;text-transform:uppercase;line-height:1.35}
 .mf-dark .lt-sub{text-shadow:0 0 6px rgba(255,230,190,.5)}
 .pg-uc .mf section h3,
@@ -85,4 +85,4 @@ html,body{overflow-x:hidden}
 .pg-uc .mf span[style*="border-radius: 999px"],
 .pg-uc .mf h2{font-family:'Courier Prime','Courier New',monospace !important}
 .pg-uc .mf section h3{font-weight:700 !important;letter-spacing:.04em}
-@media (max-width:760px){.lt-uc{font-size:60px !important}.lt-sub{font-size:10px}}
+@media (max-width:760px){.lt-uc{font-size:72px !important}.lt-sub{font-size:10px}}
