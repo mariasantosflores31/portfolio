@@ -1,0 +1,23 @@
+name: Importar fotos do Google Drive
+on:
+  workflow_dispatch:
+  push:
+    paths: ['tools/drive.txt', '.github/workflows/import-drive.yml']
+permissions:
+  contents: write
+jobs:
+  importar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install gdown
+      - run: |
+          mkdir -p import/drive
+          gdown --folder "$(head -1 tools/drive.txt)" -O import/drive --remaining-ok > import/drive-log.txt 2>&1 || true
+          find import/drive -type f | sort >> import/drive-log.txt
+      - run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add import
+          git commit -m "Importar fotos do Google Drive" || echo "nada novo"
+          git push
