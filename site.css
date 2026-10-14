@@ -9,6 +9,6 @@ html{scroll-behavior:smooth}
 @media (prefers-reduced-motion: reduce){.filmbg::after{animation:none}}
 /* Mesmo grão de TV nas barras laterais */
 .bar::after{content:"";position:absolute;inset:-50%;width:200%;height:200%;pointer-events:none;
-  background-image:url("assets/grain.png");background-size:200px 200px;image-rendering:pixelated;
-  mix-blend-mode:overlay;opacity:.55;animation:grain-move .5s steps(6) infinite}
+  background-image:url("assets/grain.png");background-size:100px 100px;
+  mix-blend-mode:overlay;opacity:.45;animation:grain-move .5s steps(6) infinite}
 @media (prefers-reduced-motion: reduce){.bar::after{animation:none}}
