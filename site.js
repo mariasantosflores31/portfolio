@@ -91,4 +91,15 @@
     show(0);
     restart();
   }
+
+  // ---- Sobre: fotos a passar ----
+  document.querySelectorAll('[data-slideshow]').forEach(function (box) {
+    var imgs = box.querySelectorAll('img'), k = 0;
+    if (imgs.length < 2) return;
+    setInterval(function () {
+      imgs[k].classList.remove('on');
+      k = (k + 1) % imgs.length;
+      imgs[k].classList.add('on');
+    }, 3500);
+  });
 })();
