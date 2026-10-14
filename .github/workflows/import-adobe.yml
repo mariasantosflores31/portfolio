@@ -1,0 +1,19 @@
+name: Importar portfolio antigo
+on:
+  workflow_dispatch:
+  push:
+    paths: ['tools/import_adobe.py', '.github/workflows/import-adobe.yml']
+permissions:
+  contents: write
+jobs:
+  importar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 tools/import_adobe.py
+      - run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add import
+          git commit -m "Importar imagens e textos do portfolio antigo" || echo "nada novo"
+          git push
