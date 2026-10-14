@@ -31,27 +31,34 @@ def best(tag):
         if m and 'cdn.myportfolio.com' in m.group(1):
             return html.unescape(m.group(1))
     return None
+import traceback
+os.makedirs('import', exist_ok=True)
+LOG = open('import/log.txt', 'w')
 for slug, path in PAGES.items():
-    out = os.path.join('import', slug)
-    os.makedirs(out, exist_ok=True)
-    page = get(BASE + path).decode('utf-8', 'replace')
-    open(os.path.join(out, 'page.html'), 'w').write(page)
-    # conteúdo do projeto termina antes de "You may also like"
-    cut = page.find('other-projects')
-    body = page[:cut] if cut > 0 else page
-    seen, n, log = set(), 0, []
-    for m in re.finditer(r'<img\b[^>]*>', body):
-        url = best(m.group(0))
-        if not url or url in seen or 'cdn.myportfolio.com' not in url:
-            continue
-        seen.add(url); n += 1
-        ext = re.search(r'\.(jpe?g|png|gif|webp)', url.lower())
-        ext = ext.group(1) if ext else 'jpg'
-        fn = '%02d.%s' % (n, ext)
-        try:
-            open(os.path.join(out, fn), 'wb').write(get(url))
-            log.append({'file': fn, 'url': url})
-        except Exception as e:
-            log.append({'file': None, 'url': url, 'error': str(e)})
-    json.dump(log, open(os.path.join(out, 'images.json'), 'w'), indent=1)
-    print(slug, n, 'imagens')
+  try:
+      out = os.path.join('import', slug)
+      os.makedirs(out, exist_ok=True)
+      page = get(BASE + path).decode('utf-8', 'replace')
+      open(os.path.join(out, 'page.html'), 'w').write(page)
+      # conteúdo do projeto termina antes de "You may also like"
+      cut = page.find('other-projects')
+      body = page[:cut] if cut > 0 else page
+      seen, n, log = set(), 0, []
+      for m in re.finditer(r'<img\b[^>]*>', body):
+          url = best(m.group(0))
+          if not url or url in seen or 'cdn.myportfolio.com' not in url:
+              continue
+          seen.add(url); n += 1
+          ext = re.search(r'\.(jpe?g|png|gif|webp)', url.lower())
+          ext = ext.group(1) if ext else 'jpg'
+          fn = '%02d.%s' % (n, ext)
+          try:
+              open(os.path.join(out, fn), 'wb').write(get(url))
+              log.append({'file': fn, 'url': url})
+          except Exception as e:
+              log.append({'file': None, 'url': url, 'error': str(e)})
+      json.dump(log, open(os.path.join(out, 'images.json'), 'w'), indent=1)
+      print(slug, n, 'imagens'); LOG.write('%s %d imagens\n' % (slug, n))
+  except Exception:
+    LOG.write(slug + '\n' + traceback.format_exc() + '\n')
+  LOG.flush()
