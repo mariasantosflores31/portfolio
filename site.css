@@ -91,4 +91,4 @@ html,body{overflow-x:hidden}
 /* Último Canto: toda a página na letra de máquina de escrever da legenda (exceto o título) */
 .pg-uc .mf, .pg-uc .mf *:not(.lt-uc){font-family:'Courier Prime','Courier New',monospace !important}
 .pg-uc .mf p, .pg-uc .mf [style*="font-size: 22px; line-height: 1.4"]{letter-spacing:0;line-height:1.65 !important}
-.pg-uc .mf [style*="font-size: 22px; line-height: 1.4"]{font-size:15px !important}
+.pg-uc .mf [style*="font-size: 22px; line-height: 1.4"]{font-size:13px !important}
