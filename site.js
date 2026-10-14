@@ -77,6 +77,7 @@
       set('n', String(i + 1).padStart(2, '0'));
       set('label', '[corte do reel · ' + c.titulo + ']');
       document.querySelectorAll('[data-cur-bg]').forEach(function (el) { el.style.background = c[el.getAttribute('data-cur-bg')]; });
+      document.querySelectorAll('[data-cur-img]').forEach(function (el) { el.src = 'assets/covers/' + c.href.replace('.html', '') + '.webp'; el.alt = 'Fotograma de ' + c.titulo; });
       document.querySelectorAll('[data-cur-href]').forEach(function (el) { el.setAttribute('href', c.href); });
       if (PAL[i]) {
         PAL[i].forEach(function (col, k) { document.documentElement.style.setProperty('--b' + k, col); });
