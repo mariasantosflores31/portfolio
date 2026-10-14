@@ -1,7 +1,296 @@
-usage: gdown [-h] [-V] [-O OUTPUT] [-q] [--proxy PROXY] [--speed SPEED]
-             [--cookies FILE] [--cookies-from-browser BROWSER] [--no-cookies]
-             [--no-check-certificate] [--continue] [--retries N] [--folder]
-             [--json] [--format FORMAT] [--user-agent USER_AGENT]
-             [--timeout SECONDS]
-             url_or_id
-gdown: error: unrecognized arguments: --remaining-ok
+warning: `--folder` is no longer required for folder URLs and will be removed in a future release
+Retrieving folder contents
+Retrieving folder contents completed
+Building directory structure
+Building directory structure completed
+Downloading...
+From: https://drive.google.com/uc?id=18vY77OzetIp71cVfBgM2ntTPVpy13FQw
+To: /home/runner/work/portfolio/portfolio/import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 20.52.55.png
+Retrieving folder 15bajeV_W5EV7E82Oc3WEE9EBN-rrb-Bo FALTA SEMPRE QUALQUER COISA
+Processing file 18vY77OzetIp71cVfBgM2ntTPVpy13FQw Captura de ecrã 2026-07-06, às 20.52.55.png
+Processing file 1Qnv6a_ApRVqD_05ybAsMvELWMai4gZr6 Captura de ecrã 2026-07-06, às 20.53.08.png
+Processing file 1GzJZQVNwYTK_m04qXsgOUt1mWCcKHSaz Captura de ecrã 2026-07-06, às 20.53.18.png
+Processing file 1Oy-u5p04eMCvDtpcjjRW2_DJOPWigx56 Captura de ecrã 2026-07-06, às 20.53.39.png
+Processing file 1fHvg4qbsmHKkeOG7RkGZq-LBb3Z4pWoi Captura de ecrã 2026-07-06, às 20.53.56.png
+Processing file 1gcrZ1XUHcImeNP1_dFZu6uSVApLa_ZBv Captura de ecrã 2026-07-06, às 20.54.14.png
+Processing file 1EwlVgo9ByT47_srkMmPiEeNTxB9hOlxW Captura de ecrã 2026-07-06, às 20.54.26.png
+Processing file 1mn8AF_6RLfGOG3y3dmJC5ZVlhi2ikkPb Captura de ecrã 2026-07-06, às 20.54.41.png
+Processing file 1OhYkS9EpNcdkBORchtaAcCOYqnCq610D Captura de ecrã 2026-07-06, às 20.54.44.png
+Processing file 1wzXvVOTkoFdcK2wmLaZWR3fbMKGmAJF3 Captura de ecrã 2026-07-06, às 20.54.58.png
+Processing file 16R0entOCbSkTZnFZv7WwTudWIFS9Rw1x Captura de ecrã 2026-07-06, às 20.55.07.png
+Processing file 1gcZfjFGrmwFj-bmeJfr12LxrKHMSc810 Captura de ecrã 2026-07-06, às 20.55.19.png
+Processing file 1tdGnaLmg0DRYuENMguqHqnI_tEGqzScP Captura de ecrã 2026-07-06, às 20.55.55.png
+Processing file 1kGbzPo9WYmKm4B4JPxeYSDw6ROTYvEn0 Captura de ecrã 2026-07-06, às 20.56.49.png
+Processing file 1lyY4qDK3O-k9fne6c5VZqS6U81oU9Lbc Captura de ecrã 2026-07-06, às 20.56.57.png
+Processing file 1FW8aQraaSzfYW0_i08hBibtubdQUbz2- Captura de ecrã 2026-07-06, às 20.57.00.png
+Processing file 18XasWVWhcuar1Sw6AIaNV_bK1MFgrVx2 Captura de ecrã 2026-07-06, às 20.57.20.png
+Processing file 1b8RUhBYgq29OM9mbXUZjoa68P_kbtQ6c Captura de ecrã 2026-07-06, às 20.57.41.png
+Processing file 1xEJmiK6ENNVX7phX27PIGEl_PrzfT2PW Captura de ecrã 2026-07-06, às 20.58.04.png
+Processing file 1MpMMxnYmHTXTMeFcmjuIF0pbnfS_rMq9 Captura de ecrã 2026-07-06, às 22.23.05.png
+Processing file 1z4-l1nbKD94pFtfMCxIE_w8Xh9ORjBiJ Captura de ecrã 2026-07-06, às 22.23.12.png
+Processing file 1OEOEtcCnsQ1Dvr464h_FBZ_ZsK0ZGQKd Captura de ecrã 2026-07-06, às 22.23.20.png
+Processing file 1y-YmaHuqKaI-7j410uf6g1VxN_OH-GTM Captura de ecrã 2026-07-06, às 22.23.37.png
+Processing file 1QAJIZgwEZ4SYbAMS07c6IafLszgv5dod Captura de ecrã 2026-07-06, às 22.23.43.png
+Processing file 10XDL8I7R814lR7Lh_VklY7YoLd7YrO3E Captura de ecrã 2026-07-06, às 22.24.11.png
+Processing file 1XD7zBRVq-PMwew6aTLb4WikWJB-bKVbQ Captura de ecrã 2026-07-06, às 22.24.31.png
+Processing file 1jSxdsLYLE4Bx87NxC2QZng0h_73tDjjY Captura de ecrã 2026-07-06, às 22.24.52.png
+Processing file 1359g9dhU5rToMt6cIMyKQ7NuCXcbC3Y0 Captura de ecrã 2026-07-06, às 22.25.04.png
+Processing file 1VGoswlGgSVu2Y1_1PlobtcWGAG9HA72i Captura de ecrã 2026-07-06, às 22.25.19.png
+Processing file 1W2sUtjgB4ivAXnm6mzgBQp5Qwq6wT256 Captura de ecrã 2026-07-06, às 22.25.46.png
+Processing file 1GFHPUafBbYpodymWNSblevyQO6FpQaKI Captura de ecrã 2026-07-06, às 22.25.57.png
+Processing file 1EHQGeG73t0OXFkGGjgv6MyNLWoFT8xkC Captura de ecrã 2026-07-06, às 22.26.11.png
+Processing file 1RTQyYXkW1GruuNBlc-8JQFhZNDAepmPn Captura de ecrã 2026-07-06, às 22.26.37.png
+Retrieving folder 1gIOwaJ5llB7D1XtBbxG4_MsPeutiS-_I So
+Processing file 1IF5F2_Xf9gSndzlgY3XH-N-8TxBFhJhw Captura de ecrã 2025-07-27, às 22.12.16.png
+Processing file 1PMa8UtmWFiR-IhFCKUd2A5CQx9kEYzys Captura de ecrã 2025-07-27, às 22.17.01.png
+Processing file 1vPNn4pecpx0THYqY_-vcaUxBmWMqPEQz Captura de ecrã 2025-07-27, às 22.17.37.png
+Processing file 1vnSgj_gwDPiikN6vxTNLTgV3D2Roagku Still 2025-05-09 111402_1.1.1.jpg
+Processing file 1u4B03cnzxQmsa1Xzyl0KVMyrDMarg6MG Still 2025-05-09 111402_1.1.10.jpg
+Processing file 1xsPJAlWbGcp_7iI1IhL6JFA5Ck5TyWXl Still 2025-05-09 111402_1.1.11.jpg
+Processing file 1VEejFT_kxOK-bDAeWtSs2qLyIQKiUz8z Still 2025-05-09 111402_1.1.2.jpg
+Processing file 1sGxGaGNYFC36KxX6hyiHbp8sWUoovU9x Still 2025-05-09 111402_1.1.3.jpg
+Processing file 1yEfDm6-mYXgGOHB8Y8ciPCN0mkc7ngiF Still 2025-05-09 111402_1.1.4.jpg
+Processing file 1Bd7yjkCqht4K5uscYG6R8q5fTpeTWjSO Still 2025-05-09 111402_1.1.5.jpg
+Processing file 1W2b56TAZ8DdWZge88jYNWqtMrIiqzqi7 Still 2025-05-09 111402_1.1.6.jpg
+Processing file 1aQLuOjTcnJNjaI9jMeTs8E2mI5usYmkT Still 2025-05-09 111402_1.1.7.jpg
+Processing file 10R7KCNvDIlaxxHQWtPhTa2Z2H5Ts_4o6 Still 2025-05-09 111402_1.1.8.jpg
+Processing file 1vZagGk1CxXG6y7gY7DU1L_BZuw0dmlTr Still 2025-05-09 111402_1.1.9.jpg
+Processing file 1xsTXdTjxDnrBhJxmUotvNYoKe_8niEco WhatsApp Image 2025-07-27 at 18.13.16.jpeg
+  0%|          | 0.00/2.81M [00:00<?, ?B/s]100%|██████████| 2.81M/2.81M [00:00<00:00, 31.9MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1Qnv6a_ApRVqD_05ybAsMvELWMai4gZr6
+To: /home/runner/work/portfolio/portfolio/import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 20.53.08.png
+  0%|          | 0.00/2.37M [00:00<?, ?B/s]100%|██████████| 2.37M/2.37M [00:00<00:00, 29.3MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1GzJZQVNwYTK_m04qXsgOUt1mWCcKHSaz
+To: /home/runner/work/portfolio/portfolio/import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 20.53.18.png
+  0%|          | 0.00/2.82M [00:00<?, ?B/s]100%|██████████| 2.82M/2.82M [00:00<00:00, 55.8MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1Oy-u5p04eMCvDtpcjjRW2_DJOPWigx56
+To: /home/runner/work/portfolio/portfolio/import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 20.53.39.png
+  0%|          | 0.00/2.71M [00:00<?, ?B/s] 97%|█████████▋| 2.62M/2.71M [00:00<00:00, 21.9MB/s]100%|██████████| 2.71M/2.71M [00:00<00:00, 22.5MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1fHvg4qbsmHKkeOG7RkGZq-LBb3Z4pWoi
+To: /home/runner/work/portfolio/portfolio/import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 20.53.56.png
+  0%|          | 0.00/2.70M [00:00<?, ?B/s]100%|██████████| 2.70M/2.70M [00:00<00:00, 30.2MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1gcrZ1XUHcImeNP1_dFZu6uSVApLa_ZBv
+To: /home/runner/work/portfolio/portfolio/import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 20.54.14.png
+  0%|          | 0.00/2.37M [00:00<?, ?B/s] 44%|████▍     | 1.05M/2.37M [00:00<00:00, 9.78MB/s]100%|██████████| 2.37M/2.37M [00:00<00:00, 17.7MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1EwlVgo9ByT47_srkMmPiEeNTxB9hOlxW
+To: /home/runner/work/portfolio/portfolio/import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 20.54.26.png
+  0%|          | 0.00/2.58M [00:00<?, ?B/s]100%|██████████| 2.58M/2.58M [00:00<00:00, 78.5MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1mn8AF_6RLfGOG3y3dmJC5ZVlhi2ikkPb
+To: /home/runner/work/portfolio/portfolio/import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 20.54.41.png
+  0%|          | 0.00/2.15M [00:00<?, ?B/s]100%|██████████| 2.15M/2.15M [00:00<00:00, 25.1MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1OhYkS9EpNcdkBORchtaAcCOYqnCq610D
+To: /home/runner/work/portfolio/portfolio/import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 20.54.44.png
+  0%|          | 0.00/2.58M [00:00<?, ?B/s]100%|██████████| 2.58M/2.58M [00:00<00:00, 14.9MB/s]100%|██████████| 2.58M/2.58M [00:00<00:00, 14.9MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1wzXvVOTkoFdcK2wmLaZWR3fbMKGmAJF3
+To: /home/runner/work/portfolio/portfolio/import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 20.54.58.png
+  0%|          | 0.00/2.43M [00:00<?, ?B/s] 65%|██████▍   | 1.57M/2.43M [00:00<00:00, 14.2MB/s]100%|██████████| 2.43M/2.43M [00:00<00:00, 15.7MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=16R0entOCbSkTZnFZv7WwTudWIFS9Rw1x
+To: /home/runner/work/portfolio/portfolio/import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 20.55.07.png
+  0%|          | 0.00/2.51M [00:00<?, ?B/s]100%|██████████| 2.51M/2.51M [00:00<00:00, 53.4MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1gcZfjFGrmwFj-bmeJfr12LxrKHMSc810
+To: /home/runner/work/portfolio/portfolio/import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 20.55.19.png
+  0%|          | 0.00/2.76M [00:00<?, ?B/s]100%|██████████| 2.76M/2.76M [00:00<00:00, 65.1MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1tdGnaLmg0DRYuENMguqHqnI_tEGqzScP
+To: /home/runner/work/portfolio/portfolio/import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 20.55.55.png
+  0%|          | 0.00/2.42M [00:00<?, ?B/s]100%|██████████| 2.42M/2.42M [00:00<00:00, 27.3MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1kGbzPo9WYmKm4B4JPxeYSDw6ROTYvEn0
+To: /home/runner/work/portfolio/portfolio/import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 20.56.49.png
+  0%|          | 0.00/2.43M [00:00<?, ?B/s] 65%|██████▍   | 1.57M/2.43M [00:00<00:00, 14.9MB/s]100%|██████████| 2.43M/2.43M [00:00<00:00, 20.6MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1lyY4qDK3O-k9fne6c5VZqS6U81oU9Lbc
+To: /home/runner/work/portfolio/portfolio/import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 20.56.57.png
+  0%|          | 0.00/2.58M [00:00<?, ?B/s]100%|██████████| 2.58M/2.58M [00:00<00:00, 28.8MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1FW8aQraaSzfYW0_i08hBibtubdQUbz2-
+To: /home/runner/work/portfolio/portfolio/import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 20.57.00.png
+  0%|          | 0.00/2.10M [00:00<?, ?B/s]100%|██████████| 2.10M/2.10M [00:00<00:00, 24.4MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=18XasWVWhcuar1Sw6AIaNV_bK1MFgrVx2
+To: /home/runner/work/portfolio/portfolio/import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 20.57.20.png
+  0%|          | 0.00/2.40M [00:00<?, ?B/s] 66%|██████▌   | 1.57M/2.40M [00:00<00:00, 15.0MB/s]100%|██████████| 2.40M/2.40M [00:00<00:00, 20.4MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1b8RUhBYgq29OM9mbXUZjoa68P_kbtQ6c
+To: /home/runner/work/portfolio/portfolio/import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 20.57.41.png
+  0%|          | 0.00/2.00M [00:00<?, ?B/s]100%|██████████| 2.00M/2.00M [00:00<00:00, 49.7MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1xEJmiK6ENNVX7phX27PIGEl_PrzfT2PW
+To: /home/runner/work/portfolio/portfolio/import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 20.58.04.png
+  0%|          | 0.00/1.99M [00:00<?, ?B/s]100%|██████████| 1.99M/1.99M [00:00<00:00, 54.7MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1MpMMxnYmHTXTMeFcmjuIF0pbnfS_rMq9
+To: /home/runner/work/portfolio/portfolio/import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 22.23.05.png
+  0%|          | 0.00/1.88M [00:00<?, ?B/s]100%|██████████| 1.88M/1.88M [00:00<00:00, 22.6MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1z4-l1nbKD94pFtfMCxIE_w8Xh9ORjBiJ
+To: /home/runner/work/portfolio/portfolio/import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 22.23.12.png
+  0%|          | 0.00/2.54M [00:00<?, ?B/s] 62%|██████▏   | 1.57M/2.54M [00:00<00:00, 15.6MB/s]100%|██████████| 2.54M/2.54M [00:00<00:00, 21.3MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1OEOEtcCnsQ1Dvr464h_FBZ_ZsK0ZGQKd
+To: /home/runner/work/portfolio/portfolio/import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 22.23.20.png
+  0%|          | 0.00/2.01M [00:00<?, ?B/s]100%|██████████| 2.01M/2.01M [00:00<00:00, 42.4MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1y-YmaHuqKaI-7j410uf6g1VxN_OH-GTM
+To: /home/runner/work/portfolio/portfolio/import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 22.23.37.png
+  0%|          | 0.00/2.63M [00:00<?, ?B/s]100%|█████████▉| 2.62M/2.63M [00:00<00:00, 24.7MB/s]100%|██████████| 2.63M/2.63M [00:00<00:00, 24.7MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1QAJIZgwEZ4SYbAMS07c6IafLszgv5dod
+To: /home/runner/work/portfolio/portfolio/import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 22.23.43.png
+  0%|          | 0.00/3.19M [00:00<?, ?B/s]100%|██████████| 3.19M/3.19M [00:00<00:00, 33.6MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=10XDL8I7R814lR7Lh_VklY7YoLd7YrO3E
+To: /home/runner/work/portfolio/portfolio/import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 22.24.11.png
+  0%|          | 0.00/2.90M [00:00<?, ?B/s] 72%|███████▏  | 2.10M/2.90M [00:00<00:00, 18.2MB/s]100%|██████████| 2.90M/2.90M [00:00<00:00, 14.7MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1XD7zBRVq-PMwew6aTLb4WikWJB-bKVbQ
+To: /home/runner/work/portfolio/portfolio/import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 22.24.31.png
+  0%|          | 0.00/4.24M [00:00<?, ?B/s]100%|██████████| 4.24M/4.24M [00:00<00:00, 35.4MB/s]100%|██████████| 4.24M/4.24M [00:00<00:00, 35.3MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1jSxdsLYLE4Bx87NxC2QZng0h_73tDjjY
+To: /home/runner/work/portfolio/portfolio/import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 22.24.52.png
+  0%|          | 0.00/1.99M [00:00<?, ?B/s]100%|██████████| 1.99M/1.99M [00:00<00:00, 23.5MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1359g9dhU5rToMt6cIMyKQ7NuCXcbC3Y0
+To: /home/runner/work/portfolio/portfolio/import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 22.25.04.png
+  0%|          | 0.00/2.40M [00:00<?, ?B/s]100%|██████████| 2.40M/2.40M [00:00<00:00, 27.1MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1VGoswlGgSVu2Y1_1PlobtcWGAG9HA72i
+To: /home/runner/work/portfolio/portfolio/import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 22.25.19.png
+  0%|          | 0.00/2.87M [00:00<?, ?B/s]100%|██████████| 2.87M/2.87M [00:00<00:00, 30.7MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1W2sUtjgB4ivAXnm6mzgBQp5Qwq6wT256
+To: /home/runner/work/portfolio/portfolio/import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 22.25.46.png
+  0%|          | 0.00/2.26M [00:00<?, ?B/s] 46%|████▋     | 1.05M/2.26M [00:00<00:00, 9.76MB/s]100%|██████████| 2.26M/2.26M [00:00<00:00, 12.2MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1GFHPUafBbYpodymWNSblevyQO6FpQaKI
+To: /home/runner/work/portfolio/portfolio/import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 22.25.57.png
+  0%|          | 0.00/2.49M [00:00<?, ?B/s]100%|██████████| 2.49M/2.49M [00:00<00:00, 27.6MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1EHQGeG73t0OXFkGGjgv6MyNLWoFT8xkC
+To: /home/runner/work/portfolio/portfolio/import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 22.26.11.png
+  0%|          | 0.00/2.82M [00:00<?, ?B/s] 37%|███▋      | 1.05M/2.82M [00:00<00:00, 9.83MB/s]100%|██████████| 2.82M/2.82M [00:00<00:00, 20.0MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1RTQyYXkW1GruuNBlc-8JQFhZNDAepmPn
+To: /home/runner/work/portfolio/portfolio/import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 22.26.37.png
+  0%|          | 0.00/1.73M [00:00<?, ?B/s]100%|██████████| 1.73M/1.73M [00:00<00:00, 44.3MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1IF5F2_Xf9gSndzlgY3XH-N-8TxBFhJhw
+To: /home/runner/work/portfolio/portfolio/import/drive/So/Captura de ecrã 2025-07-27, às 22.12.16.png
+  0%|          | 0.00/3.57M [00:00<?, ?B/s]100%|██████████| 3.57M/3.57M [00:00<00:00, 91.0MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1PMa8UtmWFiR-IhFCKUd2A5CQx9kEYzys
+To: /home/runner/work/portfolio/portfolio/import/drive/So/Captura de ecrã 2025-07-27, às 22.17.01.png
+  0%|          | 0.00/4.68M [00:00<?, ?B/s] 22%|██▏       | 1.05M/4.68M [00:00<00:00, 9.73MB/s]100%|██████████| 4.68M/4.68M [00:00<00:00, 29.5MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1vPNn4pecpx0THYqY_-vcaUxBmWMqPEQz
+To: /home/runner/work/portfolio/portfolio/import/drive/So/Captura de ecrã 2025-07-27, às 22.17.37.png
+  0%|          | 0.00/4.56M [00:00<?, ?B/s] 58%|█████▊    | 2.62M/4.56M [00:00<00:00, 18.0MB/s]100%|██████████| 4.56M/4.56M [00:00<00:00, 23.5MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1vnSgj_gwDPiikN6vxTNLTgV3D2Roagku
+To: /home/runner/work/portfolio/portfolio/import/drive/So/Still 2025-05-09 111402_1.1.1.jpg
+  0%|          | 0.00/1.49M [00:00<?, ?B/s]100%|██████████| 1.49M/1.49M [00:00<00:00, 42.2MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1u4B03cnzxQmsa1Xzyl0KVMyrDMarg6MG
+To: /home/runner/work/portfolio/portfolio/import/drive/So/Still 2025-05-09 111402_1.1.10.jpg
+  0%|          | 0.00/1.22M [00:00<?, ?B/s]100%|██████████| 1.22M/1.22M [00:00<00:00, 16.7MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1xsPJAlWbGcp_7iI1IhL6JFA5Ck5TyWXl
+To: /home/runner/work/portfolio/portfolio/import/drive/So/Still 2025-05-09 111402_1.1.11.jpg
+  0%|          | 0.00/979k [00:00<?, ?B/s]100%|██████████| 979k/979k [00:00<00:00, 14.5MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1VEejFT_kxOK-bDAeWtSs2qLyIQKiUz8z
+To: /home/runner/work/portfolio/portfolio/import/drive/So/Still 2025-05-09 111402_1.1.2.jpg
+  0%|          | 0.00/1.16M [00:00<?, ?B/s]100%|██████████| 1.16M/1.16M [00:00<00:00, 12.2MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1sGxGaGNYFC36KxX6hyiHbp8sWUoovU9x
+To: /home/runner/work/portfolio/portfolio/import/drive/So/Still 2025-05-09 111402_1.1.3.jpg
+  0%|          | 0.00/996k [00:00<?, ?B/s]100%|██████████| 996k/996k [00:00<00:00, 14.8MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1yEfDm6-mYXgGOHB8Y8ciPCN0mkc7ngiF
+To: /home/runner/work/portfolio/portfolio/import/drive/So/Still 2025-05-09 111402_1.1.4.jpg
+  0%|          | 0.00/1.34M [00:00<?, ?B/s]100%|██████████| 1.34M/1.34M [00:00<00:00, 17.0MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1Bd7yjkCqht4K5uscYG6R8q5fTpeTWjSO
+To: /home/runner/work/portfolio/portfolio/import/drive/So/Still 2025-05-09 111402_1.1.5.jpg
+  0%|          | 0.00/1.29M [00:00<?, ?B/s]100%|██████████| 1.29M/1.29M [00:00<00:00, 17.7MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1W2b56TAZ8DdWZge88jYNWqtMrIiqzqi7
+To: /home/runner/work/portfolio/portfolio/import/drive/So/Still 2025-05-09 111402_1.1.6.jpg
+  0%|          | 0.00/1.21M [00:00<?, ?B/s]100%|██████████| 1.21M/1.21M [00:00<00:00, 33.9MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1aQLuOjTcnJNjaI9jMeTs8E2mI5usYmkT
+To: /home/runner/work/portfolio/portfolio/import/drive/So/Still 2025-05-09 111402_1.1.7.jpg
+  0%|          | 0.00/1.06M [00:00<?, ?B/s]100%|██████████| 1.06M/1.06M [00:00<00:00, 30.8MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=10R7KCNvDIlaxxHQWtPhTa2Z2H5Ts_4o6
+To: /home/runner/work/portfolio/portfolio/import/drive/So/Still 2025-05-09 111402_1.1.8.jpg
+  0%|          | 0.00/1.56M [00:00<?, ?B/s] 67%|██████▋   | 1.05M/1.56M [00:00<00:00, 9.70MB/s]100%|██████████| 1.56M/1.56M [00:00<00:00, 12.8MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1vZagGk1CxXG6y7gY7DU1L_BZuw0dmlTr
+To: /home/runner/work/portfolio/portfolio/import/drive/So/Still 2025-05-09 111402_1.1.9.jpg
+  0%|          | 0.00/1.14M [00:00<?, ?B/s]100%|██████████| 1.14M/1.14M [00:00<00:00, 44.4MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1xsTXdTjxDnrBhJxmUotvNYoKe_8niEco
+To: /home/runner/work/portfolio/portfolio/import/drive/So/WhatsApp Image 2025-07-27 at 18.13.16.jpeg
+  0%|          | 0.00/215k [00:00<?, ?B/s]100%|██████████| 215k/215k [00:00<00:00, 6.24MB/s]
+Download completed
+import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 20.52.55.png
+import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 20.53.08.png
+import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 20.53.18.png
+import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 20.53.39.png
+import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 20.53.56.png
+import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 20.54.14.png
+import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 20.54.26.png
+import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 20.54.41.png
+import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 20.54.44.png
+import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 20.54.58.png
+import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 20.55.07.png
+import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 20.55.19.png
+import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 20.55.55.png
+import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 20.56.49.png
+import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 20.56.57.png
+import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 20.57.00.png
+import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 20.57.20.png
+import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 20.57.41.png
+import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 20.58.04.png
+import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 22.23.05.png
+import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 22.23.12.png
+import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 22.23.20.png
+import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 22.23.37.png
+import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 22.23.43.png
+import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 22.24.11.png
+import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 22.24.31.png
+import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 22.24.52.png
+import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 22.25.04.png
+import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 22.25.19.png
+import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 22.25.46.png
+import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 22.25.57.png
+import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 22.26.11.png
+import/drive/FALTA SEMPRE QUALQUER COISA/Captura de ecrã 2026-07-06, às 22.26.37.png
+import/drive/So/Captura de ecrã 2025-07-27, às 22.12.16.png
+import/drive/So/Captura de ecrã 2025-07-27, às 22.17.01.png
+import/drive/So/Captura de ecrã 2025-07-27, às 22.17.37.png
+import/drive/So/Still 2025-05-09 111402_1.1.1.jpg
+import/drive/So/Still 2025-05-09 111402_1.1.10.jpg
+import/drive/So/Still 2025-05-09 111402_1.1.11.jpg
+import/drive/So/Still 2025-05-09 111402_1.1.2.jpg
+import/drive/So/Still 2025-05-09 111402_1.1.3.jpg
+import/drive/So/Still 2025-05-09 111402_1.1.4.jpg
+import/drive/So/Still 2025-05-09 111402_1.1.5.jpg
+import/drive/So/Still 2025-05-09 111402_1.1.6.jpg
+import/drive/So/Still 2025-05-09 111402_1.1.7.jpg
+import/drive/So/Still 2025-05-09 111402_1.1.8.jpg
+import/drive/So/Still 2025-05-09 111402_1.1.9.jpg
+import/drive/So/WhatsApp Image 2025-07-27 at 18.13.16.jpeg
