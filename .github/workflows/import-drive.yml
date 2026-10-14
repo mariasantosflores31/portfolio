@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v4
       - run: pip install gdown
       - run: |
-          mkdir -p import/drive
+          rm -rf import/drive && mkdir -p import/drive
           gdown --folder "$(head -1 tools/drive.txt)" -O import/drive > import/drive-log.txt 2>&1 || true
           find import/drive -type f | sort >> import/drive-log.txt
       - run: |
