@@ -65,7 +65,7 @@ html,body{overflow-x:hidden}
   .intro-in{width:94vw}
 }
 /* Sobre: data/título em estilo de câmara digital */
-.slides .stamp{position:absolute;top:8px;right:10px;z-index:3;font-family:'VT323','Courier New',monospace;font-size:15px;letter-spacing:.06em;line-height:1;
+.slides .stamp{position:absolute;top:7px;left:8px;z-index:3;font-family:'VT323','Courier New',monospace;font-size:10px;letter-spacing:.06em;line-height:1;
   color:#ffb15a;text-shadow:0 0 2px #ff7a1a,0 0 6px rgba(255,122,26,.75),0 0 12px rgba(255,90,0,.45);text-transform:uppercase;white-space:nowrap;transition:opacity .6s ease}
 /* Sobre: grão por cima de toda a página */
 .pg-sobre .mf::before{content:"";position:fixed;inset:-50%;width:200%;height:200%;z-index:5;pointer-events:none;
