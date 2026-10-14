@@ -3,20 +3,20 @@ html{scroll-behavior:smooth}
 .filmbg::after{content:"";position:absolute;inset:-50%;width:200%;height:200%;pointer-events:none;
   background-image:url("assets/grain.png");background-size:200px 200px;image-rendering:pixelated;
   animation:grain-move .5s steps(6) infinite}
-.mf-light .filmbg::after{opacity:.2;mix-blend-mode:multiply}
-.mf-dark .filmbg::after{opacity:.14;mix-blend-mode:screen}
+.mf-light .filmbg::after{opacity:.14;mix-blend-mode:multiply}
+.mf-dark .filmbg::after{opacity:.1;mix-blend-mode:screen}
 @keyframes grain-move{0%{transform:translate(0,0)}17%{transform:translate(-5%,-10%)}33%{transform:translate(-15%,5%)}50%{transform:translate(7%,-25%)}67%{transform:translate(-5%,25%)}83%{transform:translate(15%,0)}100%{transform:translate(0,0)}}
 @media (prefers-reduced-motion: reduce){.filmbg::after{animation:none}}
 /* Mesmo grão de TV nas barras laterais */
 .bar::after{content:"";position:absolute;inset:-50%;width:200%;height:200%;pointer-events:none;
   background-image:url("assets/grain.png");background-size:100px 100px;
-  mix-blend-mode:overlay;opacity:.45;animation:grain-move .5s steps(6) infinite}
+  mix-blend-mode:overlay;opacity:.32;animation:grain-move .5s steps(6) infinite}
 @media (prefers-reduced-motion: reduce){.bar::after{animation:none}}
 /* Sobre: fotos a passar no polaroide */
 .slides img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block;opacity:0;transition:opacity 1.2s ease}
 .slides img.on{opacity:1}
 .slides::after{content:"";position:absolute;inset:-50%;width:200%;height:200%;pointer-events:none;
-  background-image:url("assets/grain.png");background-size:120px 120px;mix-blend-mode:overlay;opacity:.22;animation:grain-move .5s steps(6) infinite}
+  background-image:url("assets/grain.png");background-size:120px 120px;mix-blend-mode:overlay;opacity:.16;animation:grain-move .5s steps(6) infinite}
 
 /* ===================== Telemóvel ===================== */
 html,body{overflow-x:hidden}
@@ -70,6 +70,6 @@ html,body{overflow-x:hidden}
 /* Sobre: grão por cima de toda a página */
 .pg-sobre .mf::before{content:"";position:fixed;inset:-50%;width:200%;height:200%;z-index:5;pointer-events:none;
   background-image:url("assets/grain.png");background-size:200px 200px;animation:grain-move .5s steps(6) infinite}
-.pg-sobre .mf-light::before{opacity:.12;mix-blend-mode:multiply}
-.pg-sobre .mf-dark::before{opacity:.09;mix-blend-mode:screen}
+.pg-sobre .mf-light::before{opacity:.08;mix-blend-mode:multiply}
+.pg-sobre .mf-dark::before{opacity:.06;mix-blend-mode:screen}
 @media (prefers-reduced-motion: reduce){.pg-sobre .mf::before{animation:none}}

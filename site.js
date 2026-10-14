@@ -92,17 +92,33 @@
     restart();
   }
 
-  // ---- Sobre: fotos a passar ----
+  // ---- Sobre: fotos a passar, em ordem aleatória ----
   document.querySelectorAll('[data-slideshow]').forEach(function (box) {
-    var imgs = box.querySelectorAll('img'), k = 0, stamp = box.querySelector('.stamp');
-    var label = function () { if (stamp) stamp.textContent = (imgs[k].getAttribute('data-proj') || '').toUpperCase(); };
-    label();
-    if (imgs.length < 2) return;
+    var all = Array.prototype.slice.call(box.querySelectorAll('img')), stamp = box.querySelector('.stamp');
+    if (!all.length) return;
+    // baralhar sem deixar duas fotos da Maria (data-me) seguidas
+    var order = all, tries = 0, ok = false;
+    while (!ok && tries < 200) {
+      order = all.slice();
+      for (var i = order.length - 1; i > 0; i--) { var r = Math.floor(Math.random() * (i + 1)); var t = order[i]; order[i] = order[r]; order[r] = t; }
+      ok = true;
+      for (var q = 0; q < order.length; q++) {
+        if (order[q].hasAttribute('data-me') && order[(q + 1) % order.length].hasAttribute('data-me')) { ok = false; break; }
+      }
+      tries++;
+    }
+    var k = 0;
+    all.forEach(function (im) { im.classList.remove('on'); im.loading = 'eager'; });
+    var show = function () {
+      order[k].classList.add('on');
+      if (stamp) stamp.textContent = (order[k].getAttribute('data-proj') || '').toUpperCase();
+    };
+    show();
+    if (order.length < 2) return;
     setInterval(function () {
-      imgs[k].classList.remove('on');
-      k = (k + 1) % imgs.length;
-      imgs[k].classList.add('on');
-      label();
+      order[k].classList.remove('on');
+      k = (k + 1) % order.length;
+      show();
     }, 3500);
   });
 })();
