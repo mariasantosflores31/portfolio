@@ -94,9 +94,11 @@ html,body{overflow-x:clip}
 .pg-uc .mf [style*="font-size: 22px; line-height: 1.4"]{font-size:13px !important}
 /* Barra de cima fixa ao fazer scroll */
 .mf{overflow:clip !important}
-.mf > header{position:sticky;top:0;z-index:50;margin:0 24px;padding-left:24px !important;padding-right:24px !important}
-.mf-light > header{background:rgba(255,255,255,.82);-webkit-backdrop-filter:blur(8px);backdrop-filter:blur(8px)}
-.mf-dark > header{background:rgba(0,0,0,.78);-webkit-backdrop-filter:blur(8px);backdrop-filter:blur(8px)}
+.mf > header{position:sticky;top:0;z-index:50;margin:0 24px;overflow:hidden;padding-left:24px !important;padding-right:24px !important}
+.mf > header{background:var(--bg);isolation:isolate}
+.mf > header::before{content:"";position:absolute;inset:-50%;width:200%;height:200%;z-index:-1;pointer-events:none;background-image:url("assets/grain.png");background-size:200px 200px;animation:grain-move .5s steps(6) infinite;overflow:hidden}
+.mf-light > header::before{opacity:.14;mix-blend-mode:multiply}
+.mf-dark > header::before{opacity:.1;mix-blend-mode:screen}
 @media (max-width:760px){.mf > header{margin:0 8px;padding-left:14px !important;padding-right:14px !important}}
 /* Menu: página selecionada a negrito com brilho na cor do projeto (definir --nav-glow por página) */
 body[style*="--nav-glow"] .mf > header nav a[style*="text-decoration: underline"]{text-decoration:none !important;font-weight:700}
