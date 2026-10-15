@@ -98,3 +98,7 @@ html,body{overflow-x:clip}
 .mf-light > header{background:rgba(255,255,255,.82);-webkit-backdrop-filter:blur(8px);backdrop-filter:blur(8px)}
 .mf-dark > header{background:rgba(0,0,0,.78);-webkit-backdrop-filter:blur(8px);backdrop-filter:blur(8px)}
 @media (max-width:760px){.mf > header{margin:0 8px;padding-left:14px !important;padding-right:14px !important}}
+/* Menu: página selecionada a negrito com brilho na cor do projeto (definir --nav-glow por página) */
+body[style*="--nav-glow"] .mf > header nav a[style*="text-decoration: underline"]{text-decoration:none !important;font-weight:700}
+body[style*="--nav-glow"] .mf-light > header nav a[style*="text-decoration: underline"]{text-shadow:0 0 6px rgb(var(--nav-glow) / .55),0 0 14px rgb(var(--nav-glow) / .35)}
+body[style*="--nav-glow"] .mf-dark > header nav a[style*="text-decoration: underline"]{text-shadow:0 0 6px rgb(var(--nav-glow-d, var(--nav-glow)) / .8),0 0 16px rgb(var(--nav-glow-d, var(--nav-glow)) / .5)}
