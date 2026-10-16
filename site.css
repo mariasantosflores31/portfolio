@@ -129,3 +129,10 @@ body[style*="--nav-glow"] .mf-dark > header nav a[style*="text-decoration: under
 .pg-uc .r-est{display:grid;grid-template-columns:minmax(0,1fr) 44%;column-gap:56px;align-items:center;margin-top:56px}
 .pg-uc .r-est-t{max-width:520px;margin-left:auto}
 @media (max-width:760px){.pg-uc .r-2col,.pg-uc .r-gaiola,.pg-uc .r-est{grid-template-columns:1fr !important;row-gap:24px}.pg-uc .r-gaiola>div:first-child{display:none}}
+.pg-uc .r-ch{display:grid;grid-template-columns:1fr 1fr;column-gap:56px;align-items:center;margin-top:56px}
+.pg-uc .r-ch-t{max-width:520px;justify-self:end;width:100%}
+.pg-uc .r-ch-m{width:88%;justify-self:start}
+.pg-uc .cred-me{font-weight:400 !important}
+.pg-uc .mf-light .cred-me{text-shadow:0 0 6px rgba(200,120,40,.55),0 0 14px rgba(200,120,40,.3)}
+.pg-uc .mf-dark .cred-me{text-shadow:0 0 6px rgba(255,190,110,.8),0 0 16px rgba(255,160,70,.5)}
+@media (max-width:760px){.pg-uc .r-ch{grid-template-columns:1fr !important;row-gap:24px}.pg-uc .r-ch-m{width:100%}}
