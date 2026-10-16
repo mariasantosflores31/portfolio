@@ -68,13 +68,13 @@ button{font:inherit;color:inherit;background:none;cursor:pointer}
 .capa-orn{position:absolute;left:50%;top:50%;height:calc(30 * var(--u));width:auto;transform:translate(-50%,-50%);opacity:.3;pointer-events:none;z-index:0}
 .capa .pal{position:absolute;display:flex;gap:calc(0.22 * var(--u));opacity:0;pointer-events:none;transition:opacity .25s ease .05s;z-index:12}
 .capa .chip:hover .pal,.capa .chip:focus-visible .pal{opacity:1}
-.capa .sw{display:flex;flex-direction:column;background:#fbf9f4;padding:calc(0.18 * var(--u));box-shadow:0 1px 3px rgba(0,0,0,.2)}
-.capa .sw::before{content:"";display:block;width:calc(2.2 * var(--u));height:calc(2.2 * var(--u));background:var(--s)}
+.capa .sw{display:flex;flex-direction:column;background:#fbf9f4;padding:calc(0.18 * var(--u));border-radius:calc(0.32 * var(--u));box-shadow:0 1px 3px rgba(0,0,0,.2)}
+.capa .sw::before{content:"";display:block;width:calc(2.2 * var(--u));height:calc(2.2 * var(--u));background:var(--s);border-radius:calc(0.22 * var(--u))}
 .capa .sw i{font-style:normal;font-size:max(5px,calc(0.42 * var(--u)));letter-spacing:.03em;color:#1b1a18;margin-top:calc(0.15 * var(--u));line-height:1}
 .capa .chip[data-pos="t"] .pal{top:calc(100% + 0.4 * var(--u));left:50%;transform:translateX(-50%)}
 .capa .chip[data-pos="b"] .pal{bottom:calc(100% + 0.4 * var(--u));left:50%;transform:translateX(-50%)}
-.capa .chip[data-pos="l"] .pal{left:calc(100% + 0.4 * var(--u));top:50%;transform:translateY(-50%);flex-direction:column}
-.capa .chip[data-pos="r"] .pal{right:calc(100% + 0.4 * var(--u));top:50%;transform:translateY(-50%);flex-direction:column}
+.capa .chip[data-pos="l"] .pal{left:calc(100% + 0.4 * var(--u));top:50%;transform:translateY(-50%)}
+.capa .chip[data-pos="r"] .pal{right:calc(100% + 0.4 * var(--u));top:50%;transform:translateY(-50%)}
 .mf-dark .capa-orn{content:url(assets/ornamento-claro.png);opacity:.28}
 .capa-mid{z-index:1}
 .mf-dark .capa-nome{color:#cfc9be}
