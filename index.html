@@ -65,11 +65,15 @@ button{font:inherit;color:inherit;background:none;cursor:pointer}
 .capa-mid{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;pointer-events:none}
 .capa-nome{margin:0 0 calc(0.3 * var(--u));font-family:'Mrs Saint Delafield',cursive;font-weight:400;font-size:calc(10.9 * var(--u));line-height:1;color:#47443f;transform:rotate(-9deg);filter:url(#lapis);opacity:.92}
 .capa-sub{margin:0;font-family:'Heros Cn','Arial Narrow',Arial,sans-serif;font-size:calc(1.88 * var(--u));line-height:1.1;letter-spacing:.005em;text-transform:uppercase;color:#1f1e1b}
+.capa-orn{position:absolute;left:50%;top:50%;height:calc(30 * var(--u));width:auto;transform:translate(-50%,-50%);opacity:.3;pointer-events:none;z-index:0}
+.mf-dark .capa-orn{content:url(assets/ornamento-claro.png);opacity:.28}
+.capa-mid{z-index:1}
 .mf-dark .capa-nome{color:#cfc9be}
 .mf-dark .capa-sub{color:var(--ink)}
 @media (prefers-reduced-motion: reduce){.capa .chip{transition:none}}
 @media (max-width:760px){
 .capa-wrap{padding:8px 16px 40px}
+.capa-orn{display:none}
 .capa{height:auto;min-height:0;display:flex;flex-wrap:wrap;gap:8px}
 .capa-top,.capa-bot,.capa-col{display:contents}
 .capa-mid{position:static;width:100%;padding:36px 0 40px}
@@ -96,6 +100,7 @@ button{font:inherit;color:inherit;background:none;cursor:pointer}
 <feComposite in="SourceGraphic" in2="na" operator="in" result="g"/>
 <feTurbulence type="fractalNoise" baseFrequency="0.04" numOctaves="2" seed="5" result="w"/>
 <feDisplacementMap in="g" in2="w" scale="2.2"/></filter></svg>
+<img class="capa-orn" src="assets/ornamento.png" alt="" aria-hidden="true">
 <div class="capa-mid"><h1 class="capa-nome">Maria Flores</h1><p class="capa-sub">Portfólio<br>Direção de Arte</p></div>
 <div class="capa-top">
 <!-- 01 -->
