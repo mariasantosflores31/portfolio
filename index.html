@@ -48,8 +48,8 @@ button{font:inherit;color:inherit;background:none;cursor:pointer}
 <style>
 @font-face{font-family:'Mrs Saint Delafield';src:url(assets/fonts/mrs-saint-delafield.woff2) format('woff2');font-display:swap}
 @font-face{font-family:'Heros Cn';src:url(assets/fonts/heros-cn.woff2) format('woff2');font-display:swap}
-.capa-wrap{flex-grow:1;padding:4px 48px 24px;container-type:inline-size;display:flex}
-.capa{--w:1cqw;--u:min(1cqw,calc((100svh - 112px) / 59.9));--r:min(1cqw,calc(var(--u) * 1.18));position:relative;width:100%;height:max(calc(100svh - 112px),calc(59.9 * var(--u)))}
+.capa-wrap{flex-grow:1;padding:16px 48px;container-type:inline-size;display:flex}
+.capa{--w:1cqw;--u:min(1cqw,calc((100svh - 32px) / 59.9));--r:min(1cqw,calc(var(--u) * 1.18));position:relative;width:100%;height:max(calc(100svh - 32px),calc(59.9 * var(--u)))}
 .capa-top,.capa-bot{position:absolute;left:0;right:0;height:calc(13.261 * var(--r));display:flex;justify-content:space-between;gap:calc(0.43 * var(--w))}
 .capa-top{top:0;align-items:flex-start}.capa-bot{bottom:0;align-items:flex-end}
 .capa-col{position:absolute;top:calc((13.261 + 0.58) * var(--r));bottom:calc((13.261 + 0.58) * var(--r));display:flex;flex-direction:column;justify-content:space-between;gap:calc(0.43 * var(--u))}
@@ -62,7 +62,7 @@ button{font:inherit;color:inherit;background:none;cursor:pointer}
 .capa .cd b{font-weight:400;font-size:max(6.5px,calc(0.6 * var(--u)));letter-spacing:.05em;flex:none}
 .capa .cd i{font-style:normal;font-size:max(5.5px,calc(0.5 * var(--u)));color:#7a766e;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .capa .chip:hover,.capa .chip:focus-visible{transform:scale(1.3);z-index:10;box-shadow:0 12px 30px rgba(0,0,0,.28)}
-.capa-mid{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;pointer-events:none;padding-bottom:calc(1 * var(--u))}
+.capa-mid{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;pointer-events:none}
 .capa-nome{margin:0 0 calc(0.3 * var(--u));font-family:'Mrs Saint Delafield',cursive;font-weight:400;font-size:calc(10.9 * var(--u));line-height:1;color:#47443f;transform:rotate(-9deg);filter:url(#lapis);opacity:.92}
 .capa-sub{margin:0;font-family:'Heros Cn','Arial Narrow',Arial,sans-serif;font-size:calc(1.88 * var(--u));line-height:1.1;letter-spacing:.005em;text-transform:uppercase;color:#1f1e1b}
 .mf-dark .capa-nome{color:#cfc9be}
@@ -87,15 +87,6 @@ button{font:inherit;color:inherit;background:none;cursor:pointer}
 
 <div class="mf mf-light" style="position: relative; overflow: hidden; width: 100%; min-height: 900px; box-sizing: border-box; background: var(--bg); color: var(--ink); font-family: 'Special Elite', 'Courier New', monospace; display: flex; flex-direction: column;">
 
-<header style="display: flex; justify-content: space-between; align-items: center; padding: 20px 48px;">
-<a class="nl" href="index.html" style="font-family: 'Special Elite', cursive; font-size: 18px; padding: 8px 0;">Maria Flores</a>
-<nav style="display: flex; align-items: center; gap: 32px; font-size: 15px;">
-<a class="nl" href="trabalhos.html" style="padding: 12px 0;">Trabalhos</a>
-<a class="nl" href="sobre.html" style="padding: 12px 0;">Sobre</a>
-<a class="nl" href="sobre.html#contacto" style="padding: 12px 0;">Contacto</a>
-<button data-theme-toggle aria-label="Alternar entre modo claro e modo escuro" style="min-height: 44px; padding: 0 16px; border: 1px solid var(--ink); border-radius: 999px; font-size: 14px;"></button>
-</nav>
-</header>
 
 <main class="capa-wrap">
 <div class="capa" data-pal="#282d33,#56240c,#695240,#9b5419,#87674c,#738796">
