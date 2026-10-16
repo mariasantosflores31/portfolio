@@ -3,14 +3,14 @@ html{scroll-behavior:smooth}
 .filmbg::after{content:"";position:absolute;inset:-50%;width:200%;height:200%;pointer-events:none;
   background-image:url("assets/grain.png");background-size:200px 200px;image-rendering:pixelated;
   animation:grain-move .5s steps(6) infinite}
-.mf-light .filmbg::after{opacity:.14;mix-blend-mode:multiply}
-.mf-dark .filmbg::after{opacity:.1;mix-blend-mode:screen}
+.mf-light .filmbg::after{opacity:.05;mix-blend-mode:multiply}
+.mf-dark .filmbg::after{opacity:.04;mix-blend-mode:screen}
 @keyframes grain-move{0%{transform:translate(0,0)}17%{transform:translate(-5%,-10%)}33%{transform:translate(-15%,5%)}50%{transform:translate(7%,-25%)}67%{transform:translate(-5%,25%)}83%{transform:translate(15%,0)}100%{transform:translate(0,0)}}
 @media (prefers-reduced-motion: reduce){.filmbg::after{animation:none}}
 /* Mesmo grão de TV nas barras laterais */
 .bar::after{content:"";position:absolute;inset:-50%;width:200%;height:200%;pointer-events:none;
   background-image:url("assets/grain.png");background-size:100px 100px;
-  mix-blend-mode:overlay;opacity:.32;animation:grain-move .5s steps(6) infinite}
+  mix-blend-mode:overlay;opacity:.15;animation:grain-move .5s steps(6) infinite}
 @media (prefers-reduced-motion: reduce){.bar::after{animation:none}}
 /* Sobre: fotos a passar no polaroide */
 .slides img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block;opacity:0;transition:opacity 1.2s ease}
@@ -70,8 +70,8 @@ html,body{overflow-x:clip}
 /* Sobre: grão por cima de toda a página */
 .pg-sobre .mf::before{content:"";position:fixed;inset:-50%;width:200%;height:200%;z-index:5;pointer-events:none;
   background-image:url("assets/grain.png");background-size:200px 200px;animation:grain-move .5s steps(6) infinite}
-.pg-sobre .mf-light::before{opacity:.08;mix-blend-mode:multiply}
-.pg-sobre .mf-dark::before{opacity:.06;mix-blend-mode:screen}
+.pg-sobre .mf-light::before{opacity:.03;mix-blend-mode:multiply}
+.pg-sobre .mf-dark::before{opacity:.02;mix-blend-mode:screen}
 @media (prefers-reduced-motion: reduce){.pg-sobre .mf::before{animation:none}}
 
 /* Último Canto: título com grão e brilho + legendas em máquina de escrever limpa */
@@ -97,8 +97,8 @@ html,body{overflow-x:clip}
 .mf > header{position:sticky;top:0;z-index:50;margin:0 24px;overflow:hidden;padding-left:24px !important;padding-right:24px !important}
 .mf > header{background:var(--bg);isolation:isolate}
 .mf > header::before{content:"";position:absolute;inset:-50%;width:200%;height:200%;z-index:-1;pointer-events:none;background-image:url("assets/grain.png");background-size:200px 200px;animation:grain-move .5s steps(6) infinite;overflow:hidden}
-.mf-light > header::before{opacity:.14;mix-blend-mode:multiply}
-.mf-dark > header::before{opacity:.1;mix-blend-mode:screen}
+.mf-light > header::before{opacity:.05;mix-blend-mode:multiply}
+.mf-dark > header::before{opacity:.04;mix-blend-mode:screen}
 @media (max-width:760px){.mf > header{margin:0 8px;padding-left:14px !important;padding-right:14px !important}}
 /* Menu: página selecionada a negrito com brilho na cor do projeto (definir --nav-glow por página) */
 body[style*="--nav-glow"] .mf > header nav a[style*="text-decoration: underline"]{text-decoration:none !important;font-weight:700}
@@ -141,3 +141,7 @@ body[style*="--nav-glow"] .mf-dark > header nav a[style*="text-decoration: under
 .mf > header nav button[data-theme-toggle]{width:44px;height:44px;min-height:44px !important;padding:0 !important;display:inline-flex;align-items:center;justify-content:center;border-radius:50% !important}
 .mf > header nav button[data-theme-toggle] svg{display:block}
 @media (max-width:760px){.mf > header nav button[data-theme-toggle]{width:38px;height:38px;min-height:38px !important}}
+
+/* Fundo branco sujo e menos manchas de película */
+.mf-light{--bg:#f3efe6}
+.mf .filmtile{opacity:.35}
