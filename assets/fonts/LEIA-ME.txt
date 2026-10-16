@@ -1,0 +1,3 @@
+Tipos de letra alojados no site:
+- heros-cn.woff2: TeX Gyre Heros Condensed (GUST Font License), subconjunto latino.
+- mrs-saint-delafield.woff2: Mrs Saint Delafield (SIL Open Font License).
