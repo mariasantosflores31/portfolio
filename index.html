@@ -48,33 +48,35 @@ button{font:inherit;color:inherit;background:none;cursor:pointer}
 <style>
 @font-face{font-family:'Mrs Saint Delafield';src:url(assets/fonts/mrs-saint-delafield.woff2) format('woff2');font-display:swap}
 @font-face{font-family:'Heros Cn';src:url(assets/fonts/heros-cn.woff2) format('woff2');font-display:swap}
-.capa-wrap{flex-grow:1;padding:6px 48px 28px;display:flex;align-items:flex-start;justify-content:center}
-.capa{position:relative;width:100%;max-width:calc((100svh - 118px) * 1380 / 826);min-width:min(100%,760px);aspect-ratio:1380/826;container-type:inline-size;margin:0 auto}
-.capa .chip{position:absolute;display:block;box-sizing:border-box;background:var(--c);padding:0.58cqw 0.58cqw 0;border-radius:3px;box-shadow:0 1px 2px rgba(0,0,0,.18);color:var(--ink);text-decoration:none;z-index:1;transition:transform .35s cubic-bezier(.2,.8,.2,1),box-shadow .35s}
-.capa .chip::before,.capa .chip::after{content:"";position:absolute;inset:0;border-radius:inherit;background:url(assets/grain.png);pointer-events:none}
-.capa .chip::before{background-size:140px;mix-blend-mode:multiply;opacity:.28}
-.capa .chip::after{background-size:90px;background-position:37px 61px;mix-blend-mode:screen;opacity:.1}
-.capa .ph{display:block;height:var(--h);overflow:hidden;border-radius:0.65cqw;outline:1px solid rgba(20,16,12,.55);outline-offset:-1px;position:relative;z-index:1}
+.capa-wrap{flex-grow:1;padding:4px 48px 24px;container-type:inline-size;display:flex}
+.capa{--u:min(1cqw,calc((100svh - 112px) / 59.9));position:relative;width:100%;height:max(calc(100svh - 112px),calc(59.9 * var(--u)))}
+.capa-top,.capa-bot{position:absolute;left:0;right:0;height:calc(10.942 * var(--u));display:flex;justify-content:space-between;gap:calc(1.16 * var(--u))}
+.capa-top{top:0;align-items:flex-start}.capa-bot{bottom:0;align-items:flex-end}
+.capa-col{position:absolute;top:calc((10.942 + 1.2) * var(--u));bottom:calc((10.942 + 1.2) * var(--u));display:flex;flex-direction:column;justify-content:space-between;gap:calc(0.58 * var(--u))}
+.capa-esq{left:0;align-items:flex-start}.capa-dir{right:0;align-items:flex-end}
+.capa .chip{display:block;box-sizing:border-box;background:#fbf9f4;padding:calc(0.29 * var(--u)) calc(0.29 * var(--u)) 0;box-shadow:0 1px 2px rgba(0,0,0,.14);color:#1b1a18;text-decoration:none;z-index:1;position:relative;transition:transform .35s cubic-bezier(.2,.8,.2,1),box-shadow .35s}
+.capa .ph{display:block;height:var(--h);overflow:hidden}
 .capa .ph img{width:100%;height:100%;object-fit:cover;display:block}
-.capa .cd{position:relative;z-index:1;display:flex;justify-content:space-between;gap:6px;height:1.087cqw;align-items:center;line-height:1}
-.capa .cd b{font-weight:400;font-size:0.6cqw;letter-spacing:.05em;flex:none}
-.capa .cd i{font-style:normal;font-size:0.5cqw;opacity:.78;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.capa .cd{display:flex;justify-content:space-between;gap:6px;height:max(12px,calc(1.232 * var(--u)));align-items:center;line-height:1}
+.capa .cd b{font-weight:400;font-size:max(6.5px,calc(0.6 * var(--u)));letter-spacing:.05em;flex:none}
+.capa .cd i{font-style:normal;font-size:max(5.5px,calc(0.5 * var(--u)));color:#7a766e;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .capa .chip:hover,.capa .chip:focus-visible{transform:scale(1.3);z-index:10;box-shadow:0 12px 30px rgba(0,0,0,.28)}
-.capa-mid{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;pointer-events:none;padding-bottom:1cqw}
-.capa-nome{margin:0 0 0.3cqw;font-family:'Mrs Saint Delafield',cursive;font-weight:400;font-size:10.9cqw;line-height:1;color:#47443f;transform:rotate(-9deg);filter:url(#lapis);opacity:.92}
-.capa-sub{margin:0;font-family:'Heros Cn','Arial Narrow',Arial,sans-serif;font-size:1.88cqw;line-height:1.1;letter-spacing:.005em;text-transform:uppercase;color:#1f1e1b}
+.capa-mid{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;pointer-events:none;padding-bottom:calc(1 * var(--u))}
+.capa-nome{margin:0 0 calc(0.3 * var(--u));font-family:'Mrs Saint Delafield',cursive;font-weight:400;font-size:calc(10.9 * var(--u));line-height:1;color:#47443f;transform:rotate(-9deg);filter:url(#lapis);opacity:.92}
+.capa-sub{margin:0;font-family:'Heros Cn','Arial Narrow',Arial,sans-serif;font-size:calc(1.88 * var(--u));line-height:1.1;letter-spacing:.005em;text-transform:uppercase;color:#1f1e1b}
 .mf-dark .capa-nome{color:#cfc9be}
 .mf-dark .capa-sub{color:var(--ink)}
 @media (prefers-reduced-motion: reduce){.capa .chip{transition:none}}
 @media (max-width:760px){
 .capa-wrap{padding:8px 16px 40px}
-.capa{aspect-ratio:auto;max-width:none;min-width:0;display:flex;flex-wrap:wrap;gap:8px}
+.capa{height:auto;min-height:0;display:flex;flex-wrap:wrap;gap:8px}
+.capa-top,.capa-bot,.capa-col{display:contents}
 .capa-mid{position:static;width:100%;padding:36px 0 40px}
 .capa-nome{font-size:21vw}
 .capa-sub{font-size:20px}
-.capa .chip{position:relative;left:auto!important;top:auto!important;width:calc(50% - 4px)!important;padding:6px 6px 0}
-.capa .ph{height:auto;aspect-ratio:4/3;border-radius:7px}
-.capa .cd{height:16px}.capa .cd b{font-size:8px}.capa .cd i{font-size:7px}
+.capa .chip,.capa-top .chip,.capa-bot .chip{position:relative;left:auto!important;width:calc(50% - 4px)!important;padding:5px 5px 0}
+.capa .ph{height:auto;aspect-ratio:4/3}
+.capa .cd{height:17px}.capa .cd b{font-size:8px}.capa .cd i{font-size:7px}
 .capa .chip:hover{transform:none}
 }
 </style>
@@ -103,52 +105,62 @@ button{font:inherit;color:inherit;background:none;cursor:pointer}
 <feTurbulence type="fractalNoise" baseFrequency="0.04" numOctaves="2" seed="5" result="w"/>
 <feDisplacementMap in="g" in2="w" scale="2.2"/></filter></svg>
 <div class="capa-mid"><h1 class="capa-nome">Maria Flores</h1><p class="capa-sub">Portfólio<br>Direção de Arte</p></div>
+<div class="capa-top">
 <!-- 01 -->
-<a class="chip" href="se-eu-quiser-choro.html" data-slot="01" style="left:0.000cqw;top:0.000cqw;width:13.330cqw;--h:6.812cqw;transform-origin:left top;--c:#997243;--ink:#1d1b18"><span class="ph"><img src="assets/capa/01.webp" alt="Still de Se eu quiser, Choro" loading="eager"></span><span class="cd"><b>#997243</b><i>Se eu quiser, Choro</i></span></a>
+<a class="chip" href="se-eu-quiser-choro.html" data-slot="01" style="width:calc(13.309 * var(--u));--h:calc(6.812 * var(--u));transform-origin:left top"><span class="ph"><img src="assets/capa/01.webp" alt="Still de Se eu quiser, Choro"></span><span class="cd"><b>#997243</b><i>Se eu quiser, Choro</i></span></a>
 <!-- 02 -->
-<a class="chip" href="se-eu-quiser-choro.html" data-slot="02" style="left:13.910cqw;top:0.000cqw;width:14.926cqw;--h:8.696cqw;transform-origin:left top;--c:#996842;--ink:#f6f1e6"><span class="ph"><img src="assets/capa/02.webp" alt="Still de Se eu quiser, Choro" loading="eager"></span><span class="cd"><b>#996842</b><i>Se eu quiser, Choro</i></span></a>
+<a class="chip" href="se-eu-quiser-choro.html" data-slot="02" style="width:calc(14.978 * var(--u));--h:calc(8.696 * var(--u));transform-origin:left top"><span class="ph"><img src="assets/capa/02.webp" alt="Still de Se eu quiser, Choro"></span><span class="cd"><b>#996842</b><i>Se eu quiser, Choro</i></span></a>
 <!-- 03 -->
-<a class="chip" href="auto-de-fe.html" data-slot="03" style="left:29.415cqw;top:0.000cqw;width:12.475cqw;--h:6.812cqw;transform-origin:center top;--c:#548099;--ink:#f6f1e6"><span class="ph"><img src="assets/capa/03.webp" alt="Still de Auto de Fé" loading="eager"></span><span class="cd"><b>#548099</b><i>Auto de Fé</i></span></a>
+<a class="chip" href="auto-de-fe.html" data-slot="03" style="width:calc(12.414 * var(--u));--h:calc(6.812 * var(--u));transform-origin:center top"><span class="ph"><img src="assets/capa/03.webp" alt="Still de Auto de Fé"></span><span class="cd"><b>#548099</b><i>Auto de Fé</i></span></a>
 <!-- 04 -->
-<a class="chip" href="so-videoclipe.html" data-slot="04" style="left:42.470cqw;top:0.000cqw;width:14.926cqw;--h:8.696cqw;transform-origin:center top;--c:#53BBC9;--ink:#1d1b18"><span class="ph"><img src="assets/capa/04.webp" alt="Still de SÓ" loading="eager"></span><span class="cd"><b>#53BBC9</b><i>SÓ</i></span></a>
+<a class="chip" href="so-videoclipe.html" data-slot="04" style="width:calc(14.978 * var(--u));--h:calc(8.696 * var(--u));transform-origin:center top"><span class="ph"><img src="assets/capa/04.webp" alt="Still de SÓ"></span><span class="cd"><b>#53BBC9</b><i>SÓ</i></span></a>
 <!-- 05 -->
-<a class="chip" href="so-videoclipe.html" data-slot="05" style="left:57.975cqw;top:0.000cqw;width:14.926cqw;--h:9.420cqw;transform-origin:center top;--c:#347D99;--ink:#f6f1e6"><span class="ph"><img src="assets/capa/05.webp" alt="Still de SÓ" loading="eager"></span><span class="cd"><b>#347D99</b><i>SÓ</i></span></a>
+<a class="chip" href="so-videoclipe.html" data-slot="05" style="width:calc(14.978 * var(--u));--h:calc(9.420 * var(--u));transform-origin:center top"><span class="ph"><img src="assets/capa/05.webp" alt="Still de SÓ"></span><span class="cd"><b>#347D99</b><i>SÓ</i></span></a>
 <!-- 06 -->
-<a class="chip" href="falta-sempre-qualquer-coisa.html" data-slot="06" style="left:73.481cqw;top:0.000cqw;width:11.013cqw;--h:7.391cqw;transform-origin:right top;--c:#B7B7B7;--ink:#1d1b18"><span class="ph"><img src="assets/capa/06.webp" alt="Still de Falta Sempre Qualquer Coisa" loading="eager"></span><span class="cd"><b>#B7B7B7</b><i>Falta Sempre Qualquer Coisa</i></span></a>
+<a class="chip" href="falta-sempre-qualquer-coisa.html" data-slot="06" style="width:calc(10.886 * var(--u));--h:calc(7.391 * var(--u));transform-origin:right top"><span class="ph"><img src="assets/capa/06.webp" alt="Still de Falta Sempre Qualquer Coisa"></span><span class="cd"><b>#B7B7B7</b><i>Falta Sempre Qualquer Coisa</i></span></a>
 <!-- 07 -->
-<a class="chip" href="auto-de-fe.html" data-slot="07" style="left:85.074cqw;top:0.000cqw;width:14.926cqw;--h:9.420cqw;transform-origin:right top;--c:#9F7B48;--ink:#1d1b18"><span class="ph"><img src="assets/capa/07.webp" alt="Still de Auto de Fé" loading="eager"></span><span class="cd"><b>#9F7B48</b><i>Auto de Fé</i></span></a>
+<a class="chip" href="auto-de-fe.html" data-slot="07" style="width:calc(14.978 * var(--u));--h:calc(9.420 * var(--u));transform-origin:right top"><span class="ph"><img src="assets/capa/07.webp" alt="Still de Auto de Fé"></span><span class="cd"><b>#9F7B48</b><i>Auto de Fé</i></span></a>
+</div>
+<div class="capa-col capa-dir">
 <!-- 08 -->
-<a class="chip" href="se-eu-quiser-choro.html" data-slot="08" style="left:90.725cqw;top:12.101cqw;width:9.275cqw;--h:6.267cqw;transform-origin:right top;--c:#995F38;--ink:#f6f1e6"><span class="ph"><img src="assets/capa/08.webp" alt="Still de Se eu quiser, Choro" loading="eager"></span><span class="cd"><b>#995F38</b><i>Se eu quiser, Choro</i></span></a>
+<a class="chip" href="severa.html" data-slot="08" style="width:calc(9.420 * var(--u));--h:calc(7.437 * var(--u));transform-origin:right center"><span class="ph"><img src="assets/capa/08.webp" alt="Still de Severa"></span><span class="cd"><b>#994434</b><i>Severa</i></span></a>
 <!-- 09 -->
-<a class="chip" href="severa.html" data-slot="09" style="left:90.000cqw;top:20.615cqw;width:10.000cqw;--h:7.545cqw;transform-origin:right center;--c:#994434;--ink:#f6f1e6"><span class="ph"><img src="assets/capa/09.webp" alt="Still de Severa" loading="eager"></span><span class="cd"><b>#994434</b><i>Severa</i></span></a>
+<a class="chip" href="so-videoclipe.html" data-slot="09" style="width:calc(11.159 * var(--u));--h:calc(6.686 * var(--u));transform-origin:right center"><span class="ph"><img src="assets/capa/09.webp" alt="Still de SÓ"></span><span class="cd"><b>#3C90B0</b><i>SÓ</i></span></a>
 <!-- 10 -->
-<a class="chip" href="so-videoclipe.html" data-slot="10" style="left:88.261cqw;top:30.406cqw;width:11.739cqw;--h:6.784cqw;transform-origin:right center;--c:#3C90B0;--ink:#1d1b18"><span class="ph"><img src="assets/capa/10.webp" alt="Still de SÓ" loading="eager"></span><span class="cd"><b>#3C90B0</b><i>SÓ</i></span></a>
+<a class="chip" href="auto-de-fe.html" data-slot="10" style="width:calc(10.290 * var(--u));--h:calc(6.556 * var(--u));transform-origin:right center"><span class="ph"><img src="assets/capa/10.webp" alt="Still de Auto de Fé"></span><span class="cd"><b>#348E99</b><i>Auto de Fé</i></span></a>
 <!-- 11 -->
-<a class="chip" href="auto-de-fe.html" data-slot="11" style="left:89.130cqw;top:39.436cqw;width:10.870cqw;--h:6.651cqw;transform-origin:right bottom;--c:#348E99;--ink:#f6f1e6"><span class="ph"><img src="assets/capa/11.webp" alt="Still de Auto de Fé" loading="eager"></span><span class="cd"><b>#348E99</b><i>Auto de Fé</i></span></a>
+<a class="chip" href="severa.html" data-slot="11" style="width:calc(9.420 * var(--u));--h:calc(7.437 * var(--u));transform-origin:right center"><span class="ph"><img src="assets/capa/11.webp" alt="Still de Severa"></span><span class="cd"><b>#995634</b><i>Severa</i></span></a>
+</div>
+<div class="capa-bot">
 <!-- 12 -->
-<a class="chip" href="ultimo-canto.html" data-slot="12" style="left:88.720cqw;top:50.797cqw;width:11.280cqw;--h:7.391cqw;transform-origin:right bottom;--c:#C0A77E;--ink:#1d1b18"><span class="ph"><img src="assets/capa/12.webp" alt="Still de Último Canto" loading="eager"></span><span class="cd"><b>#C0A77E</b><i>Último Canto</i></span></a>
+<a class="chip" href="ultimo-canto.html" data-slot="12" style="width:calc(9.633 * var(--u));--h:calc(6.812 * var(--u));transform-origin:right bottom"><span class="ph"><img src="assets/capa/12.webp" alt="Still de Último Canto"></span><span class="cd"><b>#547199</b><i>Último Canto</i></span></a>
 <!-- 13 -->
-<a class="chip" href="falta-sempre-qualquer-coisa.html" data-slot="13" style="left:75.104cqw;top:49.493cqw;width:13.036cqw;--h:8.696cqw;transform-origin:right bottom;--c:#C7C7C7;--ink:#1d1b18"><span class="ph"><img src="assets/capa/13.webp" alt="Still de Falta Sempre Qualquer Coisa" loading="eager"></span><span class="cd"><b>#C7C7C7</b><i>Falta Sempre Qualquer Coisa</i></span></a>
+<a class="chip" href="ultimo-canto.html" data-slot="13" style="width:calc(10.050 * var(--u));--h:calc(7.391 * var(--u));transform-origin:right bottom"><span class="ph"><img src="assets/capa/13.webp" alt="Still de Último Canto"></span><span class="cd"><b>#C0A77E</b><i>Último Canto</i></span></a>
 <!-- 14 -->
-<a class="chip" href="severa.html" data-slot="14" style="left:62.478cqw;top:50.217cqw;width:12.046cqw;--h:7.971cqw;transform-origin:center bottom;--c:#994D34;--ink:#f6f1e6"><span class="ph"><img src="assets/capa/14.webp" alt="Still de Severa" loading="eager"></span><span class="cd"><b>#994D34</b><i>Severa</i></span></a>
+<a class="chip" href="falta-sempre-qualquer-coisa.html" data-slot="14" style="width:calc(11.692 * var(--u));--h:calc(8.696 * var(--u));transform-origin:center bottom"><span class="ph"><img src="assets/capa/14.webp" alt="Still de Falta Sempre Qualquer Coisa"></span><span class="cd"><b>#C7C7C7</b><i>Falta Sempre Qualquer Coisa</i></span></a>
 <!-- 15 -->
-<a class="chip" href="so-videoclipe.html" data-slot="15" style="left:49.410cqw;top:51.957cqw;width:12.489cqw;--h:6.232cqw;transform-origin:center bottom;--c:#347E99;--ink:#f6f1e6"><span class="ph"><img src="assets/capa/15.webp" alt="Still de SÓ" loading="eager"></span><span class="cd"><b>#347E99</b><i>SÓ</i></span></a>
+<a class="chip" href="severa.html" data-slot="15" style="width:calc(10.766 * var(--u));--h:calc(7.971 * var(--u));transform-origin:center bottom"><span class="ph"><img src="assets/capa/15.webp" alt="Still de Severa"></span><span class="cd"><b>#994D34</b><i>Severa</i></span></a>
 <!-- 16 -->
-<a class="chip" href="severa.html" data-slot="16" style="left:34.805cqw;top:48.768cqw;width:14.026cqw;--h:9.420cqw;transform-origin:center bottom;--c:#994D34;--ink:#f6f1e6"><span class="ph"><img src="assets/capa/16.webp" alt="Still de Severa" loading="eager"></span><span class="cd"><b>#994D34</b><i>Severa</i></span></a>
+<a class="chip" href="so-videoclipe.html" data-slot="16" style="width:calc(11.180 * var(--u));--h:calc(6.232 * var(--u));transform-origin:center bottom"><span class="ph"><img src="assets/capa/16.webp" alt="Still de SÓ"></span><span class="cd"><b>#347E99</b><i>SÓ</i></span></a>
 <!-- 17 -->
-<a class="chip" href="severa.html" data-slot="17" style="left:22.970cqw;top:50.797cqw;width:11.254cqw;--h:7.391cqw;transform-origin:center bottom;--c:#994F34;--ink:#f6f1e6"><span class="ph"><img src="assets/capa/17.webp" alt="Still de Severa" loading="eager"></span><span class="cd"><b>#994F34</b><i>Severa</i></span></a>
+<a class="chip" href="severa.html" data-slot="17" style="width:calc(12.618 * var(--u));--h:calc(9.420 * var(--u));transform-origin:center bottom"><span class="ph"><img src="assets/capa/17.webp" alt="Still de Severa"></span><span class="cd"><b>#994D34</b><i>Severa</i></span></a>
 <!-- 18 -->
-<a class="chip" href="ultimo-canto.html" data-slot="18" style="left:12.654cqw;top:51.957cqw;width:9.737cqw;--h:6.232cqw;transform-origin:left bottom;--c:#657E99;--ink:#1d1b18"><span class="ph"><img src="assets/capa/18.webp" alt="Still de Último Canto" loading="eager"></span><span class="cd"><b>#657E99</b><i>Último Canto</i></span></a>
+<a class="chip" href="severa.html" data-slot="18" style="width:calc(10.025 * var(--u));--h:calc(7.391 * var(--u));transform-origin:center bottom"><span class="ph"><img src="assets/capa/18.webp" alt="Still de Severa"></span><span class="cd"><b>#994F34</b><i>Severa</i></span></a>
 <!-- 19 -->
-<a class="chip" href="ultimo-canto.html" data-slot="19" style="left:0.000cqw;top:50.217cqw;width:12.074cqw;--h:7.971cqw;transform-origin:left bottom;--c:#995534;--ink:#f6f1e6"><span class="ph"><img src="assets/capa/19.webp" alt="Still de Último Canto" loading="eager"></span><span class="cd"><b>#995534</b><i>Último Canto</i></span></a>
+<a class="chip" href="ultimo-canto.html" data-slot="19" style="width:calc(8.605 * var(--u));--h:calc(6.232 * var(--u));transform-origin:left bottom"><span class="ph"><img src="assets/capa/19.webp" alt="Still de Último Canto"></span><span class="cd"><b>#657E99</b><i>Último Canto</i></span></a>
 <!-- 20 -->
-<a class="chip" href="severa.html" data-slot="20" style="left:0.000cqw;top:38.373cqw;width:10.870cqw;--h:7.714cqw;transform-origin:left bottom;--c:#995534;--ink:#f6f1e6"><span class="ph"><img src="assets/capa/20.webp" alt="Still de Severa" loading="eager"></span><span class="cd"><b>#995534</b><i>Severa</i></span></a>
+<a class="chip" href="ultimo-canto.html" data-slot="20" style="width:calc(10.792 * var(--u));--h:calc(7.971 * var(--u));transform-origin:left bottom"><span class="ph"><img src="assets/capa/20.webp" alt="Still de Último Canto"></span><span class="cd"><b>#995534</b><i>Último Canto</i></span></a>
+</div>
+<div class="capa-col capa-esq">
 <!-- 21 -->
-<a class="chip" href="se-eu-quiser-choro.html" data-slot="21" style="left:0.000cqw;top:30.093cqw;width:10.870cqw;--h:6.033cqw;transform-origin:left center;--c:#99815F;--ink:#1d1b18"><span class="ph"><img src="assets/capa/21.webp" alt="Still de Se eu quiser, Choro" loading="eager"></span><span class="cd"><b>#99815F</b><i>Se eu quiser, Choro</i></span></a>
+<a class="chip" href="se-eu-quiser-choro.html" data-slot="21" style="width:calc(8.696 * var(--u));--h:calc(6.230 * var(--u));transform-origin:left center"><span class="ph"><img src="assets/capa/21.webp" alt="Still de Se eu quiser, Choro"></span><span class="cd"><b>#995F38</b><i>Se eu quiser, Choro</i></span></a>
 <!-- 22 -->
-<a class="chip" href="auto-de-fe.html" data-slot="22" style="left:0.000cqw;top:21.101cqw;width:11.739cqw;--h:6.746cqw;transform-origin:left center;--c:#3B7299;--ink:#f6f1e6"><span class="ph"><img src="assets/capa/22.webp" alt="Still de Auto de Fé" loading="eager"></span><span class="cd"><b>#3B7299</b><i>Auto de Fé</i></span></a>
+<a class="chip" href="severa.html" data-slot="22" style="width:calc(10.290 * var(--u));--h:calc(8.239 * var(--u));transform-origin:left center"><span class="ph"><img src="assets/capa/22.webp" alt="Still de Severa"></span><span class="cd"><b>#995534</b><i>Severa</i></span></a>
 <!-- 23 -->
-<a class="chip" href="ultimo-canto.html" data-slot="23" style="left:0.000cqw;top:12.101cqw;width:10.000cqw;--h:6.753cqw;transform-origin:left top;--c:#547199;--ink:#f6f1e6"><span class="ph"><img src="assets/capa/23.webp" alt="Still de Último Canto" loading="eager"></span><span class="cd"><b>#547199</b><i>Último Canto</i></span></a>
+<a class="chip" href="se-eu-quiser-choro.html" data-slot="23" style="width:calc(10.290 * var(--u));--h:calc(6.443 * var(--u));transform-origin:left center"><span class="ph"><img src="assets/capa/23.webp" alt="Still de Se eu quiser, Choro"></span><span class="cd"><b>#99815F</b><i>Se eu quiser, Choro</i></span></a>
+<!-- 24 -->
+<a class="chip" href="auto-de-fe.html" data-slot="24" style="width:calc(11.159 * var(--u));--h:calc(7.204 * var(--u));transform-origin:left center"><span class="ph"><img src="assets/capa/24.webp" alt="Still de Auto de Fé"></span><span class="cd"><b>#3B7299</b><i>Auto de Fé</i></span></a>
+</div>
 </div>
 </main>
 
