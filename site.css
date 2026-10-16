@@ -124,3 +124,8 @@ body[style*="--nav-glow"] .mf-dark > header nav a[style*="text-decoration: under
 .pg-uc .mf [style*="font-size: 22px; line-height: 1.4"]{text-align:justify;hyphens:auto}
 @media (max-width:760px){.pg-uc .r-c1,.pg-uc .r-anim{grid-template-columns:1fr !important;row-gap:24px}.pg-uc .r-c1>div:first-child{display:none}.pg-uc .r-pair{grid-template-columns:1fr}.pg-uc .r-mid{width:100% !important}.pg-uc .etq{display:none}}
 .pg-uc section img{display:block;width:100%;height:auto}
+.pg-uc .r-2col{display:grid;grid-template-columns:4fr 8fr;column-gap:40px;align-items:center}
+.pg-uc .r-gaiola{display:grid;grid-template-columns:2fr 4fr 4fr;column-gap:56px;align-items:center;margin-top:56px}
+.pg-uc .r-est{display:grid;grid-template-columns:minmax(0,1fr) 44%;column-gap:56px;align-items:center;margin-top:56px}
+.pg-uc .r-est-t{max-width:520px;margin-left:auto}
+@media (max-width:760px){.pg-uc .r-2col,.pg-uc .r-gaiola,.pg-uc .r-est{grid-template-columns:1fr !important;row-gap:24px}.pg-uc .r-gaiola>div:first-child{display:none}}
