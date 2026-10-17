@@ -47,9 +47,7 @@ button{font:inherit;color:inherit;background:none;cursor:pointer}
 /* Trabalhos: cartões de largura total que se empilham com o scroll */
 /* Página fixa: só os cartões se mexem */
 html,body{overscroll-behavior-y:none}
-.mf section.wk-title{position:sticky;top:84px;z-index:40;margin:0 24px;padding:12px 24px;background:var(--bg);display:flex;justify-content:space-between;align-items:baseline;gap:12px}
-.mf section.wk-title h1{margin:0;font-family:'Special Elite',cursive;font-weight:400;font-size:26px !important;line-height:1}
-.wk-title span{font-size:13px;color:var(--muted)}
+.mf section.wk-title{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
 .wk-stack{display:block;padding:14px 76px calc(var(--wk-peek) - 2vh);--wk-top:150px;--wk-peek:12vh;font-family:'Instrument Sans','Helvetica Neue',Arial,sans-serif}
 @supports (height:1svh){.wk-stack{--wk-peek:12svh;padding-bottom:calc(var(--wk-peek) - 2svh)}}
 .wk-card{display:block;position:sticky;top:var(--wk-top);height:calc(100vh - var(--wk-top) - var(--wk-peek));width:calc(100% - var(--i) * 1.4%);margin:0 auto 2vh;border-radius:28px;overflow:hidden;isolation:isolate;background:var(--bg);color:#fff;transform-origin:50% 0}
