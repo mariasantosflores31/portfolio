@@ -45,8 +45,13 @@ button{font:inherit;color:inherit;background:none;cursor:pointer}
 <link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600&amp;family=Syne:wght@500;600;700&amp;display=swap" rel="stylesheet">
 <style>
 /* Trabalhos: cartões de largura total que se empilham com o scroll */
-.wk-stack{display:block;padding:0 76px 8px;--wk-top:104px;--wk-peek:12vh;font-family:'Instrument Sans','Helvetica Neue',Arial,sans-serif}
-@supports (height:1svh){.wk-stack{--wk-peek:12svh}}
+/* Página fixa: só os cartões se mexem */
+html,body{overscroll-behavior-y:none}
+.mf section.wk-title{position:sticky;top:84px;z-index:40;margin:0 24px;padding:12px 24px;background:var(--bg);display:flex;justify-content:space-between;align-items:baseline;gap:12px}
+.mf section.wk-title h1{margin:0;font-family:'Special Elite',cursive;font-weight:400;font-size:26px !important;line-height:1}
+.wk-title span{font-size:13px;color:var(--muted)}
+.wk-stack{display:block;padding:14px 76px calc(var(--wk-peek) - 2vh);--wk-top:150px;--wk-peek:12vh;font-family:'Instrument Sans','Helvetica Neue',Arial,sans-serif}
+@supports (height:1svh){.wk-stack{--wk-peek:12svh;padding-bottom:calc(var(--wk-peek) - 2svh)}}
 .wk-card{display:block;position:sticky;top:var(--wk-top);height:calc(100vh - var(--wk-top) - var(--wk-peek));width:calc(100% - var(--i) * 1.4%);margin:0 auto 2vh;border-radius:28px;overflow:hidden;isolation:isolate;background:var(--bg);color:#fff;transform-origin:50% 0}
 @supports (height:1svh){.wk-card{height:calc(100svh - var(--wk-top) - var(--wk-peek));margin-bottom:2svh}}
 .wk-photo{position:absolute;inset:0;z-index:-2;background:var(--bg)}
@@ -71,6 +76,9 @@ button{font:inherit;color:inherit;background:none;cursor:pointer}
 .wk-card:hover .wk-go .wk-arrow,.wk-card:focus-visible .wk-go .wk-arrow{border-left-color:#de5aab}
 .wk-card:focus-visible{outline:2px dashed #de5aab;outline-offset:4px}
 @media (max-width:760px){
+  .mf section.wk-title{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+  .wk-stack{--wk-top:118px}
+  .wk-photo img{object-position:var(--pos,50% 50%)}
   .wk-card{border-radius:20px;width:calc(100% - var(--i) * 1%)}
   .wk-text{width:calc(100% - 40px);bottom:84px}
   .wk-text h2{margin-bottom:16px}
@@ -82,7 +90,7 @@ button{font:inherit;color:inherit;background:none;cursor:pointer}
 </head>
 <body>
 
-<div class="mf mf-light" style="position: relative; overflow: clip; width: 100%; min-height: 2700px; box-sizing: border-box; background: var(--bg); color: var(--ink); font-family: 'Special Elite', 'Courier New', monospace; display: flex; flex-direction: column;">
+<div class="mf mf-light" style="position: relative; overflow: clip; width: 100%; box-sizing: border-box; background: var(--bg); color: var(--ink); font-family: 'Special Elite', 'Courier New', monospace; display: flex; flex-direction: column;">
 
 <header style="display: flex; justify-content: space-between; align-items: center; padding: 20px 48px;">
 <a class="nl" href="index.html" style="font-family: 'Special Elite', cursive; font-size: 18px; padding: 8px 0;">Maria Flores</a>
@@ -94,13 +102,13 @@ button{font:inherit;color:inherit;background:none;cursor:pointer}
 </nav>
 </header>
 
-<section style="display: flex; justify-content: space-between; align-items: baseline; padding: 48px 48px 48px;">
-<h1 style="margin: 0; font-family: 'Special Elite', cursive; font-weight: 400; font-size: 40px; line-height: 1;">TRABALHOS</h1>
-<span style="font-size: 13px; color: var(--muted);">08 projetos · direção de arte</span>
+<section class="wk-title">
+<h1>TRABALHOS</h1>
+<span>08 projetos · direção de arte</span>
 </section>
 
 <section class="wk-stack" aria-label="Trabalhos">
-<a class="wk-card" href="ultimo-canto.html" style="--i:0;--bg:#7a3b34" aria-label="Último Canto">
+<a class="wk-card" href="ultimo-canto.html" style="--i:0;--bg:#7a3b34;--pos:29% 50%" aria-label="Último Canto">
 <div class="wk-photo"><img src="assets/covers/ultimo-canto.webp" alt="Fotograma de Último Canto" loading="eager"></div>
 <span class="wk-year">2026</span>
 <span class="wk-num"><b>01</b> / 08</span>
@@ -112,7 +120,7 @@ button{font:inherit;color:inherit;background:none;cursor:pointer}
 <span class="wk-go"><span>explorar</span><span class="wk-arrow"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M3 10h13M11 5l5 5-5 5"/></svg></span></span>
 <span class="wk-shade"></span>
 </a>
-<a class="wk-card" href="se-eu-quiser-choro.html" style="--i:1;--bg:#8f6a49" aria-label="Se eu quiser, Choro">
+<a class="wk-card" href="se-eu-quiser-choro.html" style="--i:1;--bg:#8f6a49;--pos:79% 50%" aria-label="Se eu quiser, Choro">
 <div class="wk-photo"><img src="assets/covers/se-eu-quiser-choro.webp" alt="Fotograma de Se eu quiser, Choro" loading="eager"></div>
 <span class="wk-year">2026</span>
 <span class="wk-num"><b>02</b> / 08</span>
@@ -124,7 +132,7 @@ button{font:inherit;color:inherit;background:none;cursor:pointer}
 <span class="wk-go"><span>explorar</span><span class="wk-arrow"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M3 10h13M11 5l5 5-5 5"/></svg></span></span>
 <span class="wk-shade"></span>
 </a>
-<a class="wk-card" href="auto-de-fe.html" style="--i:2;--bg:#16293a" aria-label="Auto de Fé">
+<a class="wk-card" href="auto-de-fe.html" style="--i:2;--bg:#16293a;--pos:50% 50%" aria-label="Auto de Fé">
 <div class="wk-photo"><img src="assets/covers/auto-de-fe.webp" alt="Fotograma de Auto de Fé" loading="lazy"></div>
 <span class="wk-year">2025</span>
 <span class="wk-num"><b>03</b> / 08</span>
@@ -136,7 +144,7 @@ button{font:inherit;color:inherit;background:none;cursor:pointer}
 <span class="wk-go"><span>explorar</span><span class="wk-arrow"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M3 10h13M11 5l5 5-5 5"/></svg></span></span>
 <span class="wk-shade"></span>
 </a>
-<a class="wk-card" href="severa.html" style="--i:3;--bg:#6e1620" aria-label="Severa">
+<a class="wk-card" href="severa.html" style="--i:3;--bg:#6e1620;--pos:70% 50%" aria-label="Severa">
 <div class="wk-photo"><img src="assets/covers/severa.webp" alt="Fotograma de Severa" loading="lazy"></div>
 <span class="wk-year">2025</span>
 <span class="wk-num"><b>04</b> / 08</span>
@@ -148,7 +156,7 @@ button{font:inherit;color:inherit;background:none;cursor:pointer}
 <span class="wk-go"><span>explorar</span><span class="wk-arrow"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M3 10h13M11 5l5 5-5 5"/></svg></span></span>
 <span class="wk-shade"></span>
 </a>
-<a class="wk-card" href="energias.html" style="--i:4;--bg:#8fb8c4" aria-label="Energias">
+<a class="wk-card" href="energias.html" style="--i:4;--bg:#8fb8c4;--pos:54% 50%" aria-label="Energias">
 <div class="wk-photo"><img src="assets/covers/energias.webp" alt="Fotograma de Energias" loading="lazy"></div>
 <span class="wk-year">2026</span>
 <span class="wk-num"><b>05</b> / 08</span>
@@ -160,7 +168,7 @@ button{font:inherit;color:inherit;background:none;cursor:pointer}
 <span class="wk-go"><span>explorar</span><span class="wk-arrow"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M3 10h13M11 5l5 5-5 5"/></svg></span></span>
 <span class="wk-shade"></span>
 </a>
-<a class="wk-card" href="os-terriveis.html" style="--i:5;--bg:#1f3550" aria-label="Os Terríveis">
+<a class="wk-card" href="os-terriveis.html" style="--i:5;--bg:#1f3550;--pos:50% 50%" aria-label="Os Terríveis">
 <div class="wk-photo"><img src="assets/covers/os-terriveis.webp" alt="Fotograma de Os Terríveis" loading="lazy"></div>
 <span class="wk-year">2024</span>
 <span class="wk-num"><b>06</b> / 08</span>
@@ -172,7 +180,7 @@ button{font:inherit;color:inherit;background:none;cursor:pointer}
 <span class="wk-go"><span>explorar</span><span class="wk-arrow"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M3 10h13M11 5l5 5-5 5"/></svg></span></span>
 <span class="wk-shade"></span>
 </a>
-<a class="wk-card" href="falta-sempre-qualquer-coisa.html" style="--i:6;--bg:#2f2f2f" aria-label="Falta Sempre Qualquer Coisa">
+<a class="wk-card" href="falta-sempre-qualquer-coisa.html" style="--i:6;--bg:#2f2f2f;--pos:36% 50%" aria-label="Falta Sempre Qualquer Coisa">
 <div class="wk-photo"><img src="assets/covers/falta-sempre-qualquer-coisa.webp" alt="Fotograma de Falta Sempre Qualquer Coisa" loading="lazy"></div>
 <span class="wk-year">2026</span>
 <span class="wk-num"><b>07</b> / 08</span>
@@ -184,7 +192,7 @@ button{font:inherit;color:inherit;background:none;cursor:pointer}
 <span class="wk-go"><span>explorar</span><span class="wk-arrow"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M3 10h13M11 5l5 5-5 5"/></svg></span></span>
 <span class="wk-shade"></span>
 </a>
-<a class="wk-card" href="so-videoclipe.html" style="--i:7;--bg:#3f6a8a" aria-label="SÓ">
+<a class="wk-card" href="so-videoclipe.html" style="--i:7;--bg:#3f6a8a;--pos:50% 50%" aria-label="SÓ">
 <div class="wk-photo"><img src="assets/covers/so-videoclipe.webp" alt="Fotograma de SÓ" loading="lazy"></div>
 <span class="wk-year">2025</span>
 <span class="wk-num"><b>08</b> / 08</span>
@@ -198,11 +206,6 @@ button{font:inherit;color:inherit;background:none;cursor:pointer}
 </a>
 </section>
 
-<footer style="display: flex; justify-content: space-between; padding: 96px 48px 32px; font-size: 12px; color: var(--muted);">
-<span>Direção de arte — cinema, videoclipes, documentário, publicidade</span>
-<a class="nl" href="index.html" style="padding: 12px 0;">Voltar ao início ↑</a>
-</footer>
-
 <div class="filmbg" aria-hidden="true"><div class="filmtile"></div></div>
 <div class="bar bar-l" aria-hidden="true"><div class="track track-up"><div style="position:absolute;left:0;right:0;height:760px;top:0px;"><span style="position:absolute;left:0;width:24px;top:0px;height:140px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="0"></span><span style="position:absolute;left:0;width:24px;top:140px;height:90px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="1"></span><span style="position:absolute;left:0;width:24px;top:230px;height:170px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="2"></span><span style="position:absolute;left:0;width:24px;top:400px;height:110px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="3"></span><span style="position:absolute;left:0;width:24px;top:510px;height:150px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="4"></span><span style="position:absolute;left:0;width:24px;top:660px;height:100px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="5"></span></div><div style="position:absolute;left:0;right:0;height:760px;top:760px;"><span style="position:absolute;left:0;width:24px;top:0px;height:140px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="0"></span><span style="position:absolute;left:0;width:24px;top:140px;height:90px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="1"></span><span style="position:absolute;left:0;width:24px;top:230px;height:170px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="2"></span><span style="position:absolute;left:0;width:24px;top:400px;height:110px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="3"></span><span style="position:absolute;left:0;width:24px;top:510px;height:150px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="4"></span><span style="position:absolute;left:0;width:24px;top:660px;height:100px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="5"></span></div><div style="position:absolute;left:0;right:0;height:760px;top:1520px;"><span style="position:absolute;left:0;width:24px;top:0px;height:140px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="0"></span><span style="position:absolute;left:0;width:24px;top:140px;height:90px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="1"></span><span style="position:absolute;left:0;width:24px;top:230px;height:170px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="2"></span><span style="position:absolute;left:0;width:24px;top:400px;height:110px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="3"></span><span style="position:absolute;left:0;width:24px;top:510px;height:150px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="4"></span><span style="position:absolute;left:0;width:24px;top:660px;height:100px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="5"></span></div><div style="position:absolute;left:0;right:0;height:760px;top:2280px;"><span style="position:absolute;left:0;width:24px;top:0px;height:140px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="0"></span><span style="position:absolute;left:0;width:24px;top:140px;height:90px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="1"></span><span style="position:absolute;left:0;width:24px;top:230px;height:170px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="2"></span><span style="position:absolute;left:0;width:24px;top:400px;height:110px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="3"></span><span style="position:absolute;left:0;width:24px;top:510px;height:150px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="4"></span><span style="position:absolute;left:0;width:24px;top:660px;height:100px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="5"></span></div></div></div>
 <div class="bar bar-r" aria-hidden="true"><div class="track track-down"><div style="position:absolute;left:0;right:0;height:760px;top:0px;"><span style="position:absolute;left:0;width:24px;top:0px;height:110px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="5"></span><span style="position:absolute;left:0;width:24px;top:110px;height:160px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="4"></span><span style="position:absolute;left:0;width:24px;top:270px;height:80px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="3"></span><span style="position:absolute;left:0;width:24px;top:350px;height:170px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="2"></span><span style="position:absolute;left:0;width:24px;top:520px;height:100px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="1"></span><span style="position:absolute;left:0;width:24px;top:620px;height:140px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="0"></span></div><div style="position:absolute;left:0;right:0;height:760px;top:760px;"><span style="position:absolute;left:0;width:24px;top:0px;height:110px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="5"></span><span style="position:absolute;left:0;width:24px;top:110px;height:160px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="4"></span><span style="position:absolute;left:0;width:24px;top:270px;height:80px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="3"></span><span style="position:absolute;left:0;width:24px;top:350px;height:170px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="2"></span><span style="position:absolute;left:0;width:24px;top:520px;height:100px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="1"></span><span style="position:absolute;left:0;width:24px;top:620px;height:140px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="0"></span></div><div style="position:absolute;left:0;right:0;height:760px;top:1520px;"><span style="position:absolute;left:0;width:24px;top:0px;height:110px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="5"></span><span style="position:absolute;left:0;width:24px;top:110px;height:160px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="4"></span><span style="position:absolute;left:0;width:24px;top:270px;height:80px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="3"></span><span style="position:absolute;left:0;width:24px;top:350px;height:170px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="2"></span><span style="position:absolute;left:0;width:24px;top:520px;height:100px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="1"></span><span style="position:absolute;left:0;width:24px;top:620px;height:140px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="0"></span></div><div style="position:absolute;left:0;right:0;height:760px;top:2280px;"><span style="position:absolute;left:0;width:24px;top:0px;height:110px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="5"></span><span style="position:absolute;left:0;width:24px;top:110px;height:160px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="4"></span><span style="position:absolute;left:0;width:24px;top:270px;height:80px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="3"></span><span style="position:absolute;left:0;width:24px;top:350px;height:170px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="2"></span><span style="position:absolute;left:0;width:24px;top:520px;height:100px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="1"></span><span style="position:absolute;left:0;width:24px;top:620px;height:140px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="0"></span></div></div></div>
@@ -211,6 +214,13 @@ button{font:inherit;color:inherit;background:none;cursor:pointer}
 (function(){
   var cards=[].slice.call(document.querySelectorAll('.wk-card'));
   var reduced=window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  var stack=document.querySelector('.wk-stack');
+  function setTop(){
+    var h=document.querySelector('.mf > header'),t=document.querySelector('.wk-title');
+    var hh=h?h.offsetHeight:84,sticky=t&&getComputedStyle(t).position==='sticky';
+    if(sticky)t.style.top=hh+'px';
+    stack.style.setProperty('--wk-top',(hh+(sticky?t.offsetHeight:0)+14)+'px');
+  }
   var ticking=false;
   function frame(){
     ticking=false;
@@ -226,7 +236,8 @@ button{font:inherit;color:inherit;background:none;cursor:pointer}
   }
   function on(){if(!ticking){ticking=true;requestAnimationFrame(frame);}}
   window.addEventListener('scroll',on,{passive:true});
-  window.addEventListener('resize',on);
+  window.addEventListener('resize',function(){setTop();on();});
+  setTop();
   frame();
 })();
 </script>

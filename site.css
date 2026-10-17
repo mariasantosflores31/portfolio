@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500&display=swap');
 html{scroll-behavior:smooth}
 /* Grão de película / TV por trás do conteúdo */
 .filmbg::after{content:"";position:absolute;inset:-50%;width:200%;height:200%;pointer-events:none;
@@ -145,3 +146,6 @@ body[style*="--nav-glow"] .mf-dark > header nav a[style*="text-decoration: under
 /* Fundo branco sujo e menos manchas de película */
 .mf-light{--bg:#f3efe6}
 .mf .filmtile{opacity:.35}
+
+/* Barras laterais: letra sem serifas */
+.bar [data-lab]{font-family:'Instrument Sans','Helvetica Neue',Arial,sans-serif !important;font-size:7px !important;letter-spacing:.08em !important;font-weight:500 !important}
