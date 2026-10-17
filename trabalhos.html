@@ -42,11 +42,47 @@ button{font:inherit;color:inherit;background:none;cursor:pointer}
 @media (prefers-reduced-motion: reduce){.track-up,.track-down{animation:none}}
 .bar{--b0:#9b5419;--b1:#1e494f;--b2:#a4434e;--b3:#4f6c8c;--b4:#135e7d;--b5:#b58763}
 </style>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600&amp;family=Syne:wght@500;600;700&amp;display=swap" rel="stylesheet">
+<style>
+/* Trabalhos: cartões de largura total que se empilham com o scroll */
+.wk-stack{display:block;padding:0 76px 8px;--wk-top:104px;--wk-peek:12vh;font-family:'Instrument Sans','Helvetica Neue',Arial,sans-serif}
+@supports (height:1svh){.wk-stack{--wk-peek:12svh}}
+.wk-card{display:block;position:sticky;top:var(--wk-top);height:calc(100vh - var(--wk-top) - var(--wk-peek));width:calc(100% - var(--i) * 1.4%);margin:0 auto 2vh;border-radius:28px;overflow:hidden;isolation:isolate;background:var(--bg);color:#fff;transform-origin:50% 0}
+@supports (height:1svh){.wk-card{height:calc(100svh - var(--wk-top) - var(--wk-peek));margin-bottom:2svh}}
+.wk-photo{position:absolute;inset:0;z-index:-2;background:var(--bg)}
+.wk-photo img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block}
+.wk-card::before{content:"";position:absolute;inset:0;z-index:-1;background:linear-gradient(0deg,rgba(8,4,5,.82),rgba(8,4,5,.25) 45%,transparent 70%)}
+.wk-shade{position:absolute;inset:0;background:#000;opacity:var(--cover,0);pointer-events:none;z-index:3}
+.wk-year{position:absolute;top:clamp(18px,3vw,34px);left:clamp(20px,4vw,72px);font-family:'Syne',sans-serif;font-weight:600;font-size:clamp(16px,1.8vw,24px)}
+.wk-num{position:absolute;top:clamp(18px,3vw,34px);right:clamp(20px,4vw,72px);font-size:11px;letter-spacing:.2em;color:rgba(255,255,255,.75)}
+.wk-num b{color:#de5aab;font-weight:600}
+.wk-text{position:absolute;left:clamp(20px,4vw,72px);bottom:clamp(20px,5vh,56px);width:min(480px,62%)}
+.wk-cat{display:block;font-size:11px;letter-spacing:.3em;text-transform:uppercase;margin-bottom:10px;color:rgba(255,255,255,.88)}
+.wk-text h2{font-family:'Syne',sans-serif;font-weight:600;font-size:clamp(30px,5vw,64px);line-height:1;letter-spacing:-.02em;margin:0 0 22px;text-wrap:balance}
+.wk-rows{margin:0;padding:0}
+.wk-rows div{display:flex;justify-content:space-between;gap:16px;border-top:1px solid rgba(255,255,255,.4);padding:6px 0;font-size:11px;letter-spacing:.14em;text-transform:uppercase}
+.wk-rows div:last-child{border-bottom:1px solid rgba(255,255,255,.4)}
+.wk-rows dt{color:rgba(255,255,255,.72)}
+.wk-rows dd{margin:0;text-align:right}
+.wk-go{position:absolute;right:clamp(20px,4vw,72px);bottom:clamp(20px,5vh,56px);display:flex;align-items:stretch;border:1px solid rgba(255,255,255,.85);border-radius:12px;font-size:12px;letter-spacing:.2em;text-transform:uppercase;background:rgba(10,6,7,.35);transition:border-color .25s,color .25s}
+.wk-go>span{padding:15px 22px}
+.wk-go .wk-arrow{padding:15px 16px;border-left:1px dashed rgba(255,255,255,.85);display:grid;place-items:center}
+.wk-card:hover .wk-go,.wk-card:focus-visible .wk-go{border-color:#de5aab;color:#de5aab}
+.wk-card:hover .wk-go .wk-arrow,.wk-card:focus-visible .wk-go .wk-arrow{border-left-color:#de5aab}
+.wk-card:focus-visible{outline:2px dashed #de5aab;outline-offset:4px}
+@media (max-width:760px){
+  .wk-card{border-radius:20px;width:calc(100% - var(--i) * 1%)}
+  .wk-text{width:calc(100% - 40px);bottom:84px}
+  .wk-text h2{margin-bottom:16px}
+  .wk-go{right:auto;left:clamp(20px,4vw,72px);bottom:20px}
+  .wk-go>span{padding-top:12px;padding-bottom:12px}
+}
+</style>
 <link rel="stylesheet" href="site.css">
 </head>
 <body>
 
-<div class="mf mf-light" style="position: relative; overflow: hidden; width: 100%; min-height: 2700px; box-sizing: border-box; background: var(--bg); color: var(--ink); font-family: 'Special Elite', 'Courier New', monospace; display: flex; flex-direction: column;">
+<div class="mf mf-light" style="position: relative; overflow: clip; width: 100%; min-height: 2700px; box-sizing: border-box; background: var(--bg); color: var(--ink); font-family: 'Special Elite', 'Courier New', monospace; display: flex; flex-direction: column;">
 
 <header style="display: flex; justify-content: space-between; align-items: center; padding: 20px 48px;">
 <a class="nl" href="index.html" style="font-family: 'Special Elite', cursive; font-size: 18px; padding: 8px 0;">Maria Flores</a>
@@ -60,115 +96,106 @@ button{font:inherit;color:inherit;background:none;cursor:pointer}
 
 <section style="display: flex; justify-content: space-between; align-items: baseline; padding: 48px 48px 48px;">
 <h1 style="margin: 0; font-family: 'Special Elite', cursive; font-weight: 400; font-size: 40px; line-height: 1;">TRABALHOS</h1>
-<span style="font-size: 13px; color: var(--muted);">07 projetos · direção de arte</span>
+<span style="font-size: 13px; color: var(--muted);">08 projetos · direção de arte</span>
 </section>
 
-<section style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); column-gap: 24px; row-gap: 56px; padding: 0 48px;">
-
-<a href="ultimo-canto.html" style="display: flex; flex-direction: column; gap: 18px; grid-column: span 2;">
-<div style="position: relative; aspect-ratio: 21 / 9; overflow: hidden; background: #7a3b34;">
-<img src="assets/covers/ultimo-canto.webp" alt="Fotograma de Último Canto" loading="lazy" style="position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; display: block;">
+<section class="wk-stack" aria-label="Trabalhos">
+<a class="wk-card" href="ultimo-canto.html" style="--i:0;--bg:#7a3b34" aria-label="Último Canto">
+<div class="wk-photo"><img src="assets/covers/ultimo-canto.webp" alt="Fotograma de Último Canto" loading="eager"></div>
+<span class="wk-year">2026</span>
+<span class="wk-num"><b>01</b> / 08</span>
+<div class="wk-text">
+<span class="wk-cat">Curta-metragem · em pós-produção</span>
+<h2>Último Canto</h2>
+<dl class="wk-rows"><div><dt>cargo</dt><dd>Direção de Arte</dd></div><div><dt>tipo</dt><dd>Curta-metragem</dd></div><div><dt>ano</dt><dd>2026</dd></div></dl>
 </div>
-<div style="display: flex; flex-direction: column; gap: 12px;">
-<div style="display: flex; justify-content: space-between; align-items: baseline; gap: 16px;"><span style="font-family: 'Rubik', 'Arial Rounded MT Bold', sans-serif; font-weight: 800; letter-spacing: -0.03em; font-size: 19px; line-height: 1.2;">Último Canto</span><span style="font-size: 13px; color: var(--muted);">2026</span></div>
-<span style="display: flex; flex-wrap: wrap; gap: 14px;">
-<span style="position: relative; display: inline-block; background: #f8f5ef; color: #1c1b1a; border: 1px solid #1c1b1a; border-radius: 999px; padding: 5px 14px; font-size: 12px; line-height: 1.2;"><svg aria-hidden="true" width="20" height="20" viewBox="0 0 20 20" style="position: absolute; left: -7px; top: -7px;"><polygon points="11.2,1.6 12.8,7.1 19.0,8.1 13.3,11.7 14.2,17.5 9.4,14.5 3.3,16.9 5.8,10.9 1.8,5.7 8.1,6.3" fill="#f0e4a8" stroke="#f0e4a8" stroke-width="0.8" stroke-linejoin="round"></polygon></svg>Direção de Arte</span>
-<span style="display: inline-block; border: 1px solid var(--ink); border-radius: 999px; padding: 5px 14px; font-size: 12px; line-height: 1.2;">Curta-metragem · em pós-produção</span>
-</span>
-</div>
+<span class="wk-go"><span>explorar</span><span class="wk-arrow"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M3 10h13M11 5l5 5-5 5"/></svg></span></span>
+<span class="wk-shade"></span>
 </a>
-
-<a href="se-eu-quiser-choro.html" style="display: flex; flex-direction: column; gap: 18px; grid-column: span 1;">
-<div style="position: relative; aspect-ratio: 16 / 9; overflow: hidden; background: #8f6a49;">
-<img src="assets/covers/se-eu-quiser-choro.webp" alt="Fotograma de Se eu quiser, Choro" loading="lazy" style="position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; display: block;">
+<a class="wk-card" href="se-eu-quiser-choro.html" style="--i:1;--bg:#8f6a49" aria-label="Se eu quiser, Choro">
+<div class="wk-photo"><img src="assets/covers/se-eu-quiser-choro.webp" alt="Fotograma de Se eu quiser, Choro" loading="eager"></div>
+<span class="wk-year">2026</span>
+<span class="wk-num"><b>02</b> / 08</span>
+<div class="wk-text">
+<span class="wk-cat">Minissérie · em pós-produção</span>
+<h2>Se eu quiser, Choro</h2>
+<dl class="wk-rows"><div><dt>cargo</dt><dd>Direção de Arte</dd></div><div><dt>tipo</dt><dd>Minissérie</dd></div><div><dt>ano</dt><dd>2026</dd></div></dl>
 </div>
-<div style="display: flex; flex-direction: column; gap: 12px;">
-<div style="display: flex; justify-content: space-between; align-items: baseline; gap: 16px;"><span style="font-family: 'Rubik', 'Arial Rounded MT Bold', sans-serif; font-weight: 800; letter-spacing: -0.03em; font-size: 19px; line-height: 1.2;">Se eu quiser, Choro</span><span style="font-size: 13px; color: var(--muted);">2026</span></div>
-<span style="display: flex; flex-wrap: wrap; gap: 14px;">
-<span style="position: relative; display: inline-block; background: #f8f5ef; color: #1c1b1a; border: 1px solid #1c1b1a; border-radius: 999px; padding: 5px 14px; font-size: 12px; line-height: 1.2;"><svg aria-hidden="true" width="20" height="20" viewBox="0 0 20 20" style="position: absolute; left: -7px; top: -7px;"><polygon points="10.1,0.9 11.0,8.7 17.2,10.1 11.0,11.2 10.0,19.3 9.0,11.3 3.0,10.1 9.0,8.7" fill="#f0e4a8" stroke="#f0e4a8" stroke-width="0.8" stroke-linejoin="round"></polygon></svg>Direção de Arte</span>
-<span style="display: inline-block; border: 1px solid var(--ink); border-radius: 999px; padding: 5px 14px; font-size: 12px; line-height: 1.2;">Minissérie · em pós-produção</span>
-</span>
-</div>
+<span class="wk-go"><span>explorar</span><span class="wk-arrow"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M3 10h13M11 5l5 5-5 5"/></svg></span></span>
+<span class="wk-shade"></span>
 </a>
-
-<a href="auto-de-fe.html" style="display: flex; flex-direction: column; gap: 18px; grid-column: span 1;">
-<div style="position: relative; aspect-ratio: 16 / 9; overflow: hidden; background: #16293a;">
-<img src="assets/covers/auto-de-fe.webp" alt="Fotograma de Auto de Fé" loading="lazy" style="position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; display: block;">
+<a class="wk-card" href="auto-de-fe.html" style="--i:2;--bg:#16293a" aria-label="Auto de Fé">
+<div class="wk-photo"><img src="assets/covers/auto-de-fe.webp" alt="Fotograma de Auto de Fé" loading="lazy"></div>
+<span class="wk-year">2025</span>
+<span class="wk-num"><b>03</b> / 08</span>
+<div class="wk-text">
+<span class="wk-cat">Curta-metragem</span>
+<h2>Auto de Fé</h2>
+<dl class="wk-rows"><div><dt>cargo</dt><dd>Direção de Arte</dd></div><div><dt>tipo</dt><dd>Curta-metragem</dd></div><div><dt>ano</dt><dd>2025</dd></div></dl>
 </div>
-<div style="display: flex; flex-direction: column; gap: 12px;">
-<div style="display: flex; justify-content: space-between; align-items: baseline; gap: 16px;"><span style="font-family: 'Rubik', 'Arial Rounded MT Bold', sans-serif; font-weight: 800; letter-spacing: -0.03em; font-size: 19px; line-height: 1.2;">Auto de Fé</span><span style="font-size: 13px; color: var(--muted);">2025</span></div>
-<span style="display: flex; flex-wrap: wrap; gap: 14px;">
-<span style="position: relative; display: inline-block; background: #f8f5ef; color: #1c1b1a; border: 1px solid #1c1b1a; border-radius: 999px; padding: 5px 14px; font-size: 12px; line-height: 1.2;"><svg aria-hidden="true" width="20" height="20" viewBox="0 0 20 20" style="position: absolute; left: -7px; top: -7px;"><polygon points="10.6,1.2 12.0,5.9 15.4,5.4 14.1,8.7 18.5,10.7 13.8,11.9 14.4,15.4 11.3,14.1 9.0,19.1 7.9,14.0 4.4,14.9 5.5,11.5 1.4,9.4 6.1,7.9 5.7,4.8 8.6,5.6" fill="#f0e4a8" stroke="#f0e4a8" stroke-width="0.8" stroke-linejoin="round"></polygon></svg>Direção de Arte</span>
-<span style="display: inline-block; border: 1px solid var(--ink); border-radius: 999px; padding: 5px 14px; font-size: 12px; line-height: 1.2;">Curta-metragem</span>
-</span>
-</div>
+<span class="wk-go"><span>explorar</span><span class="wk-arrow"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M3 10h13M11 5l5 5-5 5"/></svg></span></span>
+<span class="wk-shade"></span>
 </a>
-
-<a href="severa.html" style="display: flex; flex-direction: column; gap: 18px; grid-column: span 1;">
-<div style="position: relative; aspect-ratio: 16 / 9; overflow: hidden; background: #6e1620;">
-<img src="assets/covers/severa.webp" alt="Fotograma de Severa" loading="lazy" style="position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; display: block;">
+<a class="wk-card" href="severa.html" style="--i:3;--bg:#6e1620" aria-label="Severa">
+<div class="wk-photo"><img src="assets/covers/severa.webp" alt="Fotograma de Severa" loading="lazy"></div>
+<span class="wk-year">2025</span>
+<span class="wk-num"><b>04</b> / 08</span>
+<div class="wk-text">
+<span class="wk-cat">Fashion film</span>
+<h2>Severa</h2>
+<dl class="wk-rows"><div><dt>cargo</dt><dd>Direção de Arte</dd></div><div><dt>tipo</dt><dd>Fashion film</dd></div><div><dt>ano</dt><dd>2025</dd></div></dl>
 </div>
-<div style="display: flex; flex-direction: column; gap: 12px;">
-<div style="display: flex; justify-content: space-between; align-items: baseline; gap: 16px;"><span style="font-family: 'Rubik', 'Arial Rounded MT Bold', sans-serif; font-weight: 800; letter-spacing: -0.03em; font-size: 19px; line-height: 1.2;">Severa</span><span style="font-size: 13px; color: var(--muted);">2025</span></div>
-<span style="display: flex; flex-wrap: wrap; gap: 14px;">
-<span style="position: relative; display: inline-block; background: #f8f5ef; color: #1c1b1a; border: 1px solid #1c1b1a; border-radius: 999px; padding: 5px 14px; font-size: 12px; line-height: 1.2;"><svg aria-hidden="true" width="20" height="20" viewBox="0 0 20 20" style="position: absolute; left: -7px; top: -7px;"><polygon points="11.9,1.3 13.1,8.0 18.8,11.9 11.8,12.7 7.9,19.0 7.3,11.8 1.8,8.1 8.0,7.1" fill="#f0e4a8" stroke="#f0e4a8" stroke-width="0.8" stroke-linejoin="round"></polygon></svg>Direção de Arte</span>
-<span style="display: inline-block; border: 1px solid var(--ink); border-radius: 999px; padding: 5px 14px; font-size: 12px; line-height: 1.2;">Fashion film</span>
-</span>
-</div>
+<span class="wk-go"><span>explorar</span><span class="wk-arrow"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M3 10h13M11 5l5 5-5 5"/></svg></span></span>
+<span class="wk-shade"></span>
 </a>
-
-<a href="os-terriveis.html" style="display: flex; flex-direction: column; gap: 18px; grid-column: span 1;">
-<div style="position: relative; aspect-ratio: 16 / 9; overflow: hidden; background: #1f3550;">
-<img src="assets/covers/os-terriveis.webp" alt="Fotograma de Os Terríveis" loading="lazy" style="position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; display: block;">
+<a class="wk-card" href="energias.html" style="--i:4;--bg:#8fb8c4" aria-label="Energias">
+<div class="wk-photo"><img src="assets/covers/energias.webp" alt="Fotograma de Energias" loading="lazy"></div>
+<span class="wk-year">2026</span>
+<span class="wk-num"><b>05</b> / 08</span>
+<div class="wk-text">
+<span class="wk-cat">Videoclipe</span>
+<h2>Energias</h2>
+<dl class="wk-rows"><div><dt>cargo</dt><dd>Direção de Arte</dd></div><div><dt>tipo</dt><dd>Videoclipe</dd></div><div><dt>ano</dt><dd>2026</dd></div></dl>
 </div>
-<div style="display: flex; flex-direction: column; gap: 12px;">
-<div style="display: flex; justify-content: space-between; align-items: baseline; gap: 16px;"><span style="font-family: 'Rubik', 'Arial Rounded MT Bold', sans-serif; font-weight: 800; letter-spacing: -0.03em; font-size: 19px; line-height: 1.2;">Os Terríveis</span><span style="font-size: 13px; color: var(--muted);">2024</span></div>
-<span style="display: flex; flex-wrap: wrap; gap: 14px;">
-<span style="position: relative; display: inline-block; background: #f8f5ef; color: #1c1b1a; border: 1px solid #1c1b1a; border-radius: 999px; padding: 5px 14px; font-size: 12px; line-height: 1.2;"><svg aria-hidden="true" width="20" height="20" viewBox="0 0 20 20" style="position: absolute; left: -7px; top: -7px;"><polygon points="10.1,1.4 11.9,6.7 16.9,5.6 13.4,9.9 17.8,14.5 11.9,13.3 10.0,18.7 8.1,13.5 3.3,14.2 6.6,9.9 2.3,5.1 8.2,6.5" fill="#f0e4a8" stroke="#f0e4a8" stroke-width="0.8" stroke-linejoin="round"></polygon></svg>Assistente de Arte</span>
-<span style="display: inline-block; border: 1px solid var(--ink); border-radius: 999px; padding: 5px 14px; font-size: 12px; line-height: 1.2;">Curta-metragem</span>
-</span>
-</div>
+<span class="wk-go"><span>explorar</span><span class="wk-arrow"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M3 10h13M11 5l5 5-5 5"/></svg></span></span>
+<span class="wk-shade"></span>
 </a>
-
-<a href="falta-sempre-qualquer-coisa.html" style="display: flex; flex-direction: column; gap: 18px; grid-column: span 1;">
-<div style="position: relative; aspect-ratio: 16 / 9; overflow: hidden; background: #2f2f2f;">
-<img src="assets/covers/falta-sempre-qualquer-coisa.webp" alt="Fotograma de Falta Sempre Qualquer Coisa" loading="lazy" style="position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; display: block;">
+<a class="wk-card" href="os-terriveis.html" style="--i:5;--bg:#1f3550" aria-label="Os Terríveis">
+<div class="wk-photo"><img src="assets/covers/os-terriveis.webp" alt="Fotograma de Os Terríveis" loading="lazy"></div>
+<span class="wk-year">2024</span>
+<span class="wk-num"><b>06</b> / 08</span>
+<div class="wk-text">
+<span class="wk-cat">Curta-metragem</span>
+<h2>Os Terríveis</h2>
+<dl class="wk-rows"><div><dt>cargo</dt><dd>Assistente de Arte</dd></div><div><dt>tipo</dt><dd>Curta-metragem</dd></div><div><dt>ano</dt><dd>2024</dd></div></dl>
 </div>
-<div style="display: flex; flex-direction: column; gap: 12px;">
-<div style="display: flex; justify-content: space-between; align-items: baseline; gap: 16px;"><span style="font-family: 'Rubik', 'Arial Rounded MT Bold', sans-serif; font-weight: 800; letter-spacing: -0.03em; font-size: 19px; line-height: 1.2;">Falta Sempre Qualquer Coisa</span><span style="font-size: 13px; color: var(--muted);">2026</span></div>
-<span style="display: flex; flex-wrap: wrap; gap: 14px;">
-<span style="position: relative; display: inline-block; background: #f8f5ef; color: #1c1b1a; border: 1px solid #1c1b1a; border-radius: 999px; padding: 5px 14px; font-size: 12px; line-height: 1.2;"><svg aria-hidden="true" width="20" height="20" viewBox="0 0 20 20" style="position: absolute; left: -7px; top: -7px;"><polygon points="11.2,1.6 12.8,7.1 19.0,8.1 13.3,11.7 14.2,17.5 9.4,14.5 3.3,16.9 5.8,10.9 1.8,5.7 8.1,6.3" fill="#f0e4a8" stroke="#f0e4a8" stroke-width="0.8" stroke-linejoin="round"></polygon></svg>Direção de Arte</span>
-<span style="display: inline-block; border: 1px solid var(--ink); border-radius: 999px; padding: 5px 14px; font-size: 12px; line-height: 1.2;">Filme experimental</span>
-</span>
-</div>
+<span class="wk-go"><span>explorar</span><span class="wk-arrow"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M3 10h13M11 5l5 5-5 5"/></svg></span></span>
+<span class="wk-shade"></span>
 </a>
-
-<a href="so-videoclipe.html" style="display: flex; flex-direction: column; gap: 18px; grid-column: span 1;">
-<div style="position: relative; aspect-ratio: 16 / 9; overflow: hidden; background: #3f6a8a;">
-<img src="assets/covers/so-videoclipe.webp" alt="Fotograma de SÓ" loading="lazy" style="position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; display: block;">
+<a class="wk-card" href="falta-sempre-qualquer-coisa.html" style="--i:6;--bg:#2f2f2f" aria-label="Falta Sempre Qualquer Coisa">
+<div class="wk-photo"><img src="assets/covers/falta-sempre-qualquer-coisa.webp" alt="Fotograma de Falta Sempre Qualquer Coisa" loading="lazy"></div>
+<span class="wk-year">2026</span>
+<span class="wk-num"><b>07</b> / 08</span>
+<div class="wk-text">
+<span class="wk-cat">Filme experimental</span>
+<h2>Falta Sempre Qualquer Coisa</h2>
+<dl class="wk-rows"><div><dt>cargo</dt><dd>Direção de Arte</dd></div><div><dt>tipo</dt><dd>Filme experimental</dd></div><div><dt>ano</dt><dd>2026</dd></div></dl>
 </div>
-<div style="display: flex; flex-direction: column; gap: 12px;">
-<div style="display: flex; justify-content: space-between; align-items: baseline; gap: 16px;"><span style="font-family: 'Rubik', 'Arial Rounded MT Bold', sans-serif; font-weight: 800; letter-spacing: -0.03em; font-size: 19px; line-height: 1.2;">SÓ</span><span style="font-size: 13px; color: var(--muted);">2025</span></div>
-<span style="display: flex; flex-wrap: wrap; gap: 14px;">
-<span style="position: relative; display: inline-block; background: #f8f5ef; color: #1c1b1a; border: 1px solid #1c1b1a; border-radius: 999px; padding: 5px 14px; font-size: 12px; line-height: 1.2;"><svg aria-hidden="true" width="20" height="20" viewBox="0 0 20 20" style="position: absolute; left: -7px; top: -7px;"><polygon points="10.1,0.9 11.0,8.7 17.2,10.1 11.0,11.2 10.0,19.3 9.0,11.3 3.0,10.1 9.0,8.7" fill="#f0e4a8" stroke="#f0e4a8" stroke-width="0.8" stroke-linejoin="round"></polygon></svg>Aderecista</span>
-<span style="display: inline-block; border: 1px solid var(--ink); border-radius: 999px; padding: 5px 14px; font-size: 12px; line-height: 1.2;">Videoclipe</span>
-</span>
-</div>
+<span class="wk-go"><span>explorar</span><span class="wk-arrow"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M3 10h13M11 5l5 5-5 5"/></svg></span></span>
+<span class="wk-shade"></span>
 </a>
-
-<a href="energias.html" style="display: flex; flex-direction: column; gap: 18px; grid-column: span 2;">
-<div style="position: relative; aspect-ratio: 21 / 9; overflow: hidden; background: #8fb8c4;">
-<img src="assets/covers/energias.webp" alt="Fotograma de Energias" loading="lazy" style="position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; display: block;">
+<a class="wk-card" href="so-videoclipe.html" style="--i:7;--bg:#3f6a8a" aria-label="SÓ">
+<div class="wk-photo"><img src="assets/covers/so-videoclipe.webp" alt="Fotograma de SÓ" loading="lazy"></div>
+<span class="wk-year">2025</span>
+<span class="wk-num"><b>08</b> / 08</span>
+<div class="wk-text">
+<span class="wk-cat">Videoclipe</span>
+<h2>SÓ</h2>
+<dl class="wk-rows"><div><dt>cargo</dt><dd>Aderecista</dd></div><div><dt>tipo</dt><dd>Videoclipe</dd></div><div><dt>ano</dt><dd>2025</dd></div></dl>
 </div>
-<div style="display: flex; flex-direction: column; gap: 12px;">
-<div style="display: flex; justify-content: space-between; align-items: baseline; gap: 16px;"><span style="font-family: 'Rubik', 'Arial Rounded MT Bold', sans-serif; font-weight: 800; letter-spacing: -0.03em; font-size: 19px; line-height: 1.2;">Energias</span><span style="font-size: 13px; color: var(--muted);">2026</span></div>
-<span style="display: flex; flex-wrap: wrap; gap: 14px;">
-<span style="position: relative; display: inline-block; background: #f8f5ef; color: #1c1b1a; border: 1px solid #1c1b1a; border-radius: 999px; padding: 5px 14px; font-size: 12px; line-height: 1.2;"><svg aria-hidden="true" width="20" height="20" viewBox="0 0 20 20" style="position: absolute; left: -7px; top: -7px;"><polygon points="10.1,0.9 11.0,8.7 17.2,10.1 11.0,11.2 10.0,19.3 9.0,11.3 3.0,10.1 9.0,8.7" fill="#f0e4a8" stroke="#f0e4a8" stroke-width="0.8" stroke-linejoin="round"></polygon></svg>Direção de Arte</span>
-<span style="display: inline-block; border: 1px solid var(--ink); border-radius: 999px; padding: 5px 14px; font-size: 12px; line-height: 1.2;">Videoclipe</span>
-</span>
-</div>
+<span class="wk-go"><span>explorar</span><span class="wk-arrow"><svg width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M3 10h13M11 5l5 5-5 5"/></svg></span></span>
+<span class="wk-shade"></span>
 </a>
-
 </section>
 
 <footer style="display: flex; justify-content: space-between; padding: 96px 48px 32px; font-size: 12px; color: var(--muted);">
@@ -180,6 +207,29 @@ button{font:inherit;color:inherit;background:none;cursor:pointer}
 <div class="bar bar-l" aria-hidden="true"><div class="track track-up"><div style="position:absolute;left:0;right:0;height:760px;top:0px;"><span style="position:absolute;left:0;width:24px;top:0px;height:140px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="0"></span><span style="position:absolute;left:0;width:24px;top:140px;height:90px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="1"></span><span style="position:absolute;left:0;width:24px;top:230px;height:170px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="2"></span><span style="position:absolute;left:0;width:24px;top:400px;height:110px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="3"></span><span style="position:absolute;left:0;width:24px;top:510px;height:150px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="4"></span><span style="position:absolute;left:0;width:24px;top:660px;height:100px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="5"></span></div><div style="position:absolute;left:0;right:0;height:760px;top:760px;"><span style="position:absolute;left:0;width:24px;top:0px;height:140px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="0"></span><span style="position:absolute;left:0;width:24px;top:140px;height:90px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="1"></span><span style="position:absolute;left:0;width:24px;top:230px;height:170px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="2"></span><span style="position:absolute;left:0;width:24px;top:400px;height:110px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="3"></span><span style="position:absolute;left:0;width:24px;top:510px;height:150px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="4"></span><span style="position:absolute;left:0;width:24px;top:660px;height:100px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="5"></span></div><div style="position:absolute;left:0;right:0;height:760px;top:1520px;"><span style="position:absolute;left:0;width:24px;top:0px;height:140px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="0"></span><span style="position:absolute;left:0;width:24px;top:140px;height:90px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="1"></span><span style="position:absolute;left:0;width:24px;top:230px;height:170px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="2"></span><span style="position:absolute;left:0;width:24px;top:400px;height:110px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="3"></span><span style="position:absolute;left:0;width:24px;top:510px;height:150px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="4"></span><span style="position:absolute;left:0;width:24px;top:660px;height:100px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="5"></span></div><div style="position:absolute;left:0;right:0;height:760px;top:2280px;"><span style="position:absolute;left:0;width:24px;top:0px;height:140px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="0"></span><span style="position:absolute;left:0;width:24px;top:140px;height:90px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="1"></span><span style="position:absolute;left:0;width:24px;top:230px;height:170px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="2"></span><span style="position:absolute;left:0;width:24px;top:400px;height:110px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="3"></span><span style="position:absolute;left:0;width:24px;top:510px;height:150px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="4"></span><span style="position:absolute;left:0;width:24px;top:660px;height:100px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="5"></span></div></div></div>
 <div class="bar bar-r" aria-hidden="true"><div class="track track-down"><div style="position:absolute;left:0;right:0;height:760px;top:0px;"><span style="position:absolute;left:0;width:24px;top:0px;height:110px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="5"></span><span style="position:absolute;left:0;width:24px;top:110px;height:160px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="4"></span><span style="position:absolute;left:0;width:24px;top:270px;height:80px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="3"></span><span style="position:absolute;left:0;width:24px;top:350px;height:170px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="2"></span><span style="position:absolute;left:0;width:24px;top:520px;height:100px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="1"></span><span style="position:absolute;left:0;width:24px;top:620px;height:140px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="0"></span></div><div style="position:absolute;left:0;right:0;height:760px;top:760px;"><span style="position:absolute;left:0;width:24px;top:0px;height:110px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="5"></span><span style="position:absolute;left:0;width:24px;top:110px;height:160px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="4"></span><span style="position:absolute;left:0;width:24px;top:270px;height:80px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="3"></span><span style="position:absolute;left:0;width:24px;top:350px;height:170px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="2"></span><span style="position:absolute;left:0;width:24px;top:520px;height:100px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="1"></span><span style="position:absolute;left:0;width:24px;top:620px;height:140px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="0"></span></div><div style="position:absolute;left:0;right:0;height:760px;top:1520px;"><span style="position:absolute;left:0;width:24px;top:0px;height:110px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="5"></span><span style="position:absolute;left:0;width:24px;top:110px;height:160px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="4"></span><span style="position:absolute;left:0;width:24px;top:270px;height:80px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="3"></span><span style="position:absolute;left:0;width:24px;top:350px;height:170px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="2"></span><span style="position:absolute;left:0;width:24px;top:520px;height:100px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="1"></span><span style="position:absolute;left:0;width:24px;top:620px;height:140px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="0"></span></div><div style="position:absolute;left:0;right:0;height:760px;top:2280px;"><span style="position:absolute;left:0;width:24px;top:0px;height:110px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="5"></span><span style="position:absolute;left:0;width:24px;top:110px;height:160px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="4"></span><span style="position:absolute;left:0;width:24px;top:270px;height:80px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="3"></span><span style="position:absolute;left:0;width:24px;top:350px;height:170px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="2"></span><span style="position:absolute;left:0;width:24px;top:520px;height:100px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="1"></span><span style="position:absolute;left:0;width:24px;top:620px;height:140px;display:flex;align-items:center;justify-content:center;font-size:6px;line-height:1;letter-spacing:.06em;font-weight:400;color:rgba(255,255,255,.82);text-shadow:0 0 1px rgba(0,0,0,.35);writing-mode:vertical-rl;white-space:nowrap;" data-lab="0"></span></div></div></div>
 </div>
+<script>
+(function(){
+  var cards=[].slice.call(document.querySelectorAll('.wk-card'));
+  var reduced=window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  var ticking=false;
+  function frame(){
+    ticking=false;
+    var vh=window.innerHeight;
+    for(var i=0;i<cards.length-1;i++){
+      var c=cards[i],n=cards[i+1];
+      var stuck=parseFloat(getComputedStyle(c).top)||0;
+      var dist=c.offsetHeight+vh*0.02;
+      var p=Math.max(0,Math.min(1,1-(n.getBoundingClientRect().top-stuck)/dist));
+      c.style.setProperty('--cover',(p*0.6).toFixed(3));
+      c.style.transform=reduced?'':'scale('+(1-p*0.05).toFixed(4)+')';
+    }
+  }
+  function on(){if(!ticking){ticking=true;requestAnimationFrame(frame);}}
+  window.addEventListener('scroll',on,{passive:true});
+  window.addEventListener('resize',on);
+  frame();
+})();
+</script>
 <script src="site.js"></script>
 </body>
 </html>
