@@ -2,6 +2,53 @@ warning: `--folder` is no longer required for folder URLs and will be removed in
 Retrieving folder contents
 Retrieving folder 19SLIVqW2sF22XbgX4PbkFUsZ-HGjtmY- "SOBRE"
 Processing file 10W3Dqg6Cu14N-bN4XNwgHS-Aoq4bpHUm IMG_0516.HEIC
+Retrieving folder 1cGL-Jgty6L8IBclRZ1vg_O4o9YtMP1ml Auto de Fé
+Processing file 11oxiDt-9a4QV-eTljG7RkT4-LLOp3w1U Still 2025-07-05 141319_1.1.1.jpg
+Processing file 1wIqiuXxAEeyyrTGnLqYhXbRi9KrT8qlF Still 2025-07-05 141319_1.1.10.jpg
+Processing file 1sXfJC1Hf_JVoNIPU6TLCmqWEXBjlOsMp Still 2025-07-05 141319_1.1.11.jpg
+Processing file 1yasUxIi9Sg3yQRSF6A69rbzGdlPxxw3O Still 2025-07-05 141319_1.1.12.jpg
+Processing file 1uVrE744Iq2ATAKcuMU9hYHkv3JpwENge Still 2025-07-05 141319_1.1.13.jpg
+Processing file 1E36vf6a-dqDVc_w0t5QXdh4S_lxEbRuw Still 2025-07-05 141319_1.1.14.jpg
+Processing file 1kpsqRoG9Z0r79TmKAHvPU3icVBxlO7-X Still 2025-07-05 141319_1.1.15.jpg
+Processing file 1oUpEBTARCl4QjelgTmVy0p6XqNhx-bZp Still 2025-07-05 141319_1.1.16.jpg
+Processing file 1g3AVPOcMkLlG31T02ctKI-qsQEt_yHFW Still 2025-07-05 141319_1.1.17.jpg
+Processing file 1THbtBigzNwFLtO2YDEKc-2CcToc-W0cS Still 2025-07-05 141319_1.1.18.jpg
+Processing file 1bOwydkUpsa21HiZIwFWegihiUJkJfyvz Still 2025-07-05 141319_1.1.19.jpg
+Processing file 175AjVH8pGvHd9U6FrFINVICiBOK20jEV Still 2025-07-05 141319_1.1.2.jpg
+Processing file 15N8B1LKywNg7Z7B7gkHIEVYCPbhVLG64 Still 2025-07-05 141319_1.1.20.jpg
+Processing file 1Vi6tYO2ZHP6u4Q8Ote258Zj5cvTqCN1R Still 2025-07-05 141319_1.1.21.jpg
+Processing file 1iJlaEeSwj7hLuIrdl2Lwjz5LcqXx0fyV Still 2025-07-05 141319_1.1.22.jpg
+Processing file 1AujK44uxD57qb6VEJXTOexKBMfRwY39N Still 2025-07-05 141319_1.1.23.jpg
+Processing file 1h5XAz-WxtrdkZ22ZypBMiW_ueb75u6aF Still 2025-07-05 141319_1.1.24.jpg
+Processing file 1l5yqQY3B9-A9J7lAHIAwMaUEPNftxXoX Still 2025-07-05 141319_1.1.25.jpg
+Processing file 1LTEe0NVU1yWxy9QpbCQTo4O6S1cMIVfL Still 2025-07-05 141319_1.1.26.jpg
+Processing file 1olZ_2rXoSW8UBG6X13J52tv7mYIUqYUv Still 2025-07-05 141319_1.1.27.jpg
+Processing file 1vOGQDKS1pDaItovtWpo-aDSYMFjYJeTA Still 2025-07-05 141319_1.1.28.jpg
+Processing file 10Sx3D-lO1WYvyMjBDqTbsTJyX9LlrhOo Still 2025-07-05 141319_1.1.29.jpg
+Processing file 14O18cbDGEkocf6t0ntSyvNNxQbD3RXdo Still 2025-07-05 141319_1.1.3.jpg
+Processing file 1xhev3MXe0V97cHmdx5lkRnj5Uu8lpxvx Still 2025-07-05 141319_1.1.30.jpg
+Processing file 1UhaAXvPEHfCkLKYWo4jdFbdsYiPi5yRX Still 2025-07-05 141319_1.1.31.jpg
+Processing file 1VYYmmMf8gy5uRvxTevM5ayIwQuVN2ev7 Still 2025-07-05 141319_1.1.32.jpg
+Processing file 1hFB4fU-lfoaX1bKT2XKIjErcqhtN2vvA Still 2025-07-05 141319_1.1.33.jpg
+Processing file 15Ou-j1ToP4xYotn9tK4TqpLa05smAafQ Still 2025-07-05 141319_1.1.34.jpg
+Processing file 1QjFeJFIj5duXSCDRSVdC4LJ004_5BzPN Still 2025-07-05 141319_1.1.35.jpg
+Processing file 1Q1spxi2BynaxFbFFeOJu64RRa34e9-Yg Still 2025-07-05 141319_1.1.36.jpg
+Processing file 1xojc2ktrdbZHEFTbLhn6BWvqCNjx1FkD Still 2025-07-05 141319_1.1.37.jpg
+Processing file 1XD6pZYS2sPH-iPZGfdvf6L8L5bbfCFfz Still 2025-07-05 141319_1.1.38.jpg
+Processing file 1mwW5NfXQAUacoysINPu4azqlJnDtSNQH Still 2025-07-05 141319_1.1.39.jpg
+Processing file 1BJ9BpxPoxV89vocz7TCMErT_9cP8_Ywz Still 2025-07-05 141319_1.1.4.jpg
+Processing file 1td6jvX1B-xdnpZr_hV_bJwEgReeDZlCF Still 2025-07-05 141319_1.1.40.jpg
+Processing file 16rDGhodolRjvaT9dcOTrIRftVhIsCTU1 Still 2025-07-05 141319_1.1.41.jpg
+Processing file 1VxYkbc-Q-BjS8Ao96N4spsWelkgjjS4e Still 2025-07-05 141319_1.1.42.jpg
+Processing file 1BnOM9KTNHqBV9Ews6DmPHbD2BgWOnRlC Still 2025-07-05 141319_1.1.43.jpg
+Processing file 15aQO-1cl3cyODMgAMF8WnCeWMCjxcwo- Still 2025-07-05 141319_1.1.44.jpg
+Processing file 1LZ9Dy2YNO2QyR7-8XZcrbzSZSMoOSJUs Still 2025-07-05 141319_1.1.45.jpg
+Processing file 1dT0AXuRyXvl74SD6raL4CRxkIHsENNd6 Still 2025-07-05 141319_1.1.5.jpg
+Processing file 1sR24VjGYkYIOnMxhQx9Odw1M9KklM_Xg Still 2025-07-05 141319_1.1.6.jpg
+Processing file 1OmQ202L91ZT4jnRXR07Lcvcy9mnbyGnJ Still 2025-07-05 141319_1.1.7.jpg
+Processing file 1p5AysM49IQUC28E0_tqKUhhc8kdD209T Still 2025-07-05 141319_1.1.8.jpg
+Processing file 1EKYlHLGpC6442A1GLwrY9pSK7ORtPBWk Still 2025-07-05 141319_1.1.9.jpg
+Processing file 1Gj4_CzbycCAxvTFb8A5Rs6luFuvQ5aa- Still 2025-07-11 102005_1.1.1.jpg
 Retrieving folder 1LfjI3vPVAfiBjJQgoJH8ytVLT3v8KnrB Energias
 Processing file 1ji7f82n_KnqoL39bv84lVxjfbiBb99p6 Still 2026-08-19 222158_1.10.2.tif
 Processing file 1JAmp732Fs7woBnxQC0e4PWadQcCVc7z1 Still 2026-10-08 171416_1.1.1.jpg
@@ -49,7 +96,13 @@ Processing file 1HwZiDV6zf99opmY9jizoXNR886mcncrB Still 2026-10-08 171416_1.1.6.
 Processing file 1tiSAAs6MAj9uBGYjr0PPYJ2Q3i7mAKsQ WhatsApp Image 2025-05-27 at 15.41.27.jpeg
 Processing file 1Fo0-ot5r-DF5flcMkwy4fAI6NMqoWSdl WhatsApp Image 2026-05-14 at 02.00.45 (20).jpeg
 Processing file 1qC2hF28fS9948Wq9qAjVyvAdHv61Ro6i WhatsApp Image 2026-05-14 at 02.00.45 (23).jpeg
-Processing file 1hc1VxELt4eSOAq1A0ze8xfUSG_Qn18E1 WhatsApp Image 2026-05-14 at 02.00.45 (25).jpeg
+Processing fileRetrieving folder contents completed
+Building directory structure
+Building directory structure completed
+Downloading...
+From: https://drive.google.com/uc?id=10W3Dqg6Cu14N-bN4XNwgHS-Aoq4bpHUm
+To: /home/runner/work/portfolio/portfolio/import/drive/"SOBRE"/IMG_0516.HEIC
+ 1hc1VxELt4eSOAq1A0ze8xfUSG_Qn18E1 WhatsApp Image 2026-05-14 at 02.00.45 (25).jpeg
 Processing file 1XrA6Cz-zrn4ohhrpQ3khU4wC-tOO0cyr WhatsApp Image 2026-05-14 at 02.00.45 (28).jpeg
 Processing file 1R27QbmEjwKinl4Sux7I30eO71Xdmf7TW WhatsApp Image 2026-05-14 at 02.00.45 (33).jpeg
 Processing file 1BCcdxfcBvkdettvYyLxxX_N3A3HmbIfZ WhatsApp Image 2026-05-14 at 02.00.45 (38).jpeg
@@ -98,365 +151,879 @@ Processing file 1u4B03cnzxQmsa1Xzyl0KVMyrDMarg6MG Still 2025-05-09 111402_1.1.10
 Processing file 1xsPJAlWbGcp_7iI1IhL6JFA5Ck5TyWXl Still 2025-05-09 111402_1.1.11.jpg
 Processing file 1VEejFT_kxOK-bDAeWtSs2qLyIQKiUz8z Still 2025-05-09 111402_1.1.2.jpg
 Processing file 1sGxGaGNYFC36KxX6hyiHbp8sWUoovU9x Still 2025-05-09 111402_1.1.3.jpg
-Processing file 1yEfDm6-mYXgGOHB8Y8ciPCN0mkc7ngiF Still 2025-05-09 111402_1.1.4.jpgRetrieving folder contents completed
-Building directory structure
-Building directory structure completed
-Downloading...
-From: https://drive.google.com/uc?id=10W3Dqg6Cu14N-bN4XNwgHS-Aoq4bpHUm
-To: /home/runner/work/portfolio/portfolio/import/drive/"SOBRE"/IMG_0516.HEIC
-
+Processing file 1yEfDm6-mYXgGOHB8Y8ciPCN0mkc7ngiF Still 2025-05-09 111402_1.1.4.jpg
 Processing file 1Bd7yjkCqht4K5uscYG6R8q5fTpeTWjSO Still 2025-05-09 111402_1.1.5.jpg
 Processing file 1W2b56TAZ8DdWZge88jYNWqtMrIiqzqi7 Still 2025-05-09 111402_1.1.6.jpg
 Processing file 1aQLuOjTcnJNjaI9jMeTs8E2mI5usYmkT Still 2025-05-09 111402_1.1.7.jpg
 Processing file 10R7KCNvDIlaxxHQWtPhTa2Z2H5Ts_4o6 Still 2025-05-09 111402_1.1.8.jpg
 Processing file 1vZagGk1CxXG6y7gY7DU1L_BZuw0dmlTr Still 2025-05-09 111402_1.1.9.jpg
 Processing file 1xsTXdTjxDnrBhJxmUotvNYoKe_8niEco WhatsApp Image 2025-07-27 at 18.13.16.jpeg
+Retrieving folder 109vMs-Gvx2d8HXWMfK-PRwTgTjcRiqko Ultimo Canto
+Processing file 1cMOHjR09roNelJ6C_YaaUr0RknfWHgcq Still 2026-07-07 225806_1.1.1.jpg
+Processing file 1ftRoNCSc-CaDYlL0_ITLisQozOp1WKe3 Still 2026-07-07 225806_1.1.10.jpg
+Processing file 1eb0__ZeaDL_M1UeEE2esRvf31TR-40Yy Still 2026-07-07 225806_1.1.11.jpg
+Processing file 1XWwExpj1sjGjF_FdFByUPCoD6u8EBZnd Still 2026-07-07 225806_1.1.12.jpg
+Processing file 1Wu9YKyRqAWMPBjhym3MCxmILN8CiJRsu Still 2026-07-07 225806_1.1.13.jpg
+Processing file 1WCk8dLhIaMtTiuMrydH2fuindIoC7F4h Still 2026-07-07 225806_1.1.14.jpg
+Processing file 1mi5JrYTBedMp9AhALai9sCYgKVfuj7LA Still 2026-07-07 225806_1.1.15.jpg
+Processing file 1Hg5qeIBuJrzxLyhfCHIGrxDZ2DNKbCY7 Still 2026-07-07 225806_1.1.16.jpg
+Processing file 1FSWzHRE6mlhrHapY2wTvK_OA8Eld4xo8 Still 2026-07-07 225806_1.1.17.jpg
+Processing file 1o4kM-o8uDy8qiMOmcKW0imEkwEZ1h7lQ Still 2026-07-07 225806_1.1.18.jpg
+Processing file 1agR6uQgJI_Ry9PVgp9BxNa3GSMB5FGQ1 Still 2026-07-07 225806_1.1.19.jpg
+Processing file 1ZVn2YBwOZea6fV4zCmGb2nVylwVw6YVj Still 2026-07-07 225806_1.1.2.jpg
+Processing file 1Z1z2wLc_Yo02y2zqnC0cMo4CQKk4ZNz6 Still 2026-07-07 225806_1.1.20.jpg
+Processing file 1xWvWLwddsS3RHeGl48vBHgBCwQt7vb_m Still 2026-07-07 225806_1.1.21.jpg
+Processing file 1H4sS8c4IF0vWSs6YU8Jy3TA7zWN5JMP8 Still 2026-07-07 225806_1.1.22.jpg
+Processing file 1dgiqgb_IvRUVryroiFMSqu06NkVZuThu Still 2026-07-07 225806_1.1.23.jpg
+Processing file 1fGjzxPf1rKiq_TkUIsaNoVtXWqM2YQjR Still 2026-07-07 225806_1.1.24.jpg
+Processing file 19jItVcXlaixksi5ff_AYwJ5BR6TtmPBC Still 2026-07-07 225806_1.1.25.jpg
+Processing file 1KgsFebIsZwjTfx1XhjpOWZrNufM4NIKw Still 2026-07-07 225806_1.1.26.jpg
+Processing file 1tQ7Mimqsh3Rioe2r2DFC3SCu7IaqVSVI Still 2026-07-07 225806_1.1.27.jpg
+Processing file 1auZ_ezJwehn_twNBjNd4CKHzUMeRa5r0 Still 2026-07-07 225806_1.1.28.jpg
+Processing file 1nuDAEKhZpVMkQ_cW-vUZ0ywV2bQTMNeJ Still 2026-07-07 225806_1.1.29.jpg
+Processing file 1S3ZAFkdnyReZrhE5sLddo1XpY28qasbf Still 2026-07-07 225806_1.1.3.jpg
+Processing file 1OF2y6YQxy-O4u_e3HSscrS5hSb0T21T8 Still 2026-07-07 225806_1.1.30.jpg
+Processing file 1p3MhP16eD0hVW5TCjbZFEramtcd3geQ- Still 2026-07-07 225806_1.1.31.jpg
+Processing file 1AHiEvFXOAceKLdDtpMNUEJ1cFOt-LQWS Still 2026-07-07 225806_1.1.32.jpg
+Processing file 1V3YDCWOwjKqFPV8hes6gBM0hGmqwFpdw Still 2026-07-07 225806_1.1.33.jpg
+Processing file 1xOJ3LJvGOh56dwvfo50PAwYM1DP3-DjW Still 2026-07-07 225806_1.1.34.jpg
+Processing file 1jZGyORA3QVHe4RwZAKSCeO1cOITDimbe Still 2026-07-07 225806_1.1.4.jpg
+Processing file 16tHf0JBG0fkuxTNwU-hmWULftjppeEVP Still 2026-07-07 225806_1.1.5.jpg
+Processing file 1SGXqoHGwWHD97lS9K2elJbbJ_uI_BeWf Still 2026-07-07 225806_1.1.6.jpg
+Processing file 1SfOXgvsnz28CudGrCxKL2GuVgGuffJmP Still 2026-07-07 225806_1.1.7.jpg
+Processing file 1icrI9cjbm1Mk_XdDLOcbinzl8_HJREcA Still 2026-07-07 225806_1.1.8.jpg
+Processing file 1S65jurADE7j1ERr9TwDtjcxAR04zxWvY Still 2026-07-07 225806_1.1.9.jpg
 Retrieving folder 1XE7ejlvTDTsYaBGPVt0aceXLHwZUFW2T Viarco
 Processing file 100WA6kBNgdw_HO4ex9CDr91yFRXeUcSt ._Captura de ecrã 2025-07-09, às 17.25.58.png
 Processing file 1OXjEed_Mg0PTB5xEez3qNG6lyFr6flLh ._Captura de ecrã 2025-07-09, às 17.26.05.png
 Processing file 12odWvtAYZrdubvCRtEZQy7_ZcjQWP340 Captura de ecrã 2025-07-09, às 17.25.58.png
 Processing file 1VosK5xEmMZcB8RP5xJEiZASKcNdzUyLg Captura de ecrã 2025-07-09, às 17.26.05.png
-  0%|          | 0.00/3.03M [00:00<?, ?B/s] 86%|████████▋ | 2.62M/3.03M [00:00<00:00, 24.5MB/s]100%|██████████| 3.03M/3.03M [00:00<00:00, 26.7MB/s]
+  0%|          | 0.00/3.03M [00:00<?, ?B/s] 17%|█▋        | 524k/3.03M [00:00<00:00, 5.24MB/s]100%|██████████| 3.03M/3.03M [00:00<00:00, 16.8MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=11oxiDt-9a4QV-eTljG7RkT4-LLOp3w1U
+To: /home/runner/work/portfolio/portfolio/import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.1.jpg
+  0%|          | 0.00/445k [00:00<?, ?B/s]100%|██████████| 445k/445k [00:00<00:00, 3.77MB/s]100%|██████████| 445k/445k [00:00<00:00, 3.76MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1wIqiuXxAEeyyrTGnLqYhXbRi9KrT8qlF
+To: /home/runner/work/portfolio/portfolio/import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.10.jpg
+  0%|          | 0.00/950k [00:00<?, ?B/s] 55%|█████▌    | 524k/950k [00:00<00:00, 3.83MB/s]100%|██████████| 950k/950k [00:00<00:00, 5.66MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1sXfJC1Hf_JVoNIPU6TLCmqWEXBjlOsMp
+To: /home/runner/work/portfolio/portfolio/import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.11.jpg
+  0%|          | 0.00/1.25M [00:00<?, ?B/s] 42%|████▏     | 524k/1.25M [00:00<00:00, 4.85MB/s]100%|██████████| 1.25M/1.25M [00:00<00:00, 8.46MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1yasUxIi9Sg3yQRSF6A69rbzGdlPxxw3O
+To: /home/runner/work/portfolio/portfolio/import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.12.jpg
+  0%|          | 0.00/1.05M [00:00<?, ?B/s] 50%|████▉     | 524k/1.05M [00:00<00:00, 5.00MB/s]100%|██████████| 1.05M/1.05M [00:00<00:00, 7.59MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1uVrE744Iq2ATAKcuMU9hYHkv3JpwENge
+To: /home/runner/work/portfolio/portfolio/import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.13.jpg
+  0%|          | 0.00/1.07M [00:00<?, ?B/s] 49%|████▉     | 524k/1.07M [00:00<00:00, 4.65MB/s]100%|██████████| 1.07M/1.07M [00:00<00:00, 7.05MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1E36vf6a-dqDVc_w0t5QXdh4S_lxEbRuw
+To: /home/runner/work/portfolio/portfolio/import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.14.jpg
+  0%|          | 0.00/729k [00:00<?, ?B/s] 72%|███████▏  | 524k/729k [00:00<00:00, 3.52MB/s]100%|██████████| 729k/729k [00:00<00:00, 4.54MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1kpsqRoG9Z0r79TmKAHvPU3icVBxlO7-X
+To: /home/runner/work/portfolio/portfolio/import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.15.jpg
+  0%|          | 0.00/1.10M [00:00<?, ?B/s] 48%|████▊     | 524k/1.10M [00:00<00:00, 3.70MB/s]100%|██████████| 1.10M/1.10M [00:00<00:00, 5.86MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1oUpEBTARCl4QjelgTmVy0p6XqNhx-bZp
+To: /home/runner/work/portfolio/portfolio/import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.16.jpg
+  0%|          | 0.00/718k [00:00<?, ?B/s] 73%|███████▎  | 524k/718k [00:00<00:00, 4.83MB/s]100%|██████████| 718k/718k [00:00<00:00, 6.11MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1g3AVPOcMkLlG31T02ctKI-qsQEt_yHFW
+To: /home/runner/work/portfolio/portfolio/import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.17.jpg
+  0%|          | 0.00/953k [00:00<?, ?B/s] 55%|█████▍    | 524k/953k [00:00<00:00, 4.80MB/s]100%|██████████| 953k/953k [00:00<00:00, 7.07MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1THbtBigzNwFLtO2YDEKc-2CcToc-W0cS
+To: /home/runner/work/portfolio/portfolio/import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.18.jpg
+  0%|          | 0.00/981k [00:00<?, ?B/s] 53%|█████▎    | 524k/981k [00:00<00:00, 3.40MB/s]100%|██████████| 981k/981k [00:00<00:00, 5.15MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1bOwydkUpsa21HiZIwFWegihiUJkJfyvz
+To: /home/runner/work/portfolio/portfolio/import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.19.jpg
+  0%|          | 0.00/717k [00:00<?, ?B/s] 73%|███████▎  | 524k/717k [00:00<00:00, 3.38MB/s]100%|██████████| 717k/717k [00:00<00:00, 4.29MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=175AjVH8pGvHd9U6FrFINVICiBOK20jEV
+To: /home/runner/work/portfolio/portfolio/import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.2.jpg
+  0%|          | 0.00/1.12M [00:00<?, ?B/s] 47%|████▋     | 524k/1.12M [00:00<00:00, 3.72MB/s]100%|██████████| 1.12M/1.12M [00:00<00:00, 5.95MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=15N8B1LKywNg7Z7B7gkHIEVYCPbhVLG64
+To: /home/runner/work/portfolio/portfolio/import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.20.jpg
+  0%|          | 0.00/959k [00:00<?, ?B/s] 55%|█████▍    | 524k/959k [00:00<00:00, 3.42MB/s]100%|██████████| 959k/959k [00:00<00:00, 5.10MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1Vi6tYO2ZHP6u4Q8Ote258Zj5cvTqCN1R
+To: /home/runner/work/portfolio/portfolio/import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.21.jpg
+  0%|          | 0.00/1.03M [00:00<?, ?B/s] 51%|█████     | 524k/1.03M [00:00<00:00, 3.86MB/s]100%|██████████| 1.03M/1.03M [00:00<00:00, 6.08MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1iJlaEeSwj7hLuIrdl2Lwjz5LcqXx0fyV
+To: /home/runner/work/portfolio/portfolio/import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.22.jpg
+  0%|          | 0.00/993k [00:00<?, ?B/s] 53%|█████▎    | 524k/993k [00:00<00:00, 3.85MB/s]100%|██████████| 993k/993k [00:00<00:00, 5.88MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1AujK44uxD57qb6VEJXTOexKBMfRwY39N
+To: /home/runner/work/portfolio/portfolio/import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.23.jpg
+  0%|          | 0.00/1.05M [00:00<?, ?B/s] 50%|████▉     | 524k/1.05M [00:00<00:00, 3.49MB/s]100%|██████████| 1.05M/1.05M [00:00<00:00, 5.51MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1h5XAz-WxtrdkZ22ZypBMiW_ueb75u6aF
+To: /home/runner/work/portfolio/portfolio/import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.24.jpg
+  0%|          | 0.00/1.07M [00:00<?, ?B/s] 49%|████▉     | 524k/1.07M [00:00<00:00, 3.76MB/s]100%|██████████| 1.07M/1.07M [00:00<00:00, 5.90MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1l5yqQY3B9-A9J7lAHIAwMaUEPNftxXoX
+To: /home/runner/work/portfolio/portfolio/import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.25.jpg
+  0%|          | 0.00/1.02M [00:00<?, ?B/s] 51%|█████     | 524k/1.02M [00:00<00:00, 4.89MB/s]100%|██████████| 1.02M/1.02M [00:00<00:00, 7.63MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1LTEe0NVU1yWxy9QpbCQTo4O6S1cMIVfL
+To: /home/runner/work/portfolio/portfolio/import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.26.jpg
+  0%|          | 0.00/989k [00:00<?, ?B/s] 53%|█████▎    | 524k/989k [00:00<00:00, 3.38MB/s]100%|██████████| 989k/989k [00:00<00:00, 5.18MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1olZ_2rXoSW8UBG6X13J52tv7mYIUqYUv
+To: /home/runner/work/portfolio/portfolio/import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.27.jpg
+  0%|          | 0.00/809k [00:00<?, ?B/s] 65%|██████▍   | 524k/809k [00:00<00:00, 4.23MB/s]100%|██████████| 809k/809k [00:00<00:00, 5.55MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1vOGQDKS1pDaItovtWpo-aDSYMFjYJeTA
+To: /home/runner/work/portfolio/portfolio/import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.28.jpg
+  0%|          | 0.00/1.15M [00:00<?, ?B/s] 45%|████▌     | 524k/1.15M [00:00<00:00, 3.42MB/s]100%|██████████| 1.15M/1.15M [00:00<00:00, 5.59MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=10Sx3D-lO1WYvyMjBDqTbsTJyX9LlrhOo
+To: /home/runner/work/portfolio/portfolio/import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.29.jpg
+  0%|          | 0.00/1.14M [00:00<?, ?B/s] 46%|████▌     | 524k/1.14M [00:00<00:00, 3.82MB/s]100%|██████████| 1.14M/1.14M [00:00<00:00, 6.18MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=14O18cbDGEkocf6t0ntSyvNNxQbD3RXdo
+To: /home/runner/work/portfolio/portfolio/import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.3.jpg
+  0%|          | 0.00/967k [00:00<?, ?B/s] 54%|█████▍    | 524k/967k [00:00<00:00, 4.86MB/s]100%|██████████| 967k/967k [00:00<00:00, 7.30MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1xhev3MXe0V97cHmdx5lkRnj5Uu8lpxvx
+To: /home/runner/work/portfolio/portfolio/import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.30.jpg
+  0%|          | 0.00/1.02M [00:00<?, ?B/s] 51%|█████▏    | 524k/1.02M [00:00<00:00, 3.39MB/s]100%|██████████| 1.02M/1.02M [00:00<00:00, 5.31MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1UhaAXvPEHfCkLKYWo4jdFbdsYiPi5yRX
+To: /home/runner/work/portfolio/portfolio/import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.31.jpg
+  0%|          | 0.00/1.42M [00:00<?, ?B/s] 37%|███▋      | 524k/1.42M [00:00<00:00, 3.79MB/s]100%|██████████| 1.42M/1.42M [00:00<00:00, 7.32MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1VYYmmMf8gy5uRvxTevM5ayIwQuVN2ev7
+To: /home/runner/work/portfolio/portfolio/import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.32.jpg
+  0%|          | 0.00/1.31M [00:00<?, ?B/s] 40%|███▉      | 524k/1.31M [00:00<00:00, 4.21MB/s]100%|██████████| 1.31M/1.31M [00:00<00:00, 7.62MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1hFB4fU-lfoaX1bKT2XKIjErcqhtN2vvA
+To: /home/runner/work/portfolio/portfolio/import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.33.jpg
+  0%|          | 0.00/1.01M [00:00<?, ?B/s] 52%|█████▏    | 524k/1.01M [00:00<00:00, 3.81MB/s]100%|██████████| 1.01M/1.01M [00:00<00:00, 5.87MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=15Ou-j1ToP4xYotn9tK4TqpLa05smAafQ
+To: /home/runner/work/portfolio/portfolio/import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.34.jpg
+  0%|          | 0.00/1.16M [00:00<?, ?B/s] 45%|████▌     | 524k/1.16M [00:00<00:00, 3.44MB/s]100%|██████████| 1.16M/1.16M [00:00<00:00, 5.67MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1QjFeJFIj5duXSCDRSVdC4LJ004_5BzPN
+To: /home/runner/work/portfolio/portfolio/import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.35.jpg
+  0%|          | 0.00/956k [00:00<?, ?B/s] 55%|█████▍    | 524k/956k [00:00<00:00, 4.76MB/s]100%|██████████| 956k/956k [00:00<00:00, 7.06MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1Q1spxi2BynaxFbFFeOJu64RRa34e9-Yg
+To: /home/runner/work/portfolio/portfolio/import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.36.jpg
+  0%|          | 0.00/541k [00:00<?, ?B/s] 97%|█████████▋| 524k/541k [00:00<00:00, 4.20MB/s]100%|██████████| 541k/541k [00:00<00:00, 4.30MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1xojc2ktrdbZHEFTbLhn6BWvqCNjx1FkD
+To: /home/runner/work/portfolio/portfolio/import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.37.jpg
+  0%|          | 0.00/523k [00:00<?, ?B/s]100%|██████████| 523k/523k [00:00<00:00, 3.39MB/s]100%|██████████| 523k/523k [00:00<00:00, 3.38MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1XD6pZYS2sPH-iPZGfdvf6L8L5bbfCFfz
+To: /home/runner/work/portfolio/portfolio/import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.38.jpg
+  0%|          | 0.00/1.09M [00:00<?, ?B/s] 48%|████▊     | 524k/1.09M [00:00<00:00, 3.86MB/s]100%|██████████| 1.09M/1.09M [00:00<00:00, 6.06MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1mwW5NfXQAUacoysINPu4azqlJnDtSNQH
+To: /home/runner/work/portfolio/portfolio/import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.39.jpg
+  0%|          | 0.00/571k [00:00<?, ?B/s] 92%|█████████▏| 524k/571k [00:00<00:00, 4.87MB/s]100%|██████████| 571k/571k [00:00<00:00, 5.22MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1BJ9BpxPoxV89vocz7TCMErT_9cP8_Ywz
+To: /home/runner/work/portfolio/portfolio/import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.4.jpg
+  0%|          | 0.00/1.02M [00:00<?, ?B/s] 51%|█████▏    | 524k/1.02M [00:00<00:00, 4.93MB/s]100%|██████████| 1.02M/1.02M [00:00<00:00, 7.48MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1td6jvX1B-xdnpZr_hV_bJwEgReeDZlCF
+To: /home/runner/work/portfolio/portfolio/import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.40.jpg
+  0%|          | 0.00/337k [00:00<?, ?B/s]100%|██████████| 337k/337k [00:00<00:00, 3.37MB/s]100%|██████████| 337k/337k [00:00<00:00, 3.36MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=16rDGhodolRjvaT9dcOTrIRftVhIsCTU1
+To: /home/runner/work/portfolio/portfolio/import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.41.jpg
+  0%|          | 0.00/1.02M [00:00<?, ?B/s] 51%|█████     | 524k/1.02M [00:00<00:00, 3.86MB/s]100%|██████████| 1.02M/1.02M [00:00<00:00, 6.01MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1VxYkbc-Q-BjS8Ao96N4spsWelkgjjS4e
+To: /home/runner/work/portfolio/portfolio/import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.42.jpg
+  0%|          | 0.00/896k [00:00<?, ?B/s] 59%|█████▊    | 524k/896k [00:00<00:00, 3.47MB/s]100%|██████████| 896k/896k [00:00<00:00, 4.89MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1BnOM9KTNHqBV9Ews6DmPHbD2BgWOnRlC
+To: /home/runner/work/portfolio/portfolio/import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.43.jpg
+  0%|          | 0.00/667k [00:00<?, ?B/s] 79%|███████▊  | 524k/667k [00:00<00:00, 3.48MB/s]100%|██████████| 667k/667k [00:00<00:00, 4.19MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=15aQO-1cl3cyODMgAMF8WnCeWMCjxcwo-
+To: /home/runner/work/portfolio/portfolio/import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.44.jpg
+  0%|          | 0.00/799k [00:00<?, ?B/s] 66%|██████▌   | 524k/799k [00:00<00:00, 3.71MB/s]100%|██████████| 799k/799k [00:00<00:00, 4.78MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1LZ9Dy2YNO2QyR7-8XZcrbzSZSMoOSJUs
+To: /home/runner/work/portfolio/portfolio/import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.45.jpg
+  0%|          | 0.00/713k [00:00<?, ?B/s] 74%|███████▎  | 524k/713k [00:00<00:00, 3.41MB/s]100%|██████████| 713k/713k [00:00<00:00, 4.32MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1dT0AXuRyXvl74SD6raL4CRxkIHsENNd6
+To: /home/runner/work/portfolio/portfolio/import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.5.jpg
+  0%|          | 0.00/528k [00:00<?, ?B/s] 99%|█████████▉| 524k/528k [00:00<00:00, 4.16MB/s]100%|██████████| 528k/528k [00:00<00:00, 4.17MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1sR24VjGYkYIOnMxhQx9Odw1M9KklM_Xg
+To: /home/runner/work/portfolio/portfolio/import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.6.jpg
+  0%|          | 0.00/1.16M [00:00<?, ?B/s] 45%|████▌     | 524k/1.16M [00:00<00:00, 3.43MB/s]100%|██████████| 1.16M/1.16M [00:00<00:00, 5.63MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1OmQ202L91ZT4jnRXR07Lcvcy9mnbyGnJ
+To: /home/runner/work/portfolio/portfolio/import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.7.jpg
+  0%|          | 0.00/1.20M [00:00<?, ?B/s] 44%|████▍     | 524k/1.20M [00:00<00:00, 3.82MB/s]100%|██████████| 1.20M/1.20M [00:00<00:00, 6.42MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1p5AysM49IQUC28E0_tqKUhhc8kdD209T
+To: /home/runner/work/portfolio/portfolio/import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.8.jpg
+  0%|          | 0.00/1.23M [00:00<?, ?B/s] 43%|████▎     | 524k/1.23M [00:00<00:00, 3.50MB/s]100%|██████████| 1.23M/1.23M [00:00<00:00, 5.87MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1EKYlHLGpC6442A1GLwrY9pSK7ORtPBWk
+To: /home/runner/work/portfolio/portfolio/import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.9.jpg
+  0%|          | 0.00/868k [00:00<?, ?B/s] 60%|██████    | 524k/868k [00:00<00:00, 3.91MB/s]100%|██████████| 868k/868k [00:00<00:00, 5.43MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1Gj4_CzbycCAxvTFb8A5Rs6luFuvQ5aa-
+To: /home/runner/work/portfolio/portfolio/import/drive/Auto de Fé/Still 2025-07-11 102005_1.1.1.jpg
+  0%|          | 0.00/652k [00:00<?, ?B/s] 80%|████████  | 524k/652k [00:00<00:00, 3.46MB/s]100%|██████████| 652k/652k [00:00<00:00, 4.00MB/s]
 Downloading...
 From: https://drive.google.com/uc?id=1ji7f82n_KnqoL39bv84lVxjfbiBb99p6
 To: /home/runner/work/portfolio/portfolio/import/drive/Energias/Still 2026-08-19 222158_1.10.2.tif
-  0%|          | 0.00/18.7M [00:00<?, ?B/s]  3%|▎         | 524k/18.7M [00:00<00:04, 4.40MB/s] 37%|███▋      | 6.82M/18.7M [00:00<00:00, 22.4MB/s] 70%|███████   | 13.1M/18.7M [00:00<00:00, 25.0MB/s]100%|██████████| 18.7M/18.7M [00:00<00:00, 31.3MB/s]
+  0%|          | 0.00/18.7M [00:00<?, ?B/s]  3%|▎         | 524k/18.7M [00:00<00:04, 4.27MB/s] 20%|█▉        | 3.67M/18.7M [00:00<00:00, 18.1MB/s] 59%|█████▉    | 11.0M/18.7M [00:00<00:00, 40.3MB/s] 81%|████████▏ | 15.2M/18.7M [00:00<00:00, 33.4MB/s]100%|██████████| 18.7M/18.7M [00:00<00:00, 29.2MB/s]
 Downloading...
 From: https://drive.google.com/uc?id=1JAmp732Fs7woBnxQC0e4PWadQcCVc7z1
 To: /home/runner/work/portfolio/portfolio/import/drive/Energias/Still 2026-10-08 171416_1.1.1.jpg
-  0%|          | 0.00/1.71M [00:00<?, ?B/s]100%|██████████| 1.71M/1.71M [00:00<00:00, 19.6MB/s]
+  0%|          | 0.00/1.71M [00:00<?, ?B/s] 31%|███       | 524k/1.71M [00:00<00:00, 4.87MB/s]100%|██████████| 1.71M/1.71M [00:00<00:00, 10.5MB/s]
 Downloading...
 From: https://drive.google.com/uc?id=1mWnaMoHoHB4RWoQhIMHeIpdWeWi1ITLL
 To: /home/runner/work/portfolio/portfolio/import/drive/Energias/Still 2026-10-08 171416_1.1.10.jpg
-  0%|          | 0.00/1.50M [00:00<?, ?B/s] 35%|███▍      | 524k/1.50M [00:00<00:00, 4.34MB/s]100%|██████████| 1.50M/1.50M [00:00<00:00, 9.56MB/s]
+  0%|          | 0.00/1.50M [00:00<?, ?B/s] 35%|███▍      | 524k/1.50M [00:00<00:00, 4.98MB/s]100%|██████████| 1.50M/1.50M [00:00<00:00, 9.90MB/s]
 Downloading...
 From: https://drive.google.com/uc?id=1HioV6uRKxO7MdY-yBYbO36woJoZAKBN8
 To: /home/runner/work/portfolio/portfolio/import/drive/Energias/Still 2026-10-08 171416_1.1.11.jpg
-  0%|          | 0.00/1.51M [00:00<?, ?B/s] 35%|███▍      | 524k/1.51M [00:00<00:00, 4.34MB/s]100%|██████████| 1.51M/1.51M [00:00<00:00, 9.67MB/s]
+  0%|          | 0.00/1.51M [00:00<?, ?B/s] 35%|███▍      | 524k/1.51M [00:00<00:00, 4.62MB/s]100%|██████████| 1.51M/1.51M [00:00<00:00, 9.02MB/s]
 Downloading...
 From: https://drive.google.com/uc?id=1n05pa8krvPk9WkQOydOeWU6rQ_jzTRKe
 To: /home/runner/work/portfolio/portfolio/import/drive/Energias/Still 2026-10-08 171416_1.1.12.jpg
-  0%|          | 0.00/1.24M [00:00<?, ?B/s] 42%|████▏     | 524k/1.24M [00:00<00:00, 3.77MB/s]100%|██████████| 1.24M/1.24M [00:00<00:00, 6.50MB/s]
+  0%|          | 0.00/1.24M [00:00<?, ?B/s] 42%|████▏     | 524k/1.24M [00:00<00:00, 4.67MB/s]100%|██████████| 1.24M/1.24M [00:00<00:00, 8.15MB/s]
 Downloading...
 From: https://drive.google.com/uc?id=1K5y1L-TGhbcVeB3PkHSY-RLqDs74AisW
 To: /home/runner/work/portfolio/portfolio/import/drive/Energias/Still 2026-10-08 171416_1.1.13.jpg
-  0%|          | 0.00/1.25M [00:00<?, ?B/s] 42%|████▏     | 524k/1.25M [00:00<00:00, 4.30MB/s]100%|██████████| 1.25M/1.25M [00:00<00:00, 8.42MB/s]
+  0%|          | 0.00/1.25M [00:00<?, ?B/s] 42%|████▏     | 524k/1.25M [00:00<00:00, 4.89MB/s]100%|██████████| 1.25M/1.25M [00:00<00:00, 8.46MB/s]
 Downloading...
 From: https://drive.google.com/uc?id=1PqVCCAGFh90WNMkP75EU4lh56WXckM33
 To: /home/runner/work/portfolio/portfolio/import/drive/Energias/Still 2026-10-08 171416_1.1.14.jpg
-  0%|          | 0.00/1.52M [00:00<?, ?B/s] 34%|███▍      | 524k/1.52M [00:00<00:00, 4.34MB/s]100%|██████████| 1.52M/1.52M [00:00<00:00, 9.72MB/s]
+  0%|          | 0.00/1.52M [00:00<?, ?B/s] 34%|███▍      | 524k/1.52M [00:00<00:00, 5.02MB/s]100%|██████████| 1.52M/1.52M [00:00<00:00, 9.74MB/s]
 Downloading...
 From: https://drive.google.com/uc?id=1Npdq_0JtEtZH311vJhO35YedHEti_jWk
 To: /home/runner/work/portfolio/portfolio/import/drive/Energias/Still 2026-10-08 171416_1.1.15.jpg
-  0%|          | 0.00/1.33M [00:00<?, ?B/s] 39%|███▉      | 524k/1.33M [00:00<00:00, 4.02MB/s]100%|██████████| 1.33M/1.33M [00:00<00:00, 7.96MB/s]
+  0%|          | 0.00/1.33M [00:00<?, ?B/s] 39%|███▉      | 524k/1.33M [00:00<00:00, 4.89MB/s]100%|██████████| 1.33M/1.33M [00:00<00:00, 8.96MB/s]
 Downloading...
 From: https://drive.google.com/uc?id=1VfKGP_dj4Wvb6r22U_nPyKgDtSDE6qVf
 To: /home/runner/work/portfolio/portfolio/import/drive/Energias/Still 2026-10-08 171416_1.1.16.jpg
-  0%|          | 0.00/1.29M [00:00<?, ?B/s] 41%|████      | 524k/1.29M [00:00<00:00, 4.63MB/s]100%|██████████| 1.29M/1.29M [00:00<00:00, 8.86MB/s]
+  0%|          | 0.00/1.29M [00:00<?, ?B/s] 41%|████      | 524k/1.29M [00:00<00:00, 4.91MB/s]100%|██████████| 1.29M/1.29M [00:00<00:00, 8.71MB/s]
 Downloading...
 From: https://drive.google.com/uc?id=1O4OHiF035i7b6M10diFHibvyhVW1dDpx
 To: /home/runner/work/portfolio/portfolio/import/drive/Energias/Still 2026-10-08 171416_1.1.2.jpg
-  0%|          | 0.00/1.64M [00:00<?, ?B/s] 32%|███▏      | 524k/1.64M [00:00<00:00, 4.25MB/s]100%|██████████| 1.64M/1.64M [00:00<00:00, 10.3MB/s]
+  0%|          | 0.00/1.64M [00:00<?, ?B/s] 32%|███▏      | 524k/1.64M [00:00<00:00, 4.30MB/s]100%|██████████| 1.64M/1.64M [00:00<00:00, 9.17MB/s]
 Downloading...
 From: https://drive.google.com/uc?id=1SVwCiCcoD1N1Z49QtIJax1uZR8gTiLaH
 To: /home/runner/work/portfolio/portfolio/import/drive/Energias/Still 2026-10-08 171416_1.1.3.jpg
-  0%|          | 0.00/1.58M [00:00<?, ?B/s] 33%|███▎      | 524k/1.58M [00:00<00:00, 4.07MB/s]100%|██████████| 1.58M/1.58M [00:00<00:00, 9.72MB/s]
+  0%|          | 0.00/1.58M [00:00<?, ?B/s] 33%|███▎      | 524k/1.58M [00:00<00:00, 4.23MB/s]100%|██████████| 1.58M/1.58M [00:00<00:00, 8.93MB/s]
 Downloading...
 From: https://drive.google.com/uc?id=1de3Uc-p02FVj1F8MZWmI3iLU1kdfwApg
 To: /home/runner/work/portfolio/portfolio/import/drive/Energias/Still 2026-10-08 171416_1.1.4.jpg
-  0%|          | 0.00/1.50M [00:00<?, ?B/s] 35%|███▍      | 524k/1.50M [00:00<00:00, 4.35MB/s]100%|██████████| 1.50M/1.50M [00:00<00:00, 9.25MB/s]
+  0%|          | 0.00/1.50M [00:00<?, ?B/s] 35%|███▍      | 524k/1.50M [00:00<00:00, 3.41MB/s]100%|██████████| 1.50M/1.50M [00:00<00:00, 6.90MB/s]
 Downloading...
 From: https://drive.google.com/uc?id=1LdUBNd0enj0wz9ioqg3T7kTeUKIsWx6h
 To: /home/runner/work/portfolio/portfolio/import/drive/Energias/Still 2026-10-08 171416_1.1.5.jpg
-  0%|          | 0.00/1.44M [00:00<?, ?B/s] 37%|███▋      | 524k/1.44M [00:00<00:00, 4.36MB/s]100%|██████████| 1.44M/1.44M [00:00<00:00, 9.28MB/s]
+  0%|          | 0.00/1.44M [00:00<?, ?B/s] 37%|███▋      | 524k/1.44M [00:00<00:00, 4.23MB/s]100%|██████████| 1.44M/1.44M [00:00<00:00, 8.24MB/s]
 Downloading...
 From: https://drive.google.com/uc?id=1om1QagTwILwGr7wz9f86IaPQeijZ9ui_
 To: /home/runner/work/portfolio/portfolio/import/drive/Energias/Still 2026-10-08 171416_1.1.6.jpg
-  0%|          | 0.00/1.43M [00:00<?, ?B/s]100%|██████████| 1.43M/1.43M [00:00<00:00, 17.0MB/s]
+  0%|          | 0.00/1.43M [00:00<?, ?B/s] 37%|███▋      | 524k/1.43M [00:00<00:00, 3.87MB/s]100%|██████████| 1.43M/1.43M [00:00<00:00, 7.55MB/s]
 Downloading...
 From: https://drive.google.com/uc?id=1-QVj0Rfk_HqeMePAcW0jpQPj-CBkXkTS
 To: /home/runner/work/portfolio/portfolio/import/drive/Energias/Still 2026-10-08 171416_1.1.7.jpg
-  0%|          | 0.00/1.26M [00:00<?, ?B/s]100%|██████████| 1.26M/1.26M [00:00<00:00, 16.3MB/s]
+  0%|          | 0.00/1.26M [00:00<?, ?B/s] 42%|████▏     | 524k/1.26M [00:00<00:00, 3.59MB/s]100%|██████████| 1.26M/1.26M [00:00<00:00, 6.31MB/s]
 Downloading...
 From: https://drive.google.com/uc?id=1zxCky-tbY2cwF-rRFRxleq1OrIAdB9bs
 To: /home/runner/work/portfolio/portfolio/import/drive/Energias/Still 2026-10-08 171416_1.1.8.jpg
-  0%|          | 0.00/1.39M [00:00<?, ?B/s] 38%|███▊      | 524k/1.39M [00:00<00:00, 4.24MB/s]100%|██████████| 1.39M/1.39M [00:00<00:00, 8.77MB/s]
+  0%|          | 0.00/1.39M [00:00<?, ?B/s] 38%|███▊      | 524k/1.39M [00:00<00:00, 3.77MB/s]100%|██████████| 1.39M/1.39M [00:00<00:00, 7.16MB/s]
 Downloading...
 From: https://drive.google.com/uc?id=1q0wtVxqSNIYHFdIHuaia6OOP8DsAnbNU
 To: /home/runner/work/portfolio/portfolio/import/drive/Energias/Still 2026-10-08 171416_1.1.9.jpg
-  0%|          | 0.00/1.49M [00:00<?, ?B/s] 35%|███▌      | 524k/1.49M [00:00<00:00, 4.46MB/s]100%|██████████| 1.49M/1.49M [00:00<00:00, 9.68MB/s]
+  0%|          | 0.00/1.49M [00:00<?, ?B/s] 35%|███▌      | 524k/1.49M [00:00<00:00, 3.44MB/s]100%|██████████| 1.49M/1.49M [00:00<00:00, 6.95MB/s]
 Downloading...
 From: https://drive.google.com/uc?id=1FXFosMQlnxnefmYUEISmfJN_4xqrbFL2
 To: /home/runner/work/portfolio/portfolio/import/drive/FALTA SEMPRE QUALQUER COISA/MOODBOARD/Moodboard Filme Experimental (1).pdf
-  0%|          | 0.00/8.86M [00:00<?, ?B/s]  6%|▌         | 524k/8.86M [00:00<00:01, 5.04MB/s] 53%|█████▎    | 4.72M/8.86M [00:00<00:00, 25.7MB/s]100%|██████████| 8.86M/8.86M [00:00<00:00, 31.2MB/s]
+  0%|          | 0.00/8.86M [00:00<?, ?B/s]  6%|▌         | 524k/8.86M [00:00<00:01, 4.81MB/s] 47%|████▋     | 4.19M/8.86M [00:00<00:00, 22.8MB/s]100%|██████████| 8.86M/8.86M [00:00<00:00, 30.7MB/s]
 Downloading...
 From: https://drive.google.com/uc?id=1RBOQgKu4d79o504MzP0mnutby7snDC0w
 To: /home/runner/work/portfolio/portfolio/import/drive/FALTA SEMPRE QUALQUER COISA/STILLS/Captura de ecrã 2026-07-06, às 20.53.18.png
-  0%|          | 0.00/2.82M [00:00<?, ?B/s]100%|██████████| 2.82M/2.82M [00:00<00:00, 28.9MB/s]
+  0%|          | 0.00/2.82M [00:00<?, ?B/s] 19%|█▊        | 524k/2.82M [00:00<00:00, 4.33MB/s] 93%|█████████▎| 2.62M/2.82M [00:00<00:00, 13.2MB/s]100%|██████████| 2.82M/2.82M [00:00<00:00, 12.4MB/s]
 Downloading...
 From: https://drive.google.com/uc?id=1J1liDIIYFW0P8KtnZGyrEu9VUBbgD1o0
 To: /home/runner/work/portfolio/portfolio/import/drive/FALTA SEMPRE QUALQUER COISA/STILLS/Captura de ecrã 2026-07-06, às 20.53.56.png
-  0%|          | 0.00/2.70M [00:00<?, ?B/s] 19%|█▉        | 524k/2.70M [00:00<00:00, 4.37MB/s]100%|██████████| 2.70M/2.70M [00:00<00:00, 15.2MB/s]
+  0%|          | 0.00/2.70M [00:00<?, ?B/s] 19%|█▉        | 524k/2.70M [00:00<00:00, 3.32MB/s] 97%|█████████▋| 2.62M/2.70M [00:00<00:00, 11.3MB/s]100%|██████████| 2.70M/2.70M [00:00<00:00, 10.1MB/s]
 Downloading...
 From: https://drive.google.com/uc?id=1xL0Dwi8TULYePMmOCDhhUPF1UO3xkYqG
 To: /home/runner/work/portfolio/portfolio/import/drive/FALTA SEMPRE QUALQUER COISA/STILLS/Captura de ecrã 2026-07-06, às 20.54.26.png
-  0%|          | 0.00/2.58M [00:00<?, ?B/s] 20%|██        | 524k/2.58M [00:00<00:00, 4.39MB/s]100%|██████████| 2.58M/2.58M [00:00<00:00, 14.8MB/s]
+  0%|          | 0.00/2.58M [00:00<?, ?B/s] 20%|██        | 524k/2.58M [00:00<00:00, 4.26MB/s]100%|██████████| 2.58M/2.58M [00:00<00:00, 12.3MB/s]
 Downloading...
 From: https://drive.google.com/uc?id=1dHSn0vW8oPL4E4BNXpAXvAZAfDnn-9-_
 To: /home/runner/work/portfolio/portfolio/import/drive/FALTA SEMPRE QUALQUER COISA/STILLS/Captura de ecrã 2026-07-06, às 20.54.58.png
-  0%|          | 0.00/2.43M [00:00<?, ?B/s] 22%|██▏       | 524k/2.43M [00:00<00:00, 4.39MB/s]100%|██████████| 2.43M/2.43M [00:00<00:00, 13.8MB/s]
+  0%|          | 0.00/2.43M [00:00<?, ?B/s] 22%|██▏       | 524k/2.43M [00:00<00:00, 3.82MB/s]100%|██████████| 2.43M/2.43M [00:00<00:00, 10.3MB/s]
 Downloading...
 From: https://drive.google.com/uc?id=15wMjephEYcNatP-WaTZGtQnZtYuTUqNU
 To: /home/runner/work/portfolio/portfolio/import/drive/FALTA SEMPRE QUALQUER COISA/STILLS/Captura de ecrã 2026-07-06, às 20.55.07.png
-  0%|          | 0.00/2.51M [00:00<?, ?B/s] 21%|██        | 524k/2.51M [00:00<00:00, 4.37MB/s]100%|██████████| 2.51M/2.51M [00:00<00:00, 14.4MB/s]
+  0%|          | 0.00/2.51M [00:00<?, ?B/s] 21%|██        | 524k/2.51M [00:00<00:00, 4.80MB/s]100%|██████████| 2.51M/2.51M [00:00<00:00, 13.5MB/s]
 Downloading...
 From: https://drive.google.com/uc?id=1vLInHW3PWxu4Uacocu5N_zLQ2mkR0Pyw
 To: /home/runner/work/portfolio/portfolio/import/drive/FALTA SEMPRE QUALQUER COISA/STILLS/Captura de ecrã 2026-07-06, às 20.55.19.png
-  0%|          | 0.00/2.76M [00:00<?, ?B/s] 19%|█▉        | 524k/2.76M [00:00<00:00, 4.39MB/s]100%|██████████| 2.76M/2.76M [00:00<00:00, 15.5MB/s]
+  0%|          | 0.00/2.76M [00:00<?, ?B/s] 19%|█▉        | 524k/2.76M [00:00<00:00, 4.71MB/s]100%|██████████| 2.76M/2.76M [00:00<00:00, 14.6MB/s]
 Downloading...
 From: https://drive.google.com/uc?id=1lpl3xOwjxVW20rShcKqTNTuO1X1bOppV
 To: /home/runner/work/portfolio/portfolio/import/drive/FALTA SEMPRE QUALQUER COISA/STILLS/Captura de ecrã 2026-07-06, às 20.56.57.png
-  0%|          | 0.00/2.58M [00:00<?, ?B/s] 20%|██        | 524k/2.58M [00:00<00:00, 4.45MB/s]100%|██████████| 2.58M/2.58M [00:00<00:00, 13.6MB/s]
+  0%|          | 0.00/2.58M [00:00<?, ?B/s] 20%|██        | 524k/2.58M [00:00<00:00, 4.30MB/s]100%|██████████| 2.58M/2.58M [00:00<00:00, 12.5MB/s]
 Downloading...
 From: https://drive.google.com/uc?id=1ZGUJ4MMyPfMm-93QM4QqI8nK3Ts5giUj
 To: /home/runner/work/portfolio/portfolio/import/drive/FALTA SEMPRE QUALQUER COISA/STILLS/Captura de ecrã 2026-07-06, às 22.23.37.png
-  0%|          | 0.00/2.63M [00:00<?, ?B/s] 20%|█▉        | 524k/2.63M [00:00<00:00, 4.39MB/s]100%|██████████| 2.63M/2.63M [00:00<00:00, 15.0MB/s]
+  0%|          | 0.00/2.63M [00:00<?, ?B/s] 20%|█▉        | 524k/2.63M [00:00<00:00, 3.42MB/s]100%|█████████▉| 2.62M/2.63M [00:00<00:00, 11.3MB/s]100%|██████████| 2.63M/2.63M [00:00<00:00, 9.97MB/s]
 Downloading...
 From: https://drive.google.com/uc?id=12mc04cW9M2TJiIZbxIdTILJl8rJ-0B-s
 To: /home/runner/work/portfolio/portfolio/import/drive/FALTA SEMPRE QUALQUER COISA/STILLS/Captura de ecrã 2026-07-06, às 22.23.43.png
-  0%|          | 0.00/3.19M [00:00<?, ?B/s] 16%|█▋        | 524k/3.19M [00:00<00:00, 4.36MB/s]100%|██████████| 3.19M/3.19M [00:00<00:00, 17.3MB/s]
+  0%|          | 0.00/3.19M [00:00<?, ?B/s] 16%|█▋        | 524k/3.19M [00:00<00:00, 4.21MB/s]100%|██████████| 3.19M/3.19M [00:00<00:00, 14.5MB/s]
 Downloading...
 From: https://drive.google.com/uc?id=1L3_hwvcVGuAI4pyAox4Qi1EWNwbtCpd2
 To: /home/runner/work/portfolio/portfolio/import/drive/FALTA SEMPRE QUALQUER COISA/STILLS/Captura de ecrã 2026-07-06, às 22.26.37.png
-  0%|          | 0.00/1.73M [00:00<?, ?B/s] 30%|███       | 524k/1.73M [00:00<00:00, 4.43MB/s] 91%|█████████ | 1.57M/1.73M [00:00<00:00, 7.70MB/s]100%|██████████| 1.73M/1.73M [00:00<00:00, 7.81MB/s]
+  0%|          | 0.00/1.73M [00:00<?, ?B/s] 30%|███       | 524k/1.73M [00:00<00:00, 4.82MB/s]100%|██████████| 1.73M/1.73M [00:00<00:00, 10.5MB/s]
 Downloading...
 From: https://drive.google.com/uc?id=19oK3vgD2K25qGoQw2XFvnJQoMJbKJznA
 To: /home/runner/work/portfolio/portfolio/import/drive/Fotos para a capa/786c0d92-3f42-4143-b300-bf92787c4150.JPG
-  0%|          | 0.00/96.5k [00:00<?, ?B/s]100%|██████████| 96.5k/96.5k [00:00<00:00, 2.17MB/s]
+  0%|          | 0.00/96.5k [00:00<?, ?B/s]100%|██████████| 96.5k/96.5k [00:00<00:00, 1.95MB/s]
 Downloading...
 From: https://drive.google.com/uc?id=1EAvRmtzrh4CXjCbERXUeSa5160Grf7uA
 To: /home/runner/work/portfolio/portfolio/import/drive/Fotos para a capa/Captura de ecrã 2025-07-09, às 17.25.58.png
-  0%|          | 0.00/2.82M [00:00<?, ?B/s] 19%|█▊        | 524k/2.82M [00:00<00:00, 4.38MB/s]100%|██████████| 2.82M/2.82M [00:00<00:00, 15.9MB/s]
+  0%|          | 0.00/2.82M [00:00<?, ?B/s] 19%|█▊        | 524k/2.82M [00:00<00:00, 3.36MB/s] 93%|█████████▎| 2.62M/2.82M [00:00<00:00, 11.3MB/s]100%|██████████| 2.82M/2.82M [00:00<00:00, 10.5MB/s]
 Downloading...
 From: https://drive.google.com/uc?id=1yzb1xLNgjEW8RFLIhFs0iebyJZbPd8gg
 To: /home/runner/work/portfolio/portfolio/import/drive/Fotos para a capa/Captura de ecrã 2025-07-09, às 17.26.05.png
-  0%|          | 0.00/1.85M [00:00<?, ?B/s] 28%|██▊       | 524k/1.85M [00:00<00:00, 4.52MB/s]100%|██████████| 1.85M/1.85M [00:00<00:00, 11.5MB/s]
+  0%|          | 0.00/1.85M [00:00<?, ?B/s] 28%|██▊       | 524k/1.85M [00:00<00:00, 3.89MB/s]100%|██████████| 1.85M/1.85M [00:00<00:00, 8.70MB/s]
 Downloading...
 From: https://drive.google.com/uc?id=1v7NcQqkFB3_TdWiJwMJaQRTWE4NodS5g
 To: /home/runner/work/portfolio/portfolio/import/drive/Fotos para a capa/e198033c-0747-48c2-9ec9-fbdd6df7a428.JPG
-  0%|          | 0.00/90.5k [00:00<?, ?B/s]100%|██████████| 90.5k/90.5k [00:00<00:00, 1.48MB/s]
+  0%|          | 0.00/90.5k [00:00<?, ?B/s]100%|██████████| 90.5k/90.5k [00:00<00:00, 1.70MB/s]
 Downloading...
 From: https://drive.google.com/uc?id=19rfKr5rlg81vkB581zZURxxS5NDfRH4q
 To: /home/runner/work/portfolio/portfolio/import/drive/Fotos para a capa/Still 2025-05-09 111402_1.1.10.jpg
-  0%|          | 0.00/1.22M [00:00<?, ?B/s] 43%|████▎     | 524k/1.22M [00:00<00:00, 4.58MB/s]100%|██████████| 1.22M/1.22M [00:00<00:00, 8.50MB/s]
+  0%|          | 0.00/1.22M [00:00<?, ?B/s] 43%|████▎     | 524k/1.22M [00:00<00:00, 4.81MB/s]100%|██████████| 1.22M/1.22M [00:00<00:00, 8.24MB/s]
 Downloading...
 From: https://drive.google.com/uc?id=1IyjX2OT53jGmO6m2WYuge_1B2XuZvfVh
 To: /home/runner/work/portfolio/portfolio/import/drive/Fotos para a capa/Still 2025-05-09 111402_1.1.3.jpg
-  0%|          | 0.00/996k [00:00<?, ?B/s] 53%|█████▎    | 524k/996k [00:00<00:00, 4.32MB/s]100%|██████████| 996k/996k [00:00<00:00, 6.63MB/s]
+  0%|          | 0.00/996k [00:00<?, ?B/s] 53%|█████▎    | 524k/996k [00:00<00:00, 3.43MB/s]100%|██████████| 996k/996k [00:00<00:00, 5.22MB/s]
 Downloading...
 From: https://drive.google.com/uc?id=1kqnRgaLdwEdbtARi0wnKB3t4JioOIM10
 To: /home/runner/work/portfolio/portfolio/import/drive/Fotos para a capa/Still 2025-05-09 111402_1.1.5.jpg
-  0%|          | 0.00/1.29M [00:00<?, ?B/s] 41%|████      | 524k/1.29M [00:00<00:00, 4.45MB/s]100%|██████████| 1.29M/1.29M [00:00<00:00, 7.67MB/s]
+  0%|          | 0.00/1.29M [00:00<?, ?B/s] 41%|████      | 524k/1.29M [00:00<00:00, 4.11MB/s]100%|██████████| 1.29M/1.29M [00:00<00:00, 7.42MB/s]
 Downloading...
 From: https://drive.google.com/uc?id=1ESDXV6G7JR2ibyRYC-zPkOVq9usyN58P
 To: /home/runner/work/portfolio/portfolio/import/drive/Fotos para a capa/Still 2026-10-08 171416_1.1.11.jpg
-  0%|          | 0.00/1.51M [00:00<?, ?B/s] 35%|███▍      | 524k/1.51M [00:00<00:00, 4.29MB/s]100%|██████████| 1.51M/1.51M [00:00<00:00, 9.59MB/s]
+  0%|          | 0.00/1.51M [00:00<?, ?B/s] 35%|███▍      | 524k/1.51M [00:00<00:00, 4.32MB/s]100%|██████████| 1.51M/1.51M [00:00<00:00, 8.59MB/s]
 Downloading...
 From: https://drive.google.com/uc?id=1gp3vzXLLGUeqsvBYKelGU2xGIqzGREo4
 To: /home/runner/work/portfolio/portfolio/import/drive/Fotos para a capa/Still 2026-10-08 171416_1.1.2.jpg
-  0%|          | 0.00/1.64M [00:00<?, ?B/s] 32%|███▏      | 524k/1.64M [00:00<00:00, 4.30MB/s]100%|██████████| 1.64M/1.64M [00:00<00:00, 10.1MB/s]
+  0%|          | 0.00/1.64M [00:00<?, ?B/s] 32%|███▏      | 524k/1.64M [00:00<00:00, 4.99MB/s]100%|██████████| 1.64M/1.64M [00:00<00:00, 10.6MB/s]
 Downloading...
 From: https://drive.google.com/uc?id=1QJs9PO1f3OtwHTRrOJtu3Gd6WDfan2lQ
 To: /home/runner/work/portfolio/portfolio/import/drive/Fotos para a capa/Still 2026-10-08 171416_1.1.4.jpg
-  0%|          | 0.00/1.50M [00:00<?, ?B/s] 35%|███▍      | 524k/1.50M [00:00<00:00, 4.36MB/s]100%|██████████| 1.50M/1.50M [00:00<00:00, 9.64MB/s]
+  0%|          | 0.00/1.50M [00:00<?, ?B/s] 35%|███▍      | 524k/1.50M [00:00<00:00, 3.73MB/s]100%|██████████| 1.50M/1.50M [00:00<00:00, 7.58MB/s]
 Downloading...
 From: https://drive.google.com/uc?id=1HwZiDV6zf99opmY9jizoXNR886mcncrB
 To: /home/runner/work/portfolio/portfolio/import/drive/Fotos para a capa/Still 2026-10-08 171416_1.1.6.jpg
-  0%|          | 0.00/1.43M [00:00<?, ?B/s] 37%|███▋      | 524k/1.43M [00:00<00:00, 3.86MB/s]100%|██████████| 1.43M/1.43M [00:00<00:00, 6.35MB/s]
+  0%|          | 0.00/1.43M [00:00<?, ?B/s] 37%|███▋      | 524k/1.43M [00:00<00:00, 4.87MB/s]100%|██████████| 1.43M/1.43M [00:00<00:00, 9.46MB/s]
 Downloading...
 From: https://drive.google.com/uc?id=1tiSAAs6MAj9uBGYjr0PPYJ2Q3i7mAKsQ
 To: /home/runner/work/portfolio/portfolio/import/drive/Fotos para a capa/WhatsApp Image 2025-05-27 at 15.41.27.jpeg
-  0%|          | 0.00/61.6k [00:00<?, ?B/s]100%|██████████| 61.6k/61.6k [00:00<00:00, 1.29MB/s]
+  0%|          | 0.00/61.6k [00:00<?, ?B/s]100%|██████████| 61.6k/61.6k [00:00<00:00, 1.60MB/s]
 Downloading...
 From: https://drive.google.com/uc?id=1Fo0-ot5r-DF5flcMkwy4fAI6NMqoWSdl
 To: /home/runner/work/portfolio/portfolio/import/drive/Fotos para a capa/WhatsApp Image 2026-05-14 at 02.00.45 (20).jpeg
-  0%|          | 0.00/739k [00:00<?, ?B/s] 71%|███████   | 524k/739k [00:00<00:00, 4.61MB/s]100%|██████████| 739k/739k [00:00<00:00, 5.88MB/s]
+  0%|          | 0.00/739k [00:00<?, ?B/s] 71%|███████   | 524k/739k [00:00<00:00, 4.26MB/s]100%|██████████| 739k/739k [00:00<00:00, 5.54MB/s]
 Downloading...
 From: https://drive.google.com/uc?id=1qC2hF28fS9948Wq9qAjVyvAdHv61Ro6i
 To: /home/runner/work/portfolio/portfolio/import/drive/Fotos para a capa/WhatsApp Image 2026-05-14 at 02.00.45 (23).jpeg
-  0%|          | 0.00/627k [00:00<?, ?B/s] 84%|████████▎ | 524k/627k [00:00<00:00, 4.39MB/s]100%|██████████| 627k/627k [00:00<00:00, 5.02MB/s]
-Downloading...
-From: https://drive.google.com/uc?id=1hc1VxELt4eSOAq1A0ze8xfUSG_Qn18E1
-To: /home/runner/work/portfolio/portfolio/import/drive/Fotos para a capa/WhatsApp Image 2026-05-14 at 02.00.45 (25).jpeg
-  0%|          | 0.00/570k [00:00<?, ?B/s] 92%|█████████▏| 524k/570k [00:00<00:00, 4.38MB/s]100%|██████████| 570k/570k [00:00<00:00, 4.65MB/s]
-Downloading...
-From: https://drive.google.com/uc?id=1XrA6Cz-zrn4ohhrpQ3khU4wC-tOO0cyr
-To: /home/runner/work/portfolio/portfolio/import/drive/Fotos para a capa/WhatsApp Image 2026-05-14 at 02.00.45 (28).jpeg
-  0%|          | 0.00/740k [00:00<?, ?B/s] 71%|███████   | 524k/740k [00:00<00:00, 4.50MB/s]100%|██████████| 740k/740k [00:00<00:00, 5.75MB/s]
-Downloading...
-From: https://drive.google.com/uc?id=1R27QbmEjwKinl4Sux7I30eO71Xdmf7TW
-To: /home/runner/work/portfolio/portfolio/import/drive/Fotos para a capa/WhatsApp Image 2026-05-14 at 02.00.45 (33).jpeg
-  0%|          | 0.00/944k [00:00<?, ?B/s] 56%|█████▌    | 524k/944k [00:00<00:00, 4.35MB/s]100%|██████████| 944k/944k [00:00<00:00, 6.67MB/s]
-Downloading...
-From: https://drive.google.com/uc?id=1BCcdxfcBvkdettvYyLxxX_N3A3HmbIfZ
-To: /home/runner/work/portfolio/portfolio/import/drive/Fotos para a capa/WhatsApp Image 2026-05-14 at 02.00.45 (38).jpeg
-  0%|          | 0.00/863k [00:00<?, ?B/s] 61%|██████    | 524k/863k [00:00<00:00, 4.67MB/s]100%|██████████| 863k/863k [00:00<00:00, 6.39MB/s]
-Downloading...
-From: https://drive.google.com/uc?id=1kxlWZlADUcofVTveZW8kfG7g9jsUDYLn
-To: /home/runner/work/portfolio/portfolio/import/drive/Fotos para a capa/WhatsApp Image 2026-05-14 at 02.00.45 (39).jpeg
-  0%|          | 0.00/902k [00:00<?, ?B/s] 58%|█████▊    | 524k/902k [00:00<00:00, 4.17MB/s]100%|██████████| 902k/902k [00:00<00:00, 6.27MB/s]
-Downloading...
-From: https://drive.google.com/uc?id=1SMlpCsEOcnlkQLCToQ83OSs3OcJfipue
-To: /home/runner/work/portfolio/portfolio/import/drive/Fotos para a capa/WhatsApp Image 2026-05-14 at 02.00.45 (8).jpeg
-  0%|          | 0.00/606k [00:00<?, ?B/s] 86%|████████▋ | 524k/606k [00:00<00:00, 4.38MB/s]100%|██████████| 606k/606k [00:00<00:00, 4.89MB/s]
-Downloading...
-From: https://drive.google.com/uc?id=1jjPsewylqqEr7hPk1zK5vAjAX6SKBM3k
-To: /home/runner/work/portfolio/portfolio/import/drive/Fotos para a capa/WhatsApp Image 2026-05-14 at 02.00.46 (2).jpeg
-  0%|          | 0.00/692k [00:00<?, ?B/s] 76%|███████▌  | 524k/692k [00:00<00:00, 3.88MB/s]100%|██████████| 692k/692k [00:00<00:00, 4.76MB/s]
-Downloading...
-From: https://drive.google.com/uc?id=1AP_b0UQ3cVShyJ73ewmJFeF0f4SCfOv8
-To: /home/runner/work/portfolio/portfolio/import/drive/Fotos para a capa/WhatsApp Image 2026-05-14 at 02.00.46 (20).jpeg
-  0%|          | 0.00/751k [00:00<?, ?B/s] 70%|██████▉   | 524k/751k [00:00<00:00, 4.43MB/s]100%|██████████| 751k/751k [00:00<00:00, 5.78MB/s]
-Downloading...
-From: https://drive.google.com/uc?id=1ffFoGg8PD2khh1RRmjw4Z3eTcPem98wZ
-To: /home/runner/work/portfolio/portfolio/import/drive/Fotos para a capa/WhatsApp Image 2026-05-14 at 02.00.46 (31).jpeg
-  0%|          | 0.00/720k [00:00<?, ?B/s] 73%|███████▎  | 524k/720k [00:00<00:00, 4.35MB/s]100%|██████████| 720k/720k [00:00<00:00, 5.55MB/s]
-Downloading...
-From: https://drive.google.com/uc?id=1B1uMYvyrADNLtPcpcSJbaN--uH5DCLaw
-To: /home/runner/work/portfolio/portfolio/import/drive/SEVERA/STILLS PRINCIPAIS/347de5db-52c5-4cd7-bf35-b8e7d451c7be.JPG
-  0%|          | 0.00/90.8k [00:00<?, ?B/s]100%|██████████| 90.8k/90.8k [00:00<00:00, 1.56MB/s]
-Downloading...
-From: https://drive.google.com/uc?id=1TtfKLFcqj6g3UdCxS21Q7wu4WyZg6wX_
-To: /home/runner/work/portfolio/portfolio/import/drive/SEVERA/STILLS PRINCIPAIS/4b65492b-5e25-49a4-99ac-c713eccd8517.JPG
-  0%|          | 0.00/148k [00:00<?, ?B/s]100%|██████████| 148k/148k [00:00<00:00, 2.14MB/s]
-Downloading...
-From: https://drive.google.com/uc?id=1uuNHi47LmBCLVvhba_poXx6ZAj6p1tXn
-To: /home/runner/work/portfolio/portfolio/import/drive/SEVERA/STILLS PRINCIPAIS/786c0d92-3f42-4143-b300-bf92787c4150.JPG
-  0%|          | 0.00/96.5k [00:00<?, ?B/s]100%|██████████| 96.5k/96.5k [00:00<00:00, 1.56MB/s]
-Downloading...
-From: https://drive.google.com/uc?id=1j4Maw08OVLywh1rQm27IWDN1KD1K6MvP
-To: /home/runner/work/portfolio/portfolio/import/drive/SEVERA/STILLS PRINCIPAIS/a5e69a36-aab4-4dd6-8c8b-b7e57580de8c.JPG
-  0%|          | 0.00/101k [00:00<?, ?B/s]100%|██████████| 101k/101k [00:00<00:00, 1.59MB/s]
-Downloading...
-From: https://drive.google.com/uc?id=1G6VfC-ycB-0bWffIRXFgSSVXDmgjXcig
-To: /home/runner/work/portfolio/portfolio/import/drive/SEVERA/STILLS PRINCIPAIS/aee22271-ecbe-47a7-bc05-0ccb050dbfbc.JPG
-  0%|          | 0.00/124k [00:00<?, ?B/s]100%|██████████| 124k/124k [00:00<00:00, 1.67MB/s]
-Downloading...
-From: https://drive.google.com/uc?id=1MN-Zus_wzpZXjXG5f-pENbz86E56DTGi
-To: /home/runner/work/portfolio/portfolio/import/drive/SEVERA/STILLS PRINCIPAIS/e198033c-0747-48c2-9ec9-fbdd6df7a428.JPG
-  0%|          | 0.00/90.5k [00:00<?, ?B/s]100%|██████████| 90.5k/90.5k [00:00<00:00, 1.52MB/s]
-Downloading...
-From: https://drive.google.com/uc?id=1BYP1EUxCeSnhU2r2eKA5mGl0EOybbtKz
-To: /home/runner/work/portfolio/portfolio/import/drive/SEVERA/STILLS PRINCIPAIS/ec7c59cd-1c27-4741-a9bd-39823611bb60.JPG
-  0%|          | 0.00/105k [00:00<?, ?B/s]100%|██████████| 105k/105k [00:00<00:00, 1.60MB/s]
-Downloading...
-From: https://drive.google.com/uc?id=13ha7zdzQt_vycUbYif9Qm5Gm0rXZGeS1
-To: /home/runner/work/portfolio/portfolio/import/drive/SEVERA/STILLS PRINCIPAIS/fcae69af-2789-46bd-bfe6-8ac8aff2c98d.JPG
-  0%|          | 0.00/108k [00:00<?, ?B/s]100%|██████████| 108k/108k [00:00<00:00, 1.91MB/s]
-Downloading...
-From: https://drive.google.com/uc?id=1wHgICdyYUSTzMTIui19GMwAp7P1dynrH
-To: /home/runner/work/portfolio/portfolio/import/drive/SEVERA/STILLS PRINCIPAIS/WhatsApp Image 2025-05-27 at 15.41.27.jpeg
-  0%|          | 0.00/61.6k [00:00<?, ?B/s]100%|██████████| 61.6k/61.6k [00:00<00:00, 1.11MB/s]
-Downloading...
-From: https://drive.google.com/uc?id=1ClnXndFN6QZgAbrzop8lqgV4o0R4hTM3
-To: /home/runner/work/portfolio/portfolio/import/drive/SEVERA/STILLS SECUNDÁRIOS/45ee7bc0-4dea-450b-9cca-6d9883b267ae.JPG
-  0%|          | 0.00/82.9k [00:00<?, ?B/s]100%|██████████| 82.9k/82.9k [00:00<00:00, 1.42MB/s]
-Downloading...
-From: https://drive.google.com/uc?id=1JwCYpPO8QzXS3shFvs4W3bLHZK443dOi
-To: /home/runner/work/portfolio/portfolio/import/drive/SEVERA/STILLS SECUNDÁRIOS/82a75f4e-b341-455e-8f1f-34794d819117.JPG
-  0%|          | 0.00/89.3k [00:00<?, ?B/s]100%|██████████| 89.3k/89.3k [00:00<00:00, 1.48MB/s]
-Downloading...
-From: https://drive.google.com/uc?id=1WZ3QsU8yUnCWnVsHw4Cv3WWJhim0PvYK
-To: /home/runner/work/portfolio/portfolio/import/drive/SEVERA/STILLS SECUNDÁRIOS/WhatsApp Image 2025-05-27 at 15.41.29.jpeg
-  0%|          | 0.00/70.8k [00:00<?, ?B/s]100%|██████████| 70.8k/70.8k [00:00<00:00, 1.60MB/s]
-Downloading...
-From: https://drive.google.com/uc?id=1PcbBK-NWx6k2vTcnr5Hf01ht1hMI5Kbh
-To: /home/runner/work/portfolio/portfolio/import/drive/Severa - Fashion Film/MOODBOARD/Moodboard Fashionfilm.pdf
-  0%|          | 0.00/20.7M [00:00<?, ?B/s]  3%|▎         | 524k/20.7M [00:00<00:06, 2.89MB/s] 20%|██        | 4.19M/20.7M [00:00<00:00, 17.7MB/s] 43%|████▎     | 8.91M/20.7M [00:00<00:00, 18.0MB/s] 53%|█████▎    | 11.0M/20.7M [00:00<00:00, 16.6MB/s] 63%|██████▎   | 13.1M/20.7M [00:00<00:00, 14.7MB/s] 84%|████████▎ | 17.3M/20.7M [00:01<00:00, 18.1MB/s] 94%|█████████▎| 19.4M/20.7M [00:01<00:00, 17.1MB/s]100%|██████████| 20.7M/20.7M [00:01<00:00, 17.4MB/s]
-Downloading...
-From: https://drive.google.com/uc?id=1Q8zS682af9_Jq28EurkF0tjXZV504SEq
-To: /home/runner/work/portfolio/portfolio/import/drive/Severa - Fashion Film/1.jpg
-  0%|          | 0.00/4.68M [00:00<?, ?B/s] 11%|█         | 524k/4.68M [00:00<00:00, 4.45MB/s]100%|██████████| 4.68M/4.68M [00:00<00:00, 23.4MB/s]
-Downloading...
-From: https://drive.google.com/uc?id=1j3O2bTDHDXOEnVIxxKRVrXpLDhdBYosn
-To: /home/runner/work/portfolio/portfolio/import/drive/Severa - Fashion Film/10.jpg
-  0%|          | 0.00/3.81M [00:00<?, ?B/s] 14%|█▎        | 524k/3.81M [00:00<00:00, 4.38MB/s]100%|██████████| 3.81M/3.81M [00:00<00:00, 19.9MB/s]
-Downloading...
-From: https://drive.google.com/uc?id=1T3kQtKtRFEvcUlkvXTt4ZHNWSs1hqfrQ
-To: /home/runner/work/portfolio/portfolio/import/drive/Severa - Fashion Film/11.jpg
-  0%|          | 0.00/4.64M [00:00<?, ?B/s] 11%|█▏        | 524k/4.64M [00:00<00:00, 4.48MB/s]100%|██████████| 4.64M/4.64M [00:00<00:00, 23.3MB/s]
-Downloading...
-From: https://drive.google.com/uc?id=1mao2xE0Hu2ASTDcsTsz_6PdGAHgAcMpE
-To: /home/runner/work/portfolio/portfolio/import/drive/Severa - Fashion Film/12.jpg
-  0%|          | 0.00/5.55M [00:00<?, ?B/s] 19%|█▉        | 1.05M/5.55M [00:00<00:00, 8.51MB/s]100%|██████████| 5.55M/5.55M [00:00<00:00, 27.1MB/s]
-Downloading...
-From: https://drive.google.com/uc?id=1KbGVMnWk--hDsOG2gp4xaNKK2DI9-Agg
-To: /home/runner/work/portfolio/portfolio/import/drive/Severa - Fashion Film/13.jpg
-  0%|          | 0.00/4.38M [00:00<?, ?B/s] 36%|███▌      | 1.57M/4.38M [00:00<00:00, 14.6MB/s]100%|██████████| 4.38M/4.38M [00:00<00:00, 26.0MB/s]
-Downloading...
-From: https://drive.google.com/uc?id=1UoyTTTcknxvXYyHd-4kaoctsCC9xAne0
-To: /home/runner/work/portfolio/portfolio/import/drive/Severa - Fashion Film/2.jpg
-  0%|          | 0.00/4.06M [00:00<?, ?B/s] 91%|█████████ | 3.67M/4.06M [00:00<00:00, 35.0MB/s]100%|██████████| 4.06M/4.06M [00:00<00:00, 38.0MB/s]
-Downloading...
-From: https://drive.google.com/uc?id=1n6EV2ycK5HowjBctyWULeAWxN71hQw8u
-To: /home/runner/work/portfolio/portfolio/import/drive/Severa - Fashion Film/3.jpg
-  0%|          | 0.00/3.79M [00:00<?, ?B/s] 14%|█▍        | 524k/3.79M [00:00<00:00, 4.56MB/s]100%|██████████| 3.79M/3.79M [00:00<00:00, 20.0MB/s]
-Downloading...
-From: https://drive.google.com/uc?id=1fphW5LmGXy_ppIEDb1m9UkYkTYWRxSEv
-To: /home/runner/work/portfolio/portfolio/import/drive/Severa - Fashion Film/4.jpg
-  0%|          | 0.00/4.95M [00:00<?, ?B/s] 11%|█         | 524k/4.95M [00:00<00:00, 4.71MB/s]100%|██████████| 4.95M/4.95M [00:00<00:00, 26.0MB/s]
-Downloading...
-From: https://drive.google.com/uc?id=1xWTvbL2vCyD6MYoILoC1GkiblghdSJ-N
-To: /home/runner/work/portfolio/portfolio/import/drive/Severa - Fashion Film/5.jpg
-  0%|          | 0.00/4.69M [00:00<?, ?B/s] 11%|█         | 524k/4.69M [00:00<00:00, 4.38MB/s]100%|██████████| 4.69M/4.69M [00:00<00:00, 23.9MB/s]
-Downloading...
-From: https://drive.google.com/uc?id=12l7yRgrizhBN1o_uABGtRviXXoMB-b9w
-To: /home/runner/work/portfolio/portfolio/import/drive/Severa - Fashion Film/6.jpg
-  0%|          | 0.00/5.36M [00:00<?, ?B/s] 20%|█▉        | 1.05M/5.36M [00:00<00:00, 8.91MB/s]100%|██████████| 5.36M/5.36M [00:00<00:00, 30.6MB/s]
-Downloading...
-From: https://drive.google.com/uc?id=1x-9hFhADiRL7ByjSYqJ0HkY922F4jdvA
-To: /home/runner/work/portfolio/portfolio/import/drive/Severa - Fashion Film/7.jpg
-  0%|          | 0.00/5.12M [00:00<?, ?B/s] 10%|█         | 524k/5.12M [00:00<00:01, 4.32MB/s]100%|██████████| 5.12M/5.12M [00:00<00:00, 24.4MB/s]
-Downloading...
-From: https://drive.google.com/uc?id=1BzIbC1k-pZnY-ZZnENiUAsQXFr-YxjRC
-To: /home/runner/work/portfolio/portfolio/import/drive/Severa - Fashion Film/8.jpg
-  0%|          | 0.00/3.82M [00:00<?, ?B/s] 27%|██▋       | 1.05M/3.82M [00:00<00:00, 8.69MB/s]100%|██████████| 3.82M/3.82M [00:00<00:00, 17.7MB/s]
-Downloading...
-From: https://drive.google.com/uc?id=1EMMB2En27NEl15KdLQgWlLiCwMq8mjij
-To: /home/runner/work/portfolio/portfolio/import/drive/Severa - Fashion Film/9.jpg
-  0%|          | 0.00/3.51M [00:00<?, ?B/s] 15%|█▍        | 524k/3.51M [00:00<00:00, 4.34MB/s]100%|██████████| 3.51M/3.51M [00:00<00:00, 18.7MB/s]
-Downloading...
-From: https://drive.google.com/uc?id=1IF5F2_Xf9gSndzlgY3XH-N-8TxBFhJhw
-To: /home/runner/work/portfolio/portfolio/import/drive/SÓ/Captura de ecrã 2025-07-27, às 22.12.16.png
-  0%|          | 0.00/3.57M [00:00<?, ?B/s] 15%|█▍        | 524k/3.57M [00:00<00:00, 4.38MB/s] 73%|███████▎  | 2.62M/3.57M [00:00<00:00, 10.5MB/s]100%|██████████| 3.57M/3.57M [00:00<00:00, 12.7MB/s]
-Downloading...
-From: https://drive.google.com/uc?id=1PMa8UtmWFiR-IhFCKUd2A5CQx9kEYzys
-To: /home/runner/work/portfolio/portfolio/import/drive/SÓ/Captura de ecrã 2025-07-27, às 22.17.01.png
-  0%|          | 0.00/4.68M [00:00<?, ?B/s] 11%|█         | 524k/4.68M [00:00<00:00, 4.28MB/s]100%|██████████| 4.68M/4.68M [00:00<00:00, 24.2MB/s]100%|██████████| 4.68M/4.68M [00:00<00:00, 20.9MB/s]
-Downloading...
-From: https://drive.google.com/uc?id=1vPNn4pecpx0THYqY_-vcaUxBmWMqPEQz
-To: /home/runner/work/portfolio/portfolio/import/drive/SÓ/Captura de ecrã 2025-07-27, às 22.17.37.png
-  0%|          | 0.00/4.56M [00:00<?, ?B/s] 12%|█▏        | 524k/4.56M [00:00<00:00, 5.12MB/s]100%|██████████| 4.56M/4.56M [00:00<00:00, 24.2MB/s]
-Downloading...
-From: https://drive.google.com/uc?id=1vnSgj_gwDPiikN6vxTNLTgV3D2Roagku
-To: /home/runner/work/portfolio/portfolio/import/drive/SÓ/Still 2025-05-09 111402_1.1.1.jpg
-  0%|          | 0.00/1.49M [00:00<?, ?B/s] 35%|███▌      | 524k/1.49M [00:00<00:00, 4.36MB/s]100%|██████████| 1.49M/1.49M [00:00<00:00, 9.31MB/s]
-Downloading...
-From: https://drive.google.com/uc?id=1u4B03cnzxQmsa1Xzyl0KVMyrDMarg6MG
-To: /home/runner/work/portfolio/portfolio/import/drive/SÓ/Still 2025-05-09 111402_1.1.10.jpg
-  0%|          | 0.00/1.22M [00:00<?, ?B/s] 43%|████▎     | 524k/1.22M [00:00<00:00, 4.44MB/s]100%|██████████| 1.22M/1.22M [00:00<00:00, 8.09MB/s]
-Downloading...
-From: https://drive.google.com/uc?id=1xsPJAlWbGcp_7iI1IhL6JFA5Ck5TyWXl
-To: /home/runner/work/portfolio/portfolio/import/drive/SÓ/Still 2025-05-09 111402_1.1.11.jpg
-  0%|          | 0.00/979k [00:00<?, ?B/s] 54%|█████▎    | 524k/979k [00:00<00:00, 4.37MB/s]100%|██████████| 979k/979k [00:00<00:00, 6.93MB/s]
-Downloading...
-From: https://drive.google.com/uc?id=1VEejFT_kxOK-bDAeWtSs2qLyIQKiUz8z
-To: /home/runner/work/portfolio/portfolio/import/drive/SÓ/Still 2025-05-09 111402_1.1.2.jpg
-  0%|          | 0.00/1.16M [00:00<?, ?B/s] 45%|████▌     | 524k/1.16M [00:00<00:00, 4.36MB/s]100%|██████████| 1.16M/1.16M [00:00<00:00, 7.90MB/s]
-Downloading...
-From: https://drive.google.com/uc?id=1sGxGaGNYFC36KxX6hyiHbp8sWUoovU9x
-To: /home/runner/work/portfolio/portfolio/import/drive/SÓ/Still 2025-05-09 111402_1.1.3.jpg
-  0%|          | 0.00/996k [00:00<?, ?B/s] 53%|█████▎    | 524k/996k [00:00<00:00, 2.34MB/s]100%|██████████| 996k/996k [00:00<00:00, 1.02MB/s]100%|██████████| 996k/996k [00:00<00:00, 1.12MB/s]
+  0%|          | 0.00/627k [00:00<?, ?B/s] 84%|████████▎ | 524k/627k [00:00<00:00, 4.13MB/s]100%|██████████| 627k/627k [00:00<00:00, 4.77MB/s]
+Failed to download import/drive/Fotos para a capa/WhatsApp Image 2026-05-14 at 02.00.45 (25).jpeg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1hc1VxELt4eSOAq1A0ze8xfUSG_Qn18E1
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Fotos para a capa/WhatsApp Image 2026-05-14 at 02.00.45 (28).jpeg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1XrA6Cz-zrn4ohhrpQ3khU4wC-tOO0cyr
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Fotos para a capa/WhatsApp Image 2026-05-14 at 02.00.45 (33).jpeg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1R27QbmEjwKinl4Sux7I30eO71Xdmf7TW
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Fotos para a capa/WhatsApp Image 2026-05-14 at 02.00.45 (38).jpeg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1BCcdxfcBvkdettvYyLxxX_N3A3HmbIfZ
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Fotos para a capa/WhatsApp Image 2026-05-14 at 02.00.45 (39).jpeg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1kxlWZlADUcofVTveZW8kfG7g9jsUDYLn
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Fotos para a capa/WhatsApp Image 2026-05-14 at 02.00.45 (8).jpeg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1SMlpCsEOcnlkQLCToQ83OSs3OcJfipue
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Fotos para a capa/WhatsApp Image 2026-05-14 at 02.00.46 (2).jpeg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1jjPsewylqqEr7hPk1zK5vAjAX6SKBM3k
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Fotos para a capa/WhatsApp Image 2026-05-14 at 02.00.46 (20).jpeg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1AP_b0UQ3cVShyJ73ewmJFeF0f4SCfOv8
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Fotos para a capa/WhatsApp Image 2026-05-14 at 02.00.46 (31).jpeg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1ffFoGg8PD2khh1RRmjw4Z3eTcPem98wZ
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/SEVERA/STILLS PRINCIPAIS/347de5db-52c5-4cd7-bf35-b8e7d451c7be.JPG: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1B1uMYvyrADNLtPcpcSJbaN--uH5DCLaw
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/SEVERA/STILLS PRINCIPAIS/4b65492b-5e25-49a4-99ac-c713eccd8517.JPG: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1TtfKLFcqj6g3UdCxS21Q7wu4WyZg6wX_
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/SEVERA/STILLS PRINCIPAIS/786c0d92-3f42-4143-b300-bf92787c4150.JPG: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1uuNHi47LmBCLVvhba_poXx6ZAj6p1tXn
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/SEVERA/STILLS PRINCIPAIS/a5e69a36-aab4-4dd6-8c8b-b7e57580de8c.JPG: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1j4Maw08OVLywh1rQm27IWDN1KD1K6MvP
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/SEVERA/STILLS PRINCIPAIS/aee22271-ecbe-47a7-bc05-0ccb050dbfbc.JPG: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1G6VfC-ycB-0bWffIRXFgSSVXDmgjXcig
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/SEVERA/STILLS PRINCIPAIS/e198033c-0747-48c2-9ec9-fbdd6df7a428.JPG: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1MN-Zus_wzpZXjXG5f-pENbz86E56DTGi
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/SEVERA/STILLS PRINCIPAIS/ec7c59cd-1c27-4741-a9bd-39823611bb60.JPG: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1BYP1EUxCeSnhU2r2eKA5mGl0EOybbtKz
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/SEVERA/STILLS PRINCIPAIS/fcae69af-2789-46bd-bfe6-8ac8aff2c98d.JPG: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=13ha7zdzQt_vycUbYif9Qm5Gm0rXZGeS1
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/SEVERA/STILLS PRINCIPAIS/WhatsApp Image 2025-05-27 at 15.41.27.jpeg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1wHgICdyYUSTzMTIui19GMwAp7P1dynrH
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/SEVERA/STILLS SECUNDÁRIOS/45ee7bc0-4dea-450b-9cca-6d9883b267ae.JPG: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1ClnXndFN6QZgAbrzop8lqgV4o0R4hTM3
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/SEVERA/STILLS SECUNDÁRIOS/82a75f4e-b341-455e-8f1f-34794d819117.JPG: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1JwCYpPO8QzXS3shFvs4W3bLHZK443dOi
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/SEVERA/STILLS SECUNDÁRIOS/WhatsApp Image 2025-05-27 at 15.41.29.jpeg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1WZ3QsU8yUnCWnVsHw4Cv3WWJhim0PvYK
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Severa - Fashion Film/MOODBOARD/Moodboard Fashionfilm.pdf: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1PcbBK-NWx6k2vTcnr5Hf01ht1hMI5Kbh
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Severa - Fashion Film/1.jpg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1Q8zS682af9_Jq28EurkF0tjXZV504SEq
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Severa - Fashion Film/10.jpg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1j3O2bTDHDXOEnVIxxKRVrXpLDhdBYosn
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Severa - Fashion Film/11.jpg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1T3kQtKtRFEvcUlkvXTt4ZHNWSs1hqfrQ
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Severa - Fashion Film/12.jpg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1mao2xE0Hu2ASTDcsTsz_6PdGAHgAcMpE
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Severa - Fashion Film/13.jpg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1KbGVMnWk--hDsOG2gp4xaNKK2DI9-Agg
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Severa - Fashion Film/2.jpg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1UoyTTTcknxvXYyHd-4kaoctsCC9xAne0
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Severa - Fashion Film/3.jpg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1n6EV2ycK5HowjBctyWULeAWxN71hQw8u
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Severa - Fashion Film/4.jpg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1fphW5LmGXy_ppIEDb1m9UkYkTYWRxSEv
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Severa - Fashion Film/5.jpg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1xWTvbL2vCyD6MYoILoC1GkiblghdSJ-N
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Severa - Fashion Film/6.jpg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=12l7yRgrizhBN1o_uABGtRviXXoMB-b9w
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Severa - Fashion Film/7.jpg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1x-9hFhADiRL7ByjSYqJ0HkY922F4jdvA
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Severa - Fashion Film/8.jpg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1BzIbC1k-pZnY-ZZnENiUAsQXFr-YxjRC
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Severa - Fashion Film/9.jpg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1EMMB2En27NEl15KdLQgWlLiCwMq8mjij
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/SÓ/Captura de ecrã 2025-07-27, às 22.12.16.png: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1IF5F2_Xf9gSndzlgY3XH-N-8TxBFhJhw
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/SÓ/Captura de ecrã 2025-07-27, às 22.17.01.png: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1PMa8UtmWFiR-IhFCKUd2A5CQx9kEYzys
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/SÓ/Captura de ecrã 2025-07-27, às 22.17.37.png: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1vPNn4pecpx0THYqY_-vcaUxBmWMqPEQz
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/SÓ/Still 2025-05-09 111402_1.1.1.jpg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1vnSgj_gwDPiikN6vxTNLTgV3D2Roagku
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/SÓ/Still 2025-05-09 111402_1.1.10.jpg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1u4B03cnzxQmsa1Xzyl0KVMyrDMarg6MG
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/SÓ/Still 2025-05-09 111402_1.1.11.jpg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1xsPJAlWbGcp_7iI1IhL6JFA5Ck5TyWXl
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/SÓ/Still 2025-05-09 111402_1.1.2.jpg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1VEejFT_kxOK-bDAeWtSs2qLyIQKiUz8z
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/SÓ/Still 2025-05-09 111402_1.1.3.jpg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1sGxGaGNYFC36KxX6hyiHbp8sWUoovU9x
+
+but Gdown can't. Please check connections and permissions.
 Failed to download import/drive/SÓ/Still 2025-05-09 111402_1.1.4.jpg: Failed to retrieve file url:
 
 	Cannot retrieve the public link of the file. You may need to change
@@ -534,6 +1101,380 @@ You may still be able to access the file from the browser:
 	https://drive.google.com/uc?id=1xsTXdTjxDnrBhJxmUotvNYoKe_8niEco
 
 but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.1.jpg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1cMOHjR09roNelJ6C_YaaUr0RknfWHgcq
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.10.jpg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1ftRoNCSc-CaDYlL0_ITLisQozOp1WKe3
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.11.jpg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1eb0__ZeaDL_M1UeEE2esRvf31TR-40Yy
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.12.jpg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1XWwExpj1sjGjF_FdFByUPCoD6u8EBZnd
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.13.jpg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1Wu9YKyRqAWMPBjhym3MCxmILN8CiJRsu
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.14.jpg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1WCk8dLhIaMtTiuMrydH2fuindIoC7F4h
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.15.jpg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1mi5JrYTBedMp9AhALai9sCYgKVfuj7LA
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.16.jpg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1Hg5qeIBuJrzxLyhfCHIGrxDZ2DNKbCY7
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.17.jpg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1FSWzHRE6mlhrHapY2wTvK_OA8Eld4xo8
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.18.jpg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1o4kM-o8uDy8qiMOmcKW0imEkwEZ1h7lQ
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.19.jpg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1agR6uQgJI_Ry9PVgp9BxNa3GSMB5FGQ1
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.2.jpg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1ZVn2YBwOZea6fV4zCmGb2nVylwVw6YVj
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.20.jpg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1Z1z2wLc_Yo02y2zqnC0cMo4CQKk4ZNz6
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.21.jpg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1xWvWLwddsS3RHeGl48vBHgBCwQt7vb_m
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.22.jpg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1H4sS8c4IF0vWSs6YU8Jy3TA7zWN5JMP8
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.23.jpg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1dgiqgb_IvRUVryroiFMSqu06NkVZuThu
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.24.jpg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1fGjzxPf1rKiq_TkUIsaNoVtXWqM2YQjR
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.25.jpg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=19jItVcXlaixksi5ff_AYwJ5BR6TtmPBC
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.26.jpg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1KgsFebIsZwjTfx1XhjpOWZrNufM4NIKw
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.27.jpg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1tQ7Mimqsh3Rioe2r2DFC3SCu7IaqVSVI
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.28.jpg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1auZ_ezJwehn_twNBjNd4CKHzUMeRa5r0
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.29.jpg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1nuDAEKhZpVMkQ_cW-vUZ0ywV2bQTMNeJ
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.3.jpg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1S3ZAFkdnyReZrhE5sLddo1XpY28qasbf
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.30.jpg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1OF2y6YQxy-O4u_e3HSscrS5hSb0T21T8
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.31.jpg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1p3MhP16eD0hVW5TCjbZFEramtcd3geQ-
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.32.jpg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1AHiEvFXOAceKLdDtpMNUEJ1cFOt-LQWS
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.33.jpg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1V3YDCWOwjKqFPV8hes6gBM0hGmqwFpdw
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.34.jpg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1xOJ3LJvGOh56dwvfo50PAwYM1DP3-DjW
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.4.jpg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1jZGyORA3QVHe4RwZAKSCeO1cOITDimbe
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.5.jpg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=16tHf0JBG0fkuxTNwU-hmWULftjppeEVP
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.6.jpg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1SGXqoHGwWHD97lS9K2elJbbJ_uI_BeWf
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.7.jpg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1SfOXgvsnz28CudGrCxKL2GuVgGuffJmP
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.8.jpg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1icrI9cjbm1Mk_XdDLOcbinzl8_HJREcA
+
+but Gdown can't. Please check connections and permissions.
+Failed to download import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.9.jpg: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1S65jurADE7j1ERr9TwDtjcxAR04zxWvY
+
+but Gdown can't. Please check connections and permissions.
 Failed to download import/drive/Viarco/._Captura de ecrã 2025-07-09, às 17.25.58.png: Failed to retrieve file url:
 
 	Cannot retrieve the public link of the file. You may need to change
@@ -579,6 +1520,49 @@ You may still be able to access the file from the browser:
 
 but Gdown can't. Please check connections and permissions.
 Failed to download the following files:
+- import/drive/Fotos para a capa/WhatsApp Image 2026-05-14 at 02.00.45 (25).jpeg
+- import/drive/Fotos para a capa/WhatsApp Image 2026-05-14 at 02.00.45 (28).jpeg
+- import/drive/Fotos para a capa/WhatsApp Image 2026-05-14 at 02.00.45 (33).jpeg
+- import/drive/Fotos para a capa/WhatsApp Image 2026-05-14 at 02.00.45 (38).jpeg
+- import/drive/Fotos para a capa/WhatsApp Image 2026-05-14 at 02.00.45 (39).jpeg
+- import/drive/Fotos para a capa/WhatsApp Image 2026-05-14 at 02.00.45 (8).jpeg
+- import/drive/Fotos para a capa/WhatsApp Image 2026-05-14 at 02.00.46 (2).jpeg
+- import/drive/Fotos para a capa/WhatsApp Image 2026-05-14 at 02.00.46 (20).jpeg
+- import/drive/Fotos para a capa/WhatsApp Image 2026-05-14 at 02.00.46 (31).jpeg
+- import/drive/SEVERA/STILLS PRINCIPAIS/347de5db-52c5-4cd7-bf35-b8e7d451c7be.JPG
+- import/drive/SEVERA/STILLS PRINCIPAIS/4b65492b-5e25-49a4-99ac-c713eccd8517.JPG
+- import/drive/SEVERA/STILLS PRINCIPAIS/786c0d92-3f42-4143-b300-bf92787c4150.JPG
+- import/drive/SEVERA/STILLS PRINCIPAIS/a5e69a36-aab4-4dd6-8c8b-b7e57580de8c.JPG
+- import/drive/SEVERA/STILLS PRINCIPAIS/aee22271-ecbe-47a7-bc05-0ccb050dbfbc.JPG
+- import/drive/SEVERA/STILLS PRINCIPAIS/e198033c-0747-48c2-9ec9-fbdd6df7a428.JPG
+- import/drive/SEVERA/STILLS PRINCIPAIS/ec7c59cd-1c27-4741-a9bd-39823611bb60.JPG
+- import/drive/SEVERA/STILLS PRINCIPAIS/fcae69af-2789-46bd-bfe6-8ac8aff2c98d.JPG
+- import/drive/SEVERA/STILLS PRINCIPAIS/WhatsApp Image 2025-05-27 at 15.41.27.jpeg
+- import/drive/SEVERA/STILLS SECUNDÁRIOS/45ee7bc0-4dea-450b-9cca-6d9883b267ae.JPG
+- import/drive/SEVERA/STILLS SECUNDÁRIOS/82a75f4e-b341-455e-8f1f-34794d819117.JPG
+- import/drive/SEVERA/STILLS SECUNDÁRIOS/WhatsApp Image 2025-05-27 at 15.41.29.jpeg
+- import/drive/Severa - Fashion Film/MOODBOARD/Moodboard Fashionfilm.pdf
+- import/drive/Severa - Fashion Film/1.jpg
+- import/drive/Severa - Fashion Film/10.jpg
+- import/drive/Severa - Fashion Film/11.jpg
+- import/drive/Severa - Fashion Film/12.jpg
+- import/drive/Severa - Fashion Film/13.jpg
+- import/drive/Severa - Fashion Film/2.jpg
+- import/drive/Severa - Fashion Film/3.jpg
+- import/drive/Severa - Fashion Film/4.jpg
+- import/drive/Severa - Fashion Film/5.jpg
+- import/drive/Severa - Fashion Film/6.jpg
+- import/drive/Severa - Fashion Film/7.jpg
+- import/drive/Severa - Fashion Film/8.jpg
+- import/drive/Severa - Fashion Film/9.jpg
+- import/drive/SÓ/Captura de ecrã 2025-07-27, às 22.12.16.png
+- import/drive/SÓ/Captura de ecrã 2025-07-27, às 22.17.01.png
+- import/drive/SÓ/Captura de ecrã 2025-07-27, às 22.17.37.png
+- import/drive/SÓ/Still 2025-05-09 111402_1.1.1.jpg
+- import/drive/SÓ/Still 2025-05-09 111402_1.1.10.jpg
+- import/drive/SÓ/Still 2025-05-09 111402_1.1.11.jpg
+- import/drive/SÓ/Still 2025-05-09 111402_1.1.2.jpg
+- import/drive/SÓ/Still 2025-05-09 111402_1.1.3.jpg
 - import/drive/SÓ/Still 2025-05-09 111402_1.1.4.jpg
 - import/drive/SÓ/Still 2025-05-09 111402_1.1.5.jpg
 - import/drive/SÓ/Still 2025-05-09 111402_1.1.6.jpg
@@ -586,11 +1570,91 @@ Failed to download the following files:
 - import/drive/SÓ/Still 2025-05-09 111402_1.1.8.jpg
 - import/drive/SÓ/Still 2025-05-09 111402_1.1.9.jpg
 - import/drive/SÓ/WhatsApp Image 2025-07-27 at 18.13.16.jpeg
+- import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.1.jpg
+- import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.10.jpg
+- import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.11.jpg
+- import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.12.jpg
+- import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.13.jpg
+- import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.14.jpg
+- import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.15.jpg
+- import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.16.jpg
+- import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.17.jpg
+- import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.18.jpg
+- import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.19.jpg
+- import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.2.jpg
+- import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.20.jpg
+- import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.21.jpg
+- import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.22.jpg
+- import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.23.jpg
+- import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.24.jpg
+- import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.25.jpg
+- import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.26.jpg
+- import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.27.jpg
+- import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.28.jpg
+- import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.29.jpg
+- import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.3.jpg
+- import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.30.jpg
+- import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.31.jpg
+- import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.32.jpg
+- import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.33.jpg
+- import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.34.jpg
+- import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.4.jpg
+- import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.5.jpg
+- import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.6.jpg
+- import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.7.jpg
+- import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.8.jpg
+- import/drive/Ultimo Canto/Still 2026-07-07 225806_1.1.9.jpg
 - import/drive/Viarco/._Captura de ecrã 2025-07-09, às 17.25.58.png
 - import/drive/Viarco/._Captura de ecrã 2025-07-09, às 17.26.05.png
 - import/drive/Viarco/Captura de ecrã 2025-07-09, às 17.25.58.png
 - import/drive/Viarco/Captura de ecrã 2025-07-09, às 17.26.05.png
 import/drive/"SOBRE"/IMG_0516.HEIC
+import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.1.jpg
+import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.10.jpg
+import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.11.jpg
+import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.12.jpg
+import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.13.jpg
+import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.14.jpg
+import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.15.jpg
+import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.16.jpg
+import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.17.jpg
+import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.18.jpg
+import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.19.jpg
+import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.2.jpg
+import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.20.jpg
+import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.21.jpg
+import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.22.jpg
+import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.23.jpg
+import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.24.jpg
+import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.25.jpg
+import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.26.jpg
+import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.27.jpg
+import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.28.jpg
+import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.29.jpg
+import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.3.jpg
+import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.30.jpg
+import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.31.jpg
+import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.32.jpg
+import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.33.jpg
+import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.34.jpg
+import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.35.jpg
+import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.36.jpg
+import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.37.jpg
+import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.38.jpg
+import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.39.jpg
+import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.4.jpg
+import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.40.jpg
+import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.41.jpg
+import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.42.jpg
+import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.43.jpg
+import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.44.jpg
+import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.45.jpg
+import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.5.jpg
+import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.6.jpg
+import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.7.jpg
+import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.8.jpg
+import/drive/Auto de Fé/Still 2025-07-05 141319_1.1.9.jpg
+import/drive/Auto de Fé/Still 2025-07-11 102005_1.1.1.jpg
 import/drive/Energias/Still 2026-08-19 222158_1.10.2.tif
 import/drive/Energias/Still 2026-10-08 171416_1.1.1.jpg
 import/drive/Energias/Still 2026-10-08 171416_1.1.10.jpg
@@ -632,47 +1696,4 @@ import/drive/Fotos para a capa/Still 2026-10-08 171416_1.1.6.jpg
 import/drive/Fotos para a capa/WhatsApp Image 2025-05-27 at 15.41.27.jpeg
 import/drive/Fotos para a capa/WhatsApp Image 2026-05-14 at 02.00.45 (20).jpeg
 import/drive/Fotos para a capa/WhatsApp Image 2026-05-14 at 02.00.45 (23).jpeg
-import/drive/Fotos para a capa/WhatsApp Image 2026-05-14 at 02.00.45 (25).jpeg
-import/drive/Fotos para a capa/WhatsApp Image 2026-05-14 at 02.00.45 (28).jpeg
-import/drive/Fotos para a capa/WhatsApp Image 2026-05-14 at 02.00.45 (33).jpeg
-import/drive/Fotos para a capa/WhatsApp Image 2026-05-14 at 02.00.45 (38).jpeg
-import/drive/Fotos para a capa/WhatsApp Image 2026-05-14 at 02.00.45 (39).jpeg
-import/drive/Fotos para a capa/WhatsApp Image 2026-05-14 at 02.00.45 (8).jpeg
-import/drive/Fotos para a capa/WhatsApp Image 2026-05-14 at 02.00.46 (2).jpeg
-import/drive/Fotos para a capa/WhatsApp Image 2026-05-14 at 02.00.46 (20).jpeg
-import/drive/Fotos para a capa/WhatsApp Image 2026-05-14 at 02.00.46 (31).jpeg
 import/drive/Fotos para a capa/e198033c-0747-48c2-9ec9-fbdd6df7a428.JPG
-import/drive/SEVERA/STILLS PRINCIPAIS/347de5db-52c5-4cd7-bf35-b8e7d451c7be.JPG
-import/drive/SEVERA/STILLS PRINCIPAIS/4b65492b-5e25-49a4-99ac-c713eccd8517.JPG
-import/drive/SEVERA/STILLS PRINCIPAIS/786c0d92-3f42-4143-b300-bf92787c4150.JPG
-import/drive/SEVERA/STILLS PRINCIPAIS/WhatsApp Image 2025-05-27 at 15.41.27.jpeg
-import/drive/SEVERA/STILLS PRINCIPAIS/a5e69a36-aab4-4dd6-8c8b-b7e57580de8c.JPG
-import/drive/SEVERA/STILLS PRINCIPAIS/aee22271-ecbe-47a7-bc05-0ccb050dbfbc.JPG
-import/drive/SEVERA/STILLS PRINCIPAIS/e198033c-0747-48c2-9ec9-fbdd6df7a428.JPG
-import/drive/SEVERA/STILLS PRINCIPAIS/ec7c59cd-1c27-4741-a9bd-39823611bb60.JPG
-import/drive/SEVERA/STILLS PRINCIPAIS/fcae69af-2789-46bd-bfe6-8ac8aff2c98d.JPG
-import/drive/SEVERA/STILLS SECUNDÁRIOS/45ee7bc0-4dea-450b-9cca-6d9883b267ae.JPG
-import/drive/SEVERA/STILLS SECUNDÁRIOS/82a75f4e-b341-455e-8f1f-34794d819117.JPG
-import/drive/SEVERA/STILLS SECUNDÁRIOS/WhatsApp Image 2025-05-27 at 15.41.29.jpeg
-import/drive/Severa - Fashion Film/1.jpg
-import/drive/Severa - Fashion Film/10.jpg
-import/drive/Severa - Fashion Film/11.jpg
-import/drive/Severa - Fashion Film/12.jpg
-import/drive/Severa - Fashion Film/13.jpg
-import/drive/Severa - Fashion Film/2.jpg
-import/drive/Severa - Fashion Film/3.jpg
-import/drive/Severa - Fashion Film/4.jpg
-import/drive/Severa - Fashion Film/5.jpg
-import/drive/Severa - Fashion Film/6.jpg
-import/drive/Severa - Fashion Film/7.jpg
-import/drive/Severa - Fashion Film/8.jpg
-import/drive/Severa - Fashion Film/9.jpg
-import/drive/Severa - Fashion Film/MOODBOARD/Moodboard Fashionfilm.pdf
-import/drive/SÓ/Captura de ecrã 2025-07-27, às 22.12.16.png
-import/drive/SÓ/Captura de ecrã 2025-07-27, às 22.17.01.png
-import/drive/SÓ/Captura de ecrã 2025-07-27, às 22.17.37.png
-import/drive/SÓ/Still 2025-05-09 111402_1.1.1.jpg
-import/drive/SÓ/Still 2025-05-09 111402_1.1.10.jpg
-import/drive/SÓ/Still 2025-05-09 111402_1.1.11.jpg
-import/drive/SÓ/Still 2025-05-09 111402_1.1.2.jpg
-import/drive/SÓ/Still 2025-05-09 111402_1.1.3.jpg
