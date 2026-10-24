@@ -110,10 +110,11 @@ CENAS['QUARTO'].append(_item('ep4-00014'))
 # estufa: sai a 1.ª
 _tirar('ESTUFA', 'ep3-00003')
 # stills dentro do carro (vão para a Mini casa de Lucy, a cara com sangue e a cabeça primeiro)
-CARRO_DENTRO = [_item(n) for n in ('ep1-00038', 'ep1-00039', 'ep1-00072', 'ep2-00084')]
+CARRO_DENTRO = [_item(n) for n in ('ep1-00038', 'ep1-00039', 'ep1-00072')]
 # cenários que só aparecem uma vez
-CENAS['OUTROS CENÁRIOS'] = [_item('ep5-00039'), _item('ep5-00062'), _item('ep1-00056')]
-_tirar('CARRO E EXTERIOR', 'ep1-00056', 'ep5-00062')
+# o carro já aparece na Mini casa de Lucy: não repetir na secção do exterior
+_tirar('CARRO E EXTERIOR', 'ep1-00056', 'ep5-00062', 'ep1-00038', 'ep1-00039', 'ep1-00072', 'ep2-00084')
+CENAS['EXTERIOR'] = CENAS.pop('CARRO E EXTERIOR')
 del CENAS['CASA DE BANHO']
 
 
@@ -193,16 +194,16 @@ html = html.replace(coz_old.group(0), bloco(CENAS['COZINHA'], per=3))
 # 5) mini casa de Lucy: stills + stills do carro; a imagem de bastidores fica sem título
 anchor = '<div style="margin-top: 56px;"><div style="margin-bottom: 12px;"><span style="display: inline-block; border: 1px solid var(--ink); border-radius: 999px; padding: 4px 12px; font-size: 12px; line-height: 1.2;">Stills e bastidores</span></div>'
 assert anchor in html, 'bastidores'
-carro = gallery.rows(['assets/choro/%s.webp' % n for n, _ in CARRO_DENTRO], [a for _, a in CARRO_DENTRO], per=2)
-html = html.replace(anchor, '<div style="margin-top: 56px;">%s</div>\n<div style="padding-top: 16px;">%s</div>\n<div style="margin-top: 16px;">' % (bloco(CENAS['MINI CASA DE LUCY'], per=3), carro))
+carro = gallery.rows(['assets/choro/%s.webp' % n for n, _ in CARRO_DENTRO], [a for _, a in CARRO_DENTRO], per=3)
+html = html.replace(anchor, '<div style="margin-top: 56px;">%s</div>\n<div style="padding-top: 48px;">%s</div>\n<div style="margin-top: 16px;">' % (bloco(CENAS['MINI CASA DE LUCY'], per=3), carro))
 
 # 6) novos cenários
 novas = ''
 num = 4
-for titulo in ['SALA', 'ESTUFA', 'CARRO E EXTERIOR', 'OUTROS CENÁRIOS']:
+for titulo in ['SALA', 'ESTUFA', 'EXTERIOR']:
     lista = CENAS[titulo]
     pal = ','.join(hexc(c) for c in paleta([OUT / (n + '.webp') for n, _ in lista], 6))
-    novas += gallery.head('%02d' % num, titulo, pal) + bloco(lista, per=3 if titulo == 'OUTROS CENÁRIOS' else 2) + '\n</section>\n'
+    novas += gallery.head('%02d' % num, titulo, pal) + bloco(lista, per=3 if titulo == 'SALA' else 2) + '\n</section>\n'
     num += 1
 fim = '<section style="padding: 112px 48px 0;">\n<a class="nl" href="auto-de-fe.html"'
 assert fim in html, 'fim'
