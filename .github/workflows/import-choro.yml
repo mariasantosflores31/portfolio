@@ -1,0 +1,29 @@
+name: Importar stills de Se eu quiser, Choro
+on:
+  workflow_dispatch:
+  push:
+    paths: ['tools/choro-favs.txt', 'tools/choro_convert.py', '.github/workflows/import-choro.yml']
+permissions:
+  contents: write
+jobs:
+  importar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: pip install -U gdown pillow
+      - run: |
+          rm -rf import/choro /tmp/raw && mkdir -p import/choro /tmp/raw
+          : > import/choro-log.txt
+          while read ep id; do
+            [ -z "$id" ] && continue
+            echo "== $ep $id" >> import/choro-log.txt
+            gdown --folder "https://drive.google.com/drive/folders/$id" -O "/tmp/raw/$ep" >> import/choro-log.txt 2>&1 || true
+            python3 tools/choro_convert.py "/tmp/raw/$ep" "import/choro/$ep" >> import/choro-log.txt 2>&1 || true
+          done < tools/choro-favs.txt
+          find import/choro -type f | sort >> import/choro-log.txt
+      - run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add import
+          git commit -m "Importar stills de Se eu quiser, Choro" || echo "nada novo"
+          git push
