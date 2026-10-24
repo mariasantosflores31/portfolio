@@ -200,7 +200,7 @@ html = html.replace(anchor, '<div style="margin-top: 56px;">%s</div>\n<div style
 # 6) novos cenários
 novas = ''
 num = 4
-for titulo in ['SALA', 'ESTUFA', 'EXTERIOR']:
+for titulo in ['SALA', 'ESTUFA']:
     lista = CENAS[titulo]
     pal = ','.join(hexc(c) for c in paleta([OUT / (n + '.webp') for n, _ in lista], 6))
     novas += gallery.head('%02d' % num, titulo, pal) + bloco(lista, per=3 if titulo == 'SALA' else 2) + '\n</section>\n'
