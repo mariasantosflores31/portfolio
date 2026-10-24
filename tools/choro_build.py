@@ -171,7 +171,7 @@ num = 4
 for titulo in ['SALA', 'ESTUFA', 'CARRO E EXTERIOR', 'CASA DE BANHO']:
     lista = CENAS[titulo]
     pal = ','.join(hexc(c) for c in paleta([OUT / (n + '.webp') for n, _ in lista], 6))
-    novas += gallery.head('%02d' % num, titulo, pal) + bloco(lista, per=2 if len(lista) > 1 else 1) + '\n</section>\n'
+    novas += gallery.head('%02d' % num, titulo, pal) + bloco(lista, per=2) + '\n</section>\n'
     num += 1
 fim = '<section style="padding: 112px 48px 0;">\n<a class="nl" href="auto-de-fe.html"'
 assert fim in html, 'fim'
