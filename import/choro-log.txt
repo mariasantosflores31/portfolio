@@ -1,0 +1,354 @@
+== ep1 1SD9eXUvzog57SZGVXl2n8grD4ca9Hv52
+warning: `--folder` is no longer required for folder URLs and will be removed in a future release
+Retrieving folder contents
+Retrieving folder contents completed
+Building directory structure
+Building directory structure completed
+Downloading...
+From: https://drive.google.com/uc?id=1zb1C-mqyX9ScIzgSbxlja0CZOX87QjaA
+To: /tmp/raw/ep1/Copy of Copy of Still_EP1_SEQC_00001.png
+Processing file 1zb1C-mqyX9ScIzgSbxlja0CZOX87QjaA Copy of Copy of Still_EP1_SEQC_00001.png
+Processing file 10-KMTIq-5BXkDrcJ_-mhJwuEmYtiwG4z Copy of Copy of Still_EP1_SEQC_00009.png
+Processing file 1ewZD876sc-DvqQ1oxQRERy1NxZlnzG8G Copy of Copy of Still_EP1_SEQC_00011.png
+Processing file 1OcyLugSODy31naw3U9wP80wmBbzJNKlH Copy of Copy of Still_EP1_SEQC_00019.png
+Processing file 1iZ3Si2S3rPCuHea9uXABHEjVWojp_1p4 Copy of Copy of Still_EP1_SEQC_00027.png
+Processing file 1sucexb4GE2G5Lk0Ed9jcCSt8Fmkigg5C Copy of Copy of Still_EP1_SEQC_00029.png
+Processing file 1RGJ16tKhKZTKZsgeLrAP14ll3OgabmSW Copy of Copy of Still_EP1_SEQC_00038.png
+Processing file 1uO1dHja_0OGAPDp8VBSt11dPJsLC_ptu Copy of Copy of Still_EP1_SEQC_00039.png
+Processing file 1y9RilGrzsI7_x_rDfAxIW684zZeANyrX Copy of Copy of Still_EP1_SEQC_00052.png
+Processing file 1OaNR_p6l4e97xL5h4T3Q0bTO7Of8_lZW Copy of Copy of Still_EP1_SEQC_00053.png
+Processing file 1Uin1S3t4hsuaSqmojVCGvMOZ6jSgg_Xk Copy of Copy of Still_EP1_SEQC_00056.png
+Processing file 1uzgRI2hzKt6Np37vDWCyP4khX_Cneth0 Copy of Copy of Still_EP1_SEQC_00072.png
+  0%|          | 0.00/24.9M [00:00<?, ?B/s] 46%|████▋     | 11.5M/24.9M [00:00<00:00, 114MB/s]100%|██████████| 24.9M/24.9M [00:00<00:00, 154MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=10-KMTIq-5BXkDrcJ_-mhJwuEmYtiwG4z
+To: /tmp/raw/ep1/Copy of Copy of Still_EP1_SEQC_00009.png
+  0%|          | 0.00/24.9M [00:00<?, ?B/s] 13%|█▎        | 3.15M/24.9M [00:00<00:00, 31.0MB/s] 78%|███████▊  | 19.4M/24.9M [00:00<00:00, 107MB/s] 100%|██████████| 24.9M/24.9M [00:00<00:00, 104MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1ewZD876sc-DvqQ1oxQRERy1NxZlnzG8G
+To: /tmp/raw/ep1/Copy of Copy of Still_EP1_SEQC_00011.png
+  0%|          | 0.00/24.9M [00:00<?, ?B/s] 11%|█         | 2.62M/24.9M [00:00<00:00, 25.8MB/s] 36%|███▌      | 8.91M/24.9M [00:00<00:00, 29.6MB/s] 95%|█████████▍| 23.6M/24.9M [00:00<00:00, 55.1MB/s]100%|██████████| 24.9M/24.9M [00:00<00:00, 51.1MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1OcyLugSODy31naw3U9wP80wmBbzJNKlH
+To: /tmp/raw/ep1/Copy of Copy of Still_EP1_SEQC_00019.png
+  0%|          | 0.00/24.9M [00:00<?, ?B/s] 11%|█         | 2.62M/24.9M [00:00<00:01, 18.5MB/s] 27%|██▋       | 6.82M/24.9M [00:00<00:00, 21.3MB/s] 86%|████████▌ | 21.5M/24.9M [00:00<00:00, 53.6MB/s]100%|██████████| 24.9M/24.9M [00:00<00:00, 50.4MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1iZ3Si2S3rPCuHea9uXABHEjVWojp_1p4
+To: /tmp/raw/ep1/Copy of Copy of Still_EP1_SEQC_00027.png
+  0%|          | 0.00/24.9M [00:00<?, ?B/s] 27%|██▋       | 6.82M/24.9M [00:00<00:00, 37.2MB/s] 69%|██████▉   | 17.3M/24.9M [00:00<00:00, 66.5MB/s]100%|██████████| 24.9M/24.9M [00:00<00:00, 71.8MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1sucexb4GE2G5Lk0Ed9jcCSt8Fmkigg5C
+To: /tmp/raw/ep1/Copy of Copy of Still_EP1_SEQC_00029.png
+  0%|          | 0.00/24.9M [00:00<?, ?B/s] 38%|███▊      | 9.44M/24.9M [00:00<00:00, 94.1MB/s]100%|██████████| 24.9M/24.9M [00:00<00:00, 145MB/s] 
+Downloading...
+From: https://drive.google.com/uc?id=1RGJ16tKhKZTKZsgeLrAP14ll3OgabmSW
+To: /tmp/raw/ep1/Copy of Copy of Still_EP1_SEQC_00038.png
+  0%|          | 0.00/24.9M [00:00<?, ?B/s] 11%|█         | 2.62M/24.9M [00:00<00:01, 20.1MB/s] 27%|██▋       | 6.82M/24.9M [00:00<00:00, 24.2MB/s] 69%|██████▉   | 17.3M/24.9M [00:00<00:00, 42.3MB/s]100%|██████████| 24.9M/24.9M [00:00<00:00, 50.2MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1uO1dHja_0OGAPDp8VBSt11dPJsLC_ptu
+To: /tmp/raw/ep1/Copy of Copy of Still_EP1_SEQC_00039.png
+  0%|          | 0.00/24.9M [00:00<?, ?B/s] 11%|█         | 2.62M/24.9M [00:00<00:01, 17.8MB/s] 36%|███▌      | 8.91M/24.9M [00:00<00:00, 34.4MB/s]100%|██████████| 24.9M/24.9M [00:00<00:00, 67.0MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1y9RilGrzsI7_x_rDfAxIW684zZeANyrX
+To: /tmp/raw/ep1/Copy of Copy of Still_EP1_SEQC_00052.png
+  0%|          | 0.00/24.9M [00:00<?, ?B/s] 17%|█▋        | 4.19M/24.9M [00:00<00:00, 40.7MB/s] 55%|█████▍    | 13.6M/24.9M [00:00<00:00, 71.6MB/s] 84%|████████▍ | 21.0M/24.9M [00:00<00:00, 66.5MB/s]100%|██████████| 24.9M/24.9M [00:00<00:00, 69.9MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1OaNR_p6l4e97xL5h4T3Q0bTO7Of8_lZW
+To: /tmp/raw/ep1/Copy of Copy of Still_EP1_SEQC_00053.png
+  0%|          | 0.00/24.9M [00:00<?, ?B/s] 27%|██▋       | 6.82M/24.9M [00:00<00:00, 42.8MB/s]100%|██████████| 24.9M/24.9M [00:00<00:00, 113MB/s] 
+Downloading...
+From: https://drive.google.com/uc?id=1Uin1S3t4hsuaSqmojVCGvMOZ6jSgg_Xk
+To: /tmp/raw/ep1/Copy of Copy of Still_EP1_SEQC_00056.png
+  0%|          | 0.00/24.9M [00:00<?, ?B/s] 40%|███▉      | 9.96M/24.9M [00:00<00:00, 97.7MB/s] 80%|███████▉  | 19.9M/24.9M [00:00<00:00, 84.2MB/s]100%|██████████| 24.9M/24.9M [00:00<00:00, 99.5MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1uzgRI2hzKt6Np37vDWCyP4khX_Cneth0
+To: /tmp/raw/ep1/Copy of Copy of Still_EP1_SEQC_00072.png
+  0%|          | 0.00/24.9M [00:00<?, ?B/s] 19%|█▉        | 4.72M/24.9M [00:00<00:00, 33.0MB/s] 86%|████████▌ | 21.5M/24.9M [00:00<00:00, 75.0MB/s]100%|██████████| 24.9M/24.9M [00:00<00:00, 76.8MB/s]
+Download completed
+Copy of Copy of Still_EP1_SEQC_00001.png -> ep1-00001.webp (2200, 1238)
+Copy of Copy of Still_EP1_SEQC_00009.png -> ep1-00009.webp (2200, 1238)
+Copy of Copy of Still_EP1_SEQC_00011.png -> ep1-00011.webp (2200, 1238)
+Copy of Copy of Still_EP1_SEQC_00019.png -> ep1-00019.webp (2200, 1238)
+Copy of Copy of Still_EP1_SEQC_00027.png -> ep1-00027.webp (2200, 1238)
+Copy of Copy of Still_EP1_SEQC_00029.png -> ep1-00029.webp (2200, 1238)
+Copy of Copy of Still_EP1_SEQC_00038.png -> ep1-00038.webp (2200, 1238)
+Copy of Copy of Still_EP1_SEQC_00039.png -> ep1-00039.webp (2200, 1238)
+Copy of Copy of Still_EP1_SEQC_00052.png -> ep1-00052.webp (2200, 1238)
+Copy of Copy of Still_EP1_SEQC_00053.png -> ep1-00053.webp (2200, 1238)
+Copy of Copy of Still_EP1_SEQC_00056.png -> ep1-00056.webp (2200, 1238)
+Copy of Copy of Still_EP1_SEQC_00072.png -> ep1-00072.webp (2200, 1238)
+== ep2 1IrRSZtzFk0br9GEGzCCCnwIiO3qGsSe9
+Using cookies from /home/runner/.cache/gdown/cookies.txt
+warning: `--folder` is no longer required for folder URLs and will be removed in a future release
+Retrieving folder contents
+Retrieving folder contents completed
+Building directory structure
+Building directory structure completed
+Downloading...
+From: https://drive.google.com/uc?id=1jNtjpXm0N-eThhmrA5f3Ub2jYEfohj6P
+To: /tmp/raw/ep2/Copy of Copy of Still_EP2_SEQC_00005.png
+Processing file 1jNtjpXm0N-eThhmrA5f3Ub2jYEfohj6P Copy of Copy of Still_EP2_SEQC_00005.png
+Processing file 1PSHEtHNt-hwPoXaJhLmwYHGaWVXjSZqt Copy of Copy of Still_EP2_SEQC_00006.png
+Processing file 1W2JgsoeM2ebJV3ojWodupLDsaslvhHjK Copy of Copy of Still_EP2_SEQC_00009.png
+Processing file 14zdCygcFkuc3ZjmHg0pcJBZ4_J8ogTYA Copy of Copy of Still_EP2_SEQC_00014.png
+Processing file 14r9iPTJGxq58jNahtKaqr3SFyualLVkO Copy of Copy of Still_EP2_SEQC_00015.png
+Processing file 1zD-fW1hjaw6wvsvWdL6T8cSnc7B6Aw-R Copy of Copy of Still_EP2_SEQC_00016.png
+Processing file 1DcASVMhPcX56la_Z0Fpn4a1gKoC_bMFX Copy of Copy of Still_EP2_SEQC_00063.png
+Processing file 1XdYc4Gp61fNhOSBRiictMv916Mq-9M2j Copy of Copy of Still_EP2_SEQC_00084.png
+Processing file 1n2RIdZ3SAbiaCMtz1JIsFPOVaXtXQJMl Copy of Copy of Still_EP2_SEQC_00089.png
+Processing file 1GAt_9b9gCMc_cd7_N_G0N2QDRaWvWdns Copy of Copy of Still_EP2_SEQC_00092.png
+Processing file 1s_8DElWQrj1AGkvbhPk1_pjpajPYc3We Copy of Copy of Still_EP2_SEQC_00094.png
+  0%|          | 0.00/24.9M [00:00<?, ?B/s] 11%|█         | 2.62M/24.9M [00:00<00:01, 20.6MB/s] 27%|██▋       | 6.82M/24.9M [00:00<00:00, 25.3MB/s] 78%|███████▊  | 19.4M/24.9M [00:00<00:00, 55.1MB/s]100%|██████████| 24.9M/24.9M [00:00<00:00, 53.3MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1PSHEtHNt-hwPoXaJhLmwYHGaWVXjSZqt
+To: /tmp/raw/ep2/Copy of Copy of Still_EP2_SEQC_00006.png
+  0%|          | 0.00/24.9M [00:00<?, ?B/s] 15%|█▍        | 3.67M/24.9M [00:00<00:00, 36.0MB/s] 53%|█████▎    | 13.1M/24.9M [00:00<00:00, 65.3MB/s]100%|██████████| 24.9M/24.9M [00:00<00:00, 92.9MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1W2JgsoeM2ebJV3ojWodupLDsaslvhHjK
+To: /tmp/raw/ep2/Copy of Copy of Still_EP2_SEQC_00009.png
+  0%|          | 0.00/24.9M [00:00<?, ?B/s]  6%|▋         | 1.57M/24.9M [00:00<00:01, 15.3MB/s] 27%|██▋       | 6.82M/24.9M [00:00<00:00, 25.7MB/s] 69%|██████▉   | 17.3M/24.9M [00:00<00:00, 46.4MB/s]100%|██████████| 24.9M/24.9M [00:00<00:00, 50.7MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=14zdCygcFkuc3ZjmHg0pcJBZ4_J8ogTYA
+To: /tmp/raw/ep2/Copy of Copy of Still_EP2_SEQC_00014.png
+  0%|          | 0.00/24.9M [00:00<?, ?B/s] 11%|█         | 2.62M/24.9M [00:00<00:00, 25.0MB/s] 27%|██▋       | 6.82M/24.9M [00:00<00:00, 27.1MB/s] 78%|███████▊  | 19.4M/24.9M [00:00<00:00, 57.7MB/s]100%|██████████| 24.9M/24.9M [00:00<00:00, 56.6MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=14r9iPTJGxq58jNahtKaqr3SFyualLVkO
+To: /tmp/raw/ep2/Copy of Copy of Still_EP2_SEQC_00015.png
+  0%|          | 0.00/24.9M [00:00<?, ?B/s] 11%|█         | 2.62M/24.9M [00:00<00:01, 13.7MB/s] 27%|██▋       | 6.82M/24.9M [00:00<00:00, 19.2MB/s] 86%|████████▌ | 21.5M/24.9M [00:00<00:00, 47.5MB/s]100%|██████████| 24.9M/24.9M [00:00<00:00, 44.0MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1zD-fW1hjaw6wvsvWdL6T8cSnc7B6Aw-R
+To: /tmp/raw/ep2/Copy of Copy of Still_EP2_SEQC_00016.png
+  0%|          | 0.00/24.9M [00:00<?, ?B/s]  6%|▋         | 1.57M/24.9M [00:00<00:01, 15.4MB/s] 25%|██▌       | 6.29M/24.9M [00:00<00:00, 33.4MB/s] 44%|████▍     | 11.0M/24.9M [00:00<00:00, 37.9MB/s] 67%|██████▋   | 16.8M/24.9M [00:00<00:00, 43.1MB/s] 97%|█████████▋| 24.1M/24.9M [00:00<00:00, 53.2MB/s]100%|██████████| 24.9M/24.9M [00:00<00:00, 46.6MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1DcASVMhPcX56la_Z0Fpn4a1gKoC_bMFX
+To: /tmp/raw/ep2/Copy of Copy of Still_EP2_SEQC_00063.png
+  0%|          | 0.00/24.9M [00:00<?, ?B/s]  6%|▋         | 1.57M/24.9M [00:00<00:01, 13.5MB/s] 61%|██████    | 15.2M/24.9M [00:00<00:00, 67.3MB/s]100%|██████████| 24.9M/24.9M [00:00<00:00, 77.4MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1XdYc4Gp61fNhOSBRiictMv916Mq-9M2j
+To: /tmp/raw/ep2/Copy of Copy of Still_EP2_SEQC_00084.png
+  0%|          | 0.00/24.9M [00:00<?, ?B/s] 27%|██▋       | 6.82M/24.9M [00:00<00:00, 36.6MB/s] 86%|████████▌ | 21.5M/24.9M [00:00<00:00, 71.6MB/s]100%|██████████| 24.9M/24.9M [00:00<00:00, 73.1MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1n2RIdZ3SAbiaCMtz1JIsFPOVaXtXQJMl
+To: /tmp/raw/ep2/Copy of Copy of Still_EP2_SEQC_00089.png
+  0%|          | 0.00/24.9M [00:00<?, ?B/s] 19%|█▉        | 4.72M/24.9M [00:00<00:00, 38.4MB/s] 78%|███████▊  | 19.4M/24.9M [00:00<00:00, 82.7MB/s]100%|██████████| 24.9M/24.9M [00:00<00:00, 84.9MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1GAt_9b9gCMc_cd7_N_G0N2QDRaWvWdns
+To: /tmp/raw/ep2/Copy of Copy of Still_EP2_SEQC_00092.png
+  0%|          | 0.00/24.9M [00:00<?, ?B/s]  8%|▊         | 2.10M/24.9M [00:00<00:01, 18.2MB/s] 40%|███▉      | 9.96M/24.9M [00:00<00:00, 51.5MB/s] 69%|██████▉   | 17.3M/24.9M [00:00<00:00, 58.5MB/s] 95%|█████████▍| 23.6M/24.9M [00:00<00:00, 39.2MB/s]100%|██████████| 24.9M/24.9M [00:00<00:00, 41.0MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1s_8DElWQrj1AGkvbhPk1_pjpajPYc3We
+To: /tmp/raw/ep2/Copy of Copy of Still_EP2_SEQC_00094.png
+  0%|          | 0.00/24.9M [00:00<?, ?B/s] 19%|█▉        | 4.72M/24.9M [00:00<00:00, 30.6MB/s] 78%|███████▊  | 19.4M/24.9M [00:00<00:00, 66.5MB/s]100%|██████████| 24.9M/24.9M [00:00<00:00, 73.9MB/s]
+Download completed
+Copy of Copy of Still_EP2_SEQC_00005.png -> ep2-00005.webp (2200, 1238)
+Copy of Copy of Still_EP2_SEQC_00006.png -> ep2-00006.webp (2200, 1238)
+Copy of Copy of Still_EP2_SEQC_00009.png -> ep2-00009.webp (2200, 1238)
+Copy of Copy of Still_EP2_SEQC_00014.png -> ep2-00014.webp (2200, 1238)
+Copy of Copy of Still_EP2_SEQC_00015.png -> ep2-00015.webp (2200, 1238)
+Copy of Copy of Still_EP2_SEQC_00016.png -> ep2-00016.webp (2200, 1238)
+Copy of Copy of Still_EP2_SEQC_00063.png -> ep2-00063.webp (2200, 1238)
+Copy of Copy of Still_EP2_SEQC_00084.png -> ep2-00084.webp (2200, 1238)
+Copy of Copy of Still_EP2_SEQC_00089.png -> ep2-00089.webp (2200, 1238)
+Copy of Copy of Still_EP2_SEQC_00092.png -> ep2-00092.webp (2200, 1238)
+Copy of Copy of Still_EP2_SEQC_00094.png -> ep2-00094.webp (2200, 1238)
+== ep3 1jz0es3C8OXM1gkIDD2JarGkeW_Mnl5It
+Using cookies from /home/runner/.cache/gdown/cookies.txt
+warning: `--folder` is no longer required for folder URLs and will be removed in a future release
+Retrieving folder contents
+Retrieving folder contents completed
+Building directory structure
+Building directory structure completed
+Downloading...
+From: https://drive.google.com/uc?id=1z-v7SP-UR0NNXsjGLETjoaXE40N-I0Ch
+To: /tmp/raw/ep3/Copy of Copy of Still_EP3_SEQC_00003.png
+Processing file 1z-v7SP-UR0NNXsjGLETjoaXE40N-I0Ch Copy of Copy of Still_EP3_SEQC_00003.png
+Processing file 1ROT-5hJJv87ifqAFga6zJClI8dA4KkiY Copy of Copy of Still_EP3_SEQC_00009.png
+Processing file 1rcQxQptc9eBQNTWcUnxvMpuX_YYCMtOw Copy of Copy of Still_EP3_SEQC_00011.png
+Processing file 166SzNefr8zdqJ25jmj6zZN0Ko4FLo8I7 Copy of Copy of Still_EP3_SEQC_00040.png
+Processing file 1qzwUcHEqdxdzxOIXTIr2Urz8rEFBJ4Q2 Copy of Copy of Still_EP3_SEQC_00049.png
+Processing file 1kDLBNXfPlhLz2cIpeI_AIaG9U5u6I7VC Copy of Copy of Still_EP3_SEQC_00051.png
+Processing file 1_4pXQG6XIvDKL988YdEIdhKjj6wy23S_ Copy of Copy of Still_EP3_SEQC_00060.png
+Processing file 1DufmmvvusxWTrC8BfyKqIfL7QoGgCa24 Copy of Copy of Still_EP3_SEQC_00065.png
+Processing file 1FMTY4ynZE86T_0wkng7MG_wZHyCazVtL Copy of Copy of Still_EP3_SEQC_00067.png
+Processing file 1kfG5h53dEtWgU0gPdWivg-m2bLXDQLOx Copy of Copy of Still_EP3_SEQC_00074.png
+  0%|          | 0.00/24.9M [00:00<?, ?B/s] 11%|█         | 2.62M/24.9M [00:00<00:01, 19.5MB/s] 27%|██▋       | 6.82M/24.9M [00:00<00:00, 25.6MB/s]100%|██████████| 24.9M/24.9M [00:00<00:00, 70.4MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1ROT-5hJJv87ifqAFga6zJClI8dA4KkiY
+To: /tmp/raw/ep3/Copy of Copy of Still_EP3_SEQC_00009.png
+  0%|          | 0.00/24.9M [00:00<?, ?B/s] 36%|███▌      | 8.91M/24.9M [00:00<00:00, 87.1MB/s]100%|██████████| 24.9M/24.9M [00:00<00:00, 139MB/s] 
+Downloading...
+From: https://drive.google.com/uc?id=1rcQxQptc9eBQNTWcUnxvMpuX_YYCMtOw
+To: /tmp/raw/ep3/Copy of Copy of Still_EP3_SEQC_00011.png
+  0%|          | 0.00/24.9M [00:00<?, ?B/s] 11%|█         | 2.62M/24.9M [00:00<00:01, 18.3MB/s] 36%|███▌      | 8.91M/24.9M [00:00<00:00, 32.4MB/s] 86%|████████▌ | 21.5M/24.9M [00:00<00:00, 51.2MB/s]100%|██████████| 24.9M/24.9M [00:00<00:00, 51.1MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=166SzNefr8zdqJ25jmj6zZN0Ko4FLo8I7
+To: /tmp/raw/ep3/Copy of Copy of Still_EP3_SEQC_00040.png
+  0%|          | 0.00/24.9M [00:00<?, ?B/s] 19%|█▉        | 4.72M/24.9M [00:00<00:00, 30.0MB/s] 63%|██████▎   | 15.7M/24.9M [00:00<00:00, 68.1MB/s] 95%|█████████▍| 23.6M/24.9M [00:00<00:00, 58.5MB/s]100%|██████████| 24.9M/24.9M [00:00<00:00, 59.1MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1qzwUcHEqdxdzxOIXTIr2Urz8rEFBJ4Q2
+To: /tmp/raw/ep3/Copy of Copy of Still_EP3_SEQC_00049.png
+  0%|          | 0.00/24.9M [00:00<?, ?B/s]  4%|▍         | 1.05M/24.9M [00:00<00:02, 9.55MB/s] 50%|█████     | 12.6M/24.9M [00:00<00:00, 68.1MB/s]100%|██████████| 24.9M/24.9M [00:00<00:00, 86.7MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1kDLBNXfPlhLz2cIpeI_AIaG9U5u6I7VC
+To: /tmp/raw/ep3/Copy of Copy of Still_EP3_SEQC_00051.png
+  0%|          | 0.00/24.9M [00:00<?, ?B/s]  6%|▋         | 1.57M/24.9M [00:00<00:01, 14.7MB/s] 59%|█████▉    | 14.7M/24.9M [00:00<00:00, 79.5MB/s]100%|██████████| 24.9M/24.9M [00:00<00:00, 90.1MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1_4pXQG6XIvDKL988YdEIdhKjj6wy23S_
+To: /tmp/raw/ep3/Copy of Copy of Still_EP3_SEQC_00060.png
+  0%|          | 0.00/24.9M [00:00<?, ?B/s]  6%|▋         | 1.57M/24.9M [00:00<00:01, 15.1MB/s] 36%|███▌      | 8.91M/24.9M [00:00<00:00, 31.8MB/s] 86%|████████▌ | 21.5M/24.9M [00:00<00:00, 59.6MB/s]100%|██████████| 24.9M/24.9M [00:00<00:00, 55.0MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1DufmmvvusxWTrC8BfyKqIfL7QoGgCa24
+To: /tmp/raw/ep3/Copy of Copy of Still_EP3_SEQC_00065.png
+  0%|          | 0.00/24.9M [00:00<?, ?B/s] 11%|█         | 2.62M/24.9M [00:00<00:01, 16.7MB/s] 27%|██▋       | 6.82M/24.9M [00:00<00:00, 21.9MB/s] 72%|███████▏  | 17.8M/24.9M [00:00<00:00, 51.6MB/s]100%|██████████| 24.9M/24.9M [00:00<00:00, 53.4MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1FMTY4ynZE86T_0wkng7MG_wZHyCazVtL
+To: /tmp/raw/ep3/Copy of Copy of Still_EP3_SEQC_00067.png
+  0%|          | 0.00/24.9M [00:00<?, ?B/s] 17%|█▋        | 4.19M/24.9M [00:00<00:00, 41.6MB/s] 34%|███▎      | 8.39M/24.9M [00:00<00:00, 32.6MB/s] 78%|███████▊  | 19.4M/24.9M [00:00<00:00, 50.3MB/s]100%|██████████| 24.9M/24.9M [00:00<00:00, 56.7MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1kfG5h53dEtWgU0gPdWivg-m2bLXDQLOx
+To: /tmp/raw/ep3/Copy of Copy of Still_EP3_SEQC_00074.png
+  0%|          | 0.00/24.9M [00:00<?, ?B/s] 13%|█▎        | 3.15M/24.9M [00:00<00:00, 30.0MB/s] 46%|████▋     | 11.5M/24.9M [00:00<00:00, 61.0MB/s] 72%|███████▏  | 17.8M/24.9M [00:00<00:00, 59.4MB/s]100%|██████████| 24.9M/24.9M [00:00<00:00, 64.4MB/s]
+Download completed
+Copy of Copy of Still_EP3_SEQC_00003.png -> ep3-00003.webp (2200, 1238)
+Copy of Copy of Still_EP3_SEQC_00009.png -> ep3-00009.webp (2200, 1238)
+Copy of Copy of Still_EP3_SEQC_00011.png -> ep3-00011.webp (2200, 1238)
+Copy of Copy of Still_EP3_SEQC_00040.png -> ep3-00040.webp (2200, 1238)
+Copy of Copy of Still_EP3_SEQC_00049.png -> ep3-00049.webp (2200, 1238)
+Copy of Copy of Still_EP3_SEQC_00051.png -> ep3-00051.webp (2200, 1238)
+Copy of Copy of Still_EP3_SEQC_00060.png -> ep3-00060.webp (2200, 1238)
+Copy of Copy of Still_EP3_SEQC_00065.png -> ep3-00065.webp (2200, 1238)
+Copy of Copy of Still_EP3_SEQC_00067.png -> ep3-00067.webp (2200, 1238)
+Copy of Copy of Still_EP3_SEQC_00074.png -> ep3-00074.webp (2200, 1238)
+== ep4 1WlPUzJEpaFpavw5hwQ7d_zDZCwis4v54
+Using cookies from /home/runner/.cache/gdown/cookies.txt
+warning: `--folder` is no longer required for folder URLs and will be removed in a future release
+Retrieving folder contents
+Retrieving folder contents completed
+Building directory structure
+Building directory structure completed
+Downloading...
+From: https://drive.google.com/uc?id=15Gv5mDoe9UBRiExkQhTFgpKTvSh82BfX
+To: /tmp/raw/ep4/Copy of Copy of Still_EP4_SEQC_00014.png
+Processing file 15Gv5mDoe9UBRiExkQhTFgpKTvSh82BfX Copy of Copy of Still_EP4_SEQC_00014.png
+Processing file 1Cwkum6koS1krSJYYeGV_qSeZ-kvMOkf- Copy of Copy of Still_EP4_SEQC_00019.png
+Processing file 1MJzxXZl6jxqKQYo95tk6EiXJroLRpTP6 Copy of Copy of Still_EP4_SEQC_00021.png
+Processing file 1_ti84QxLRp_nXZCOJyJiGyGxX_a3l0BL Copy of Copy of Still_EP4_SEQC_00052.png
+Processing file 1-Vh9L_Obi4S6K09URnp71-8VE7apQ00Q Copy of Copy of Still_EP4_SEQC_00057.png
+Processing file 12t_j6RO9aiBaDrXqZ_ttgKxxmkP9jaOv Copy of Copy of Still_EP4_SEQC_00059.png
+Processing file 1wrHm7hyTsWUMhDhptsH7srnOdyQaF0A6 Copy of Copy of Still_EP4_SEQC_00062.png
+Processing file 1HzTCE8y4Ee28n00yas5IwSiuuB_nrmyZ Copy of Copy of Still_EP4_SEQC_00063.png
+  0%|          | 0.00/24.9M [00:00<?, ?B/s] 19%|█▉        | 4.72M/24.9M [00:00<00:00, 36.7MB/s] 63%|██████▎   | 15.7M/24.9M [00:00<00:00, 75.3MB/s] 97%|█████████▋| 24.1M/24.9M [00:00<00:00, 71.5MB/s]100%|██████████| 24.9M/24.9M [00:00<00:00, 69.6MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1Cwkum6koS1krSJYYeGV_qSeZ-kvMOkf-
+To: /tmp/raw/ep4/Copy of Copy of Still_EP4_SEQC_00019.png
+  0%|          | 0.00/24.9M [00:00<?, ?B/s] 13%|█▎        | 3.15M/24.9M [00:00<00:00, 30.3MB/s] 46%|████▋     | 11.5M/24.9M [00:00<00:00, 60.9MB/s] 78%|███████▊  | 19.4M/24.9M [00:00<00:00, 63.7MB/s]100%|██████████| 24.9M/24.9M [00:00<00:00, 72.0MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1MJzxXZl6jxqKQYo95tk6EiXJroLRpTP6
+To: /tmp/raw/ep4/Copy of Copy of Still_EP4_SEQC_00021.png
+  0%|          | 0.00/24.9M [00:00<?, ?B/s] 27%|██▋       | 6.82M/24.9M [00:00<00:00, 63.7MB/s] 55%|█████▍    | 13.6M/24.9M [00:00<00:00, 65.2MB/s]100%|██████████| 24.9M/24.9M [00:00<00:00, 96.3MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1_ti84QxLRp_nXZCOJyJiGyGxX_a3l0BL
+To: /tmp/raw/ep4/Copy of Copy of Still_EP4_SEQC_00052.png
+  0%|          | 0.00/24.9M [00:00<?, ?B/s] 19%|█▉        | 4.72M/24.9M [00:00<00:00, 38.8MB/s] 67%|██████▋   | 16.8M/24.9M [00:00<00:00, 81.1MB/s]100%|██████████| 24.9M/24.9M [00:00<00:00, 96.2MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1-Vh9L_Obi4S6K09URnp71-8VE7apQ00Q
+To: /tmp/raw/ep4/Copy of Copy of Still_EP4_SEQC_00057.png
+  0%|          | 0.00/24.9M [00:00<?, ?B/s] 13%|█▎        | 3.15M/24.9M [00:00<00:00, 30.7MB/s] 42%|████▏     | 10.5M/24.9M [00:00<00:00, 54.3MB/s] 95%|█████████▍| 23.6M/24.9M [00:00<00:00, 77.0MB/s]100%|██████████| 24.9M/24.9M [00:00<00:00, 72.4MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=12t_j6RO9aiBaDrXqZ_ttgKxxmkP9jaOv
+To: /tmp/raw/ep4/Copy of Copy of Still_EP4_SEQC_00059.png
+  0%|          | 0.00/24.9M [00:00<?, ?B/s]  6%|▋         | 1.57M/24.9M [00:00<00:01, 14.5MB/s] 27%|██▋       | 6.82M/24.9M [00:00<00:00, 26.9MB/s] 69%|██████▉   | 17.3M/24.9M [00:00<00:00, 52.3MB/s]100%|██████████| 24.9M/24.9M [00:00<00:00, 55.9MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1wrHm7hyTsWUMhDhptsH7srnOdyQaF0A6
+To: /tmp/raw/ep4/Copy of Copy of Still_EP4_SEQC_00062.png
+  0%|          | 0.00/24.9M [00:00<?, ?B/s] 27%|██▋       | 6.82M/24.9M [00:00<00:00, 40.3MB/s] 86%|████████▌ | 21.5M/24.9M [00:00<00:00, 71.1MB/s]100%|██████████| 24.9M/24.9M [00:00<00:00, 73.7MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1HzTCE8y4Ee28n00yas5IwSiuuB_nrmyZ
+To: /tmp/raw/ep4/Copy of Copy of Still_EP4_SEQC_00063.png
+  0%|          | 0.00/24.9M [00:00<?, ?B/s] 11%|█         | 2.62M/24.9M [00:00<00:00, 24.5MB/s] 27%|██▋       | 6.82M/24.9M [00:00<00:00, 31.3MB/s] 65%|██████▌   | 16.3M/24.9M [00:00<00:00, 57.1MB/s]100%|██████████| 24.9M/24.9M [00:00<00:00, 67.5MB/s]
+Download completed
+Copy of Copy of Still_EP4_SEQC_00014.png -> ep4-00014.webp (2200, 1238)
+Copy of Copy of Still_EP4_SEQC_00019.png -> ep4-00019.webp (2200, 1238)
+Copy of Copy of Still_EP4_SEQC_00021.png -> ep4-00021.webp (2200, 1238)
+Copy of Copy of Still_EP4_SEQC_00052.png -> ep4-00052.webp (2200, 1238)
+Copy of Copy of Still_EP4_SEQC_00057.png -> ep4-00057.webp (2200, 1238)
+Copy of Copy of Still_EP4_SEQC_00059.png -> ep4-00059.webp (2200, 1238)
+Copy of Copy of Still_EP4_SEQC_00062.png -> ep4-00062.webp (2200, 1238)
+Copy of Copy of Still_EP4_SEQC_00063.png -> ep4-00063.webp (2200, 1238)
+== ep5 1Fegwav2X9SMCdv_aaWyZIx_EtTcTLuku
+Using cookies from /home/runner/.cache/gdown/cookies.txt
+warning: `--folder` is no longer required for folder URLs and will be removed in a future release
+Retrieving folder contents
+Retrieving folder contents completed
+Building directory structure
+Building directory structure completed
+Downloading...
+From: https://drive.google.com/uc?id=18k-5FrrWJmTxDlp_NRrJr4mqeqDjgOAb
+To: /tmp/raw/ep5/Copy of Copy of Still_EP5_SEQC_00025.png
+Processing file 18k-5FrrWJmTxDlp_NRrJr4mqeqDjgOAb Copy of Copy of Still_EP5_SEQC_00025.png
+Processing file 16ld1o4lEJLWxg5YFQMSbWSysluINEPKJ Copy of Copy of Still_EP5_SEQC_00026.png
+Processing file 1m69MKZObfPH3KC7E-57HpRlA8-97qOre Copy of Copy of Still_EP5_SEQC_00039.png
+Processing file 1DzILeri70Tz0vZKwFrkZJTTwQWYcm0Ji Copy of Copy of Still_EP5_SEQC_00062.png
+  0%|          | 0.00/24.9M [00:00<?, ?B/s]  6%|▋         | 1.57M/24.9M [00:00<00:01, 15.5MB/s] 48%|████▊     | 12.1M/24.9M [00:00<00:00, 65.1MB/s]100%|██████████| 24.9M/24.9M [00:00<00:00, 85.3MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=16ld1o4lEJLWxg5YFQMSbWSysluINEPKJ
+To: /tmp/raw/ep5/Copy of Copy of Still_EP5_SEQC_00026.png
+  0%|          | 0.00/24.9M [00:00<?, ?B/s] 11%|█         | 2.62M/24.9M [00:00<00:01, 19.9MB/s] 27%|██▋       | 6.82M/24.9M [00:00<00:00, 29.3MB/s] 95%|█████████▍| 23.6M/24.9M [00:00<00:00, 75.4MB/s]100%|██████████| 24.9M/24.9M [00:00<00:00, 65.2MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1m69MKZObfPH3KC7E-57HpRlA8-97qOre
+To: /tmp/raw/ep5/Copy of Copy of Still_EP5_SEQC_00039.png
+  0%|          | 0.00/24.9M [00:00<?, ?B/s] 11%|█         | 2.62M/24.9M [00:00<00:00, 22.4MB/s] 27%|██▋       | 6.82M/24.9M [00:00<00:00, 25.4MB/s] 82%|████████▏ | 20.4M/24.9M [00:00<00:00, 66.2MB/s]100%|██████████| 24.9M/24.9M [00:00<00:00, 51.4MB/s]
+Downloading...
+From: https://drive.google.com/uc?id=1DzILeri70Tz0vZKwFrkZJTTwQWYcm0Ji
+To: /tmp/raw/ep5/Copy of Copy of Still_EP5_SEQC_00062.png
+  0%|          | 0.00/24.9M [00:00<?, ?B/s] 40%|███▉      | 9.96M/24.9M [00:00<00:00, 97.4MB/s]100%|██████████| 24.9M/24.9M [00:00<00:00, 155MB/s] 
+Download completed
+Copy of Copy of Still_EP5_SEQC_00025.png -> ep5-00025.webp (2200, 1238)
+Copy of Copy of Still_EP5_SEQC_00026.png -> ep5-00026.webp (2200, 1238)
+Copy of Copy of Still_EP5_SEQC_00039.png -> ep5-00039.webp (2200, 1238)
+Copy of Copy of Still_EP5_SEQC_00062.png -> ep5-00062.webp (2200, 1238)
+import/choro/ep1/ep1-00001.webp
+import/choro/ep1/ep1-00009.webp
+import/choro/ep1/ep1-00011.webp
+import/choro/ep1/ep1-00019.webp
+import/choro/ep1/ep1-00027.webp
+import/choro/ep1/ep1-00029.webp
+import/choro/ep1/ep1-00038.webp
+import/choro/ep1/ep1-00039.webp
+import/choro/ep1/ep1-00052.webp
+import/choro/ep1/ep1-00053.webp
+import/choro/ep1/ep1-00056.webp
+import/choro/ep1/ep1-00072.webp
+import/choro/ep2/ep2-00005.webp
+import/choro/ep2/ep2-00006.webp
+import/choro/ep2/ep2-00009.webp
+import/choro/ep2/ep2-00014.webp
+import/choro/ep2/ep2-00015.webp
+import/choro/ep2/ep2-00016.webp
+import/choro/ep2/ep2-00063.webp
+import/choro/ep2/ep2-00084.webp
+import/choro/ep2/ep2-00089.webp
+import/choro/ep2/ep2-00092.webp
+import/choro/ep2/ep2-00094.webp
+import/choro/ep3/ep3-00003.webp
+import/choro/ep3/ep3-00009.webp
+import/choro/ep3/ep3-00011.webp
+import/choro/ep3/ep3-00040.webp
+import/choro/ep3/ep3-00049.webp
+import/choro/ep3/ep3-00051.webp
+import/choro/ep3/ep3-00060.webp
+import/choro/ep3/ep3-00065.webp
+import/choro/ep3/ep3-00067.webp
+import/choro/ep3/ep3-00074.webp
+import/choro/ep4/ep4-00014.webp
+import/choro/ep4/ep4-00019.webp
+import/choro/ep4/ep4-00021.webp
+import/choro/ep4/ep4-00052.webp
+import/choro/ep4/ep4-00057.webp
+import/choro/ep4/ep4-00059.webp
+import/choro/ep4/ep4-00062.webp
+import/choro/ep4/ep4-00063.webp
+import/choro/ep5/ep5-00025.webp
+import/choro/ep5/ep5-00026.webp
+import/choro/ep5/ep5-00039.webp
+import/choro/ep5/ep5-00062.webp
